@@ -1,0 +1,1201 @@
+ID,State,City,Locality,Property_Type,BHK,Size_in_SqFt,Price_in_Lakhs,Price_per_SqFt,Year_Built,Furnished_Status,Floor_No,Total_Floors,Age_of_Property,Nearby_Schools,Nearby_Hospitals,Public_Transport_Accessibility,Parking_Space,Security,Amenities,Facing,Owner_Type,Availability_Status
+1,Telangana,Hyderabad,Locality C,Independent House,3,1360,118.02,8678.15,2008,Unfurnished,4,12,17,5,7,2,2,None,Clubhouse,South,Individual,Under Construction
+2,Telangana,Hyderabad,Locality A,Apartment,2,3985,202.87,5090.95,2011,Fully-Furnished,10,20,14,5,1,4,0,Guard,Pool,South,Agent,Under Construction
+3,Delhi,New Delhi,Locality A,Independent House,4,2399,181.23,7554.49,1996,Semi-Furnished,4,18,29,3,5,3,0,CCTV,Pool,North,Builder,Ready to Move
+4,Karnataka,Mysore,Locality B,Villa,4,2639,124.88,4732.23,2006,Semi-Furnished,10,8,19,8,3,2,1,CCTV,Gym,East,Builder,Under Construction
+5,Telangana,Hyderabad,Locality B,Independent House,2,661,61.93,9368.96,2010,Unfurnished,13,13,15,8,7,4,0,Gated,Clubhouse,North,Individual,Ready to Move
+6,Maharashtra,Mumbai,Locality A,Villa,3,2527,131.23,5193.05,2022,Fully-Furnished,9,11,3,8,3,3,2,Gated,None,West,Builder,Ready to Move
+7,Tamil Nadu,Chennai,Locality A,Apartment,3,3231,238.04,7367.46,2003,Semi-Furnished,14,11,22,3,5,3,2,Guard,Gym,East,Agent,Under Construction
+8,Karnataka,Mysore,Locality A,Independent House,3,1984,83.1,4188.58,2021,Fully-Furnished,13,19,4,7,1,4,1,Guard,Gym,West,Individual,Under Construction
+9,Delhi,New Delhi,Locality B,Independent House,4,3814,365.31,9578.19,2017,Semi-Furnished,7,5,8,9,5,2,1,Gated,Gym,East,Builder,Ready to Move
+10,Telangana,Hyderabad,Locality A,Apartment,1,1472,85.8,5828.69,1998,Fully-Furnished,10,16,27,6,8,3,1,None,Clubhouse,East,Builder,Under Construction
+11,Maharashtra,Mumbai,Locality A,Villa,1,2353,129.97,5523.49,2006,Semi-Furnished,5,5,19,7,2,3,2,Gated,Clubhouse,South,Builder,Ready to Move
+12,Telangana,Hyderabad,Locality B,Villa,4,3277,146.98,4485.12,2013,Semi-Furnished,11,20,12,8,1,3,0,None,Gym,North,Agent,Under Construction
+13,Tamil Nadu,Chennai,Locality A,Apartment,4,1159,93.48,8065.39,2008,Fully-Furnished,18,12,17,3,3,3,2,Gated,Clubhouse,West,Individual,Ready to Move
+14,Karnataka,Bangalore,Locality B,Apartment,2,1938,107.51,5547.65,1991,Unfurnished,9,13,34,9,4,4,0,Guard,Clubhouse,West,Agent,Under Construction
+15,Maharashtra,Nagpur,Locality A,Apartment,4,2148,201.73,9391.33,2014,Semi-Furnished,14,22,11,4,3,4,2,CCTV,Pool,East,Individual,Ready to Move
+16,Telangana,Hyderabad,Locality C,Apartment,4,660,35.8,5423.49,1997,Unfurnished,16,16,28,5,4,4,2,Guard,Clubhouse,South,Agent,Under Construction
+17,Tamil Nadu,Chennai,Locality A,Independent House,3,2985,197.2,6606.37,2022,Fully-Furnished,17,21,3,5,1,4,0,None,None,South,Individual,Under Construction
+18,Tamil Nadu,Coimbatore,Locality A,Independent House,4,2646,108.29,4092.74,2020,Unfurnished,1,7,5,8,1,2,2,None,Pool,North,Builder,Ready to Move
+19,Karnataka,Bangalore,Locality B,Villa,2,2395,184.18,7690.04,2016,Unfurnished,8,5,9,6,7,2,1,Gated,Clubhouse,South,Agent,Ready to Move
+20,Karnataka,Bangalore,Locality B,Villa,3,1037,57.42,5537.24,2009,Fully-Furnished,15,6,16,8,7,1,0,CCTV,None,East,Agent,Under Construction
+21,Delhi,New Delhi,Locality B,Independent House,5,1074,97.02,9033.6,1995,Unfurnished,1,12,30,6,1,4,2,Gated,None,West,Individual,Ready to Move
+22,Telangana,Hyderabad,Locality B,Villa,5,1273,65.77,5166.28,2005,Semi-Furnished,19,21,20,3,7,4,0,None,Clubhouse,East,Builder,Ready to Move
+23,Karnataka,Bangalore,Locality B,Apartment,1,616,50.09,8131.0,2023,Unfurnished,1,20,2,1,1,3,1,Gated,Clubhouse,West,Agent,Ready to Move
+24,Tamil Nadu,Chennai,Locality A,Independent House,2,3647,223.77,6135.84,2018,Unfurnished,14,24,7,5,6,1,1,Gated,None,West,Builder,Under Construction
+25,Tamil Nadu,Chennai,Locality A,Villa,1,2135,144.92,6788.04,1999,Fully-Furnished,10,23,26,5,7,2,1,CCTV,None,North,Individual,Ready to Move
+26,Telangana,Hyderabad,Locality A,Independent House,2,3587,149.19,4159.07,2022,Fully-Furnished,5,16,3,4,8,4,0,Guard,Gym,North,Builder,Ready to Move
+27,Telangana,Hyderabad,Locality B,Apartment,5,784,41.45,5287.53,2012,Semi-Furnished,10,6,13,2,3,2,0,Guard,Gym,East,Builder,Ready to Move
+28,Karnataka,Bangalore,Locality A,Independent House,5,3646,154.41,4235.12,1999,Unfurnished,3,20,26,9,5,1,0,None,Pool,North,Agent,Under Construction
+29,Tamil Nadu,Coimbatore,Locality B,Apartment,5,3940,332.51,8439.45,2006,Semi-Furnished,13,23,19,3,9,2,0,Gated,None,West,Individual,Ready to Move
+30,Delhi,New Delhi,Locality A,Independent House,1,575,34.02,5915.88,2005,Unfurnished,4,20,20,4,3,2,0,Gated,Clubhouse,North,Individual,Under Construction
+31,Karnataka,Bangalore,Locality B,Villa,2,2945,195.82,6649.18,2001,Unfurnished,6,11,24,7,2,3,0,CCTV,Gym,West,Builder,Ready to Move
+32,Karnataka,Bangalore,Locality A,Villa,2,3181,142.77,4488.09,1997,Unfurnished,7,17,28,5,6,3,0,None,None,South,Agent,Ready to Move
+33,Tamil Nadu,Coimbatore,Locality A,Villa,3,1705,93.64,5492.34,1992,Semi-Furnished,8,13,33,3,7,2,0,Guard,Gym,East,Individual,Under Construction
+34,Maharashtra,Nagpur,Locality A,Apartment,1,2031,91.34,4497.35,1995,Unfurnished,15,20,30,1,6,1,1,CCTV,Gym,East,Individual,Under Construction
+35,Delhi,New Delhi,Locality A,Apartment,4,2182,97.16,4452.61,2004,Semi-Furnished,3,20,21,9,1,2,2,Guard,Gym,East,Builder,Under Construction
+36,Telangana,Hyderabad,Locality A,Independent House,4,3979,239.3,6013.96,2017,Semi-Furnished,17,13,8,4,8,2,0,Gated,Gym,West,Individual,Under Construction
+37,Tamil Nadu,Chennai,Locality A,Villa,3,2081,185.94,8935.22,1994,Semi-Furnished,18,17,31,2,3,4,2,Gated,Clubhouse,West,Individual,Under Construction
+38,Maharashtra,Pune,Locality A,Apartment,1,723,45.26,6260.43,2016,Semi-Furnished,9,7,9,9,6,3,0,Guard,Gym,North,Agent,Under Construction
+39,Telangana,Hyderabad,Locality A,Apartment,5,2500,249.96,9998.31,2012,Semi-Furnished,10,23,13,6,3,1,0,Gated,Gym,South,Individual,Under Construction
+40,Maharashtra,Nagpur,Locality C,Independent House,5,1184,62.08,5243.37,2021,Semi-Furnished,2,7,4,1,1,4,1,Guard,Pool,West,Individual,Under Construction
+41,Telangana,Hyderabad,Locality C,Independent House,3,888,57.02,6420.9,2003,Fully-Furnished,6,6,22,7,5,1,1,CCTV,Pool,South,Builder,Under Construction
+42,Delhi,New Delhi,Locality C,Villa,2,2982,181.59,6089.53,2004,Fully-Furnished,17,9,21,6,1,4,1,Gated,None,South,Individual,Under Construction
+43,Maharashtra,Mumbai,Locality C,Villa,5,3093,188.19,6084.48,2005,Unfurnished,3,7,20,3,9,3,2,Guard,Gym,West,Builder,Ready to Move
+44,Karnataka,Bangalore,Locality A,Villa,5,3974,199.24,5013.61,1990,Semi-Furnished,2,21,35,6,5,2,0,CCTV,Pool,North,Agent,Ready to Move
+45,Karnataka,Bangalore,Locality C,Apartment,1,2594,210.81,8126.71,1990,Fully-Furnished,15,18,35,8,1,2,0,CCTV,None,East,Builder,Under Construction
+46,Karnataka,Bangalore,Locality C,Independent House,3,3213,177.18,5514.62,2012,Unfurnished,18,10,13,7,3,3,1,Guard,Clubhouse,East,Individual,Ready to Move
+47,Tamil Nadu,Coimbatore,Locality B,Independent House,1,1213,109.71,9044.26,2002,Unfurnished,13,22,23,6,9,1,0,Guard,None,East,Builder,Under Construction
+48,Maharashtra,Nagpur,Locality A,Apartment,5,2972,183.62,6178.49,1995,Unfurnished,6,10,30,2,8,3,0,Guard,None,West,Builder,Ready to Move
+49,Maharashtra,Nagpur,Locality B,Independent House,3,3446,141.61,4109.45,2020,Fully-Furnished,6,21,5,5,4,4,1,CCTV,None,South,Agent,Under Construction
+50,Maharashtra,Pune,Locality C,Apartment,3,1346,100.0,7429.68,2015,Unfurnished,12,19,10,3,5,2,1,Gated,Pool,South,Builder,Ready to Move
+51,Delhi,New Delhi,Locality C,Villa,3,3392,256.55,7563.3,1999,Semi-Furnished,13,12,26,6,2,4,0,CCTV,None,North,Agent,Ready to Move
+52,Maharashtra,Mumbai,Locality A,Apartment,3,3324,227.33,6839.0,2019,Semi-Furnished,12,22,6,6,7,3,2,CCTV,Gym,West,Agent,Ready to Move
+53,Karnataka,Mysore,Locality C,Apartment,1,2070,174.85,8446.72,2003,Unfurnished,5,23,22,6,8,3,1,Guard,Pool,South,Builder,Under Construction
+54,Maharashtra,Mumbai,Locality A,Villa,1,1565,126.73,8097.89,2003,Unfurnished,15,5,22,8,7,4,2,Gated,Gym,North,Agent,Ready to Move
+55,Karnataka,Mysore,Locality B,Independent House,3,1320,95.79,7257.1,1996,Fully-Furnished,1,24,29,6,6,3,2,CCTV,Clubhouse,East,Individual,Under Construction
+56,Maharashtra,Mumbai,Locality A,Independent House,5,3568,309.4,8671.43,1991,Semi-Furnished,1,10,34,1,4,2,1,Gated,Clubhouse,East,Individual,Under Construction
+57,Telangana,Hyderabad,Locality C,Villa,5,2562,185.47,7239.16,2020,Fully-Furnished,5,24,5,4,2,3,2,Guard,Pool,South,Builder,Under Construction
+58,Karnataka,Mysore,Locality C,Apartment,4,862,81.64,9471.11,2022,Unfurnished,8,14,3,8,2,1,2,Gated,None,East,Builder,Ready to Move
+59,Delhi,New Delhi,Locality B,Villa,1,3600,343.92,9553.41,2010,Fully-Furnished,1,23,15,7,1,2,1,None,Clubhouse,North,Agent,Ready to Move
+60,Tamil Nadu,Chennai,Locality C,Villa,4,701,61.17,8726.74,2014,Semi-Furnished,7,22,11,9,3,3,1,Guard,Pool,East,Individual,Under Construction
+61,Delhi,New Delhi,Locality A,Apartment,4,1454,137.79,9476.5,1996,Unfurnished,11,22,29,6,8,1,1,Gated,Gym,East,Individual,Under Construction
+62,Maharashtra,Mumbai,Locality B,Independent House,4,647,46.65,7210.42,1990,Fully-Furnished,19,21,35,8,1,3,0,Gated,Gym,South,Agent,Under Construction
+63,Maharashtra,Pune,Locality A,Independent House,2,1894,135.35,7146.34,1993,Fully-Furnished,3,14,32,1,2,2,0,CCTV,Clubhouse,South,Builder,Under Construction
+64,Maharashtra,Nagpur,Locality C,Independent House,4,554,50.07,9038.73,1992,Unfurnished,8,19,33,7,8,1,2,Gated,Clubhouse,East,Individual,Under Construction
+65,Karnataka,Bangalore,Locality C,Independent House,3,2643,258.38,9775.9,2010,Semi-Furnished,7,14,15,4,5,2,1,Guard,Gym,East,Individual,Ready to Move
+66,Tamil Nadu,Chennai,Locality B,Independent House,5,2071,135.21,6528.55,1994,Semi-Furnished,3,16,31,2,1,3,2,None,Gym,North,Builder,Under Construction
+67,Maharashtra,Pune,Locality C,Villa,4,1576,83.8,5317.06,1999,Fully-Furnished,17,22,26,6,8,1,1,Guard,Gym,South,Individual,Under Construction
+68,Karnataka,Bangalore,Locality B,Apartment,1,1804,87.24,4836.14,2000,Semi-Furnished,4,13,25,4,2,3,1,CCTV,Pool,North,Individual,Ready to Move
+69,Karnataka,Mysore,Locality B,Apartment,5,2122,86.28,4065.97,1995,Unfurnished,7,14,30,5,9,3,2,Gated,Gym,South,Individual,Under Construction
+70,Karnataka,Mysore,Locality A,Independent House,2,2099,104.9,4997.7,2015,Fully-Furnished,4,21,10,1,3,1,0,Guard,Clubhouse,West,Agent,Under Construction
+71,Karnataka,Bangalore,Locality C,Apartment,5,3170,218.81,6902.53,2006,Fully-Furnished,2,13,19,4,4,3,1,CCTV,Pool,North,Individual,Ready to Move
+72,Maharashtra,Mumbai,Locality A,Independent House,5,1740,141.47,8130.41,1992,Semi-Furnished,6,6,33,9,7,3,1,None,Clubhouse,North,Agent,Ready to Move
+73,Maharashtra,Mumbai,Locality A,Apartment,2,1540,125.41,8143.36,1997,Fully-Furnished,5,20,28,1,8,3,2,CCTV,None,North,Builder,Ready to Move
+74,Telangana,Hyderabad,Locality B,Villa,5,988,79.23,8019.5,2015,Fully-Furnished,14,19,10,7,1,3,0,Gated,Clubhouse,North,Agent,Under Construction
+75,Karnataka,Bangalore,Locality B,Independent House,5,1226,83.92,6845.29,2007,Unfurnished,14,7,18,4,7,3,2,None,None,North,Builder,Ready to Move
+76,Tamil Nadu,Chennai,Locality B,Apartment,2,3483,290.78,8348.6,1993,Unfurnished,18,5,32,7,8,1,0,None,Gym,South,Builder,Under Construction
+77,Delhi,New Delhi,Locality C,Independent House,2,3741,154.41,4127.62,2021,Semi-Furnished,17,16,4,7,2,4,2,Gated,None,West,Agent,Ready to Move
+78,Karnataka,Mysore,Locality B,Villa,4,1420,119.64,8425.49,2003,Semi-Furnished,5,20,22,1,3,1,1,Gated,Gym,South,Agent,Ready to Move
+79,Maharashtra,Mumbai,Locality C,Villa,4,3915,207.87,5309.52,1995,Fully-Furnished,13,6,30,5,5,3,2,Gated,Clubhouse,West,Agent,Under Construction
+80,Telangana,Hyderabad,Locality A,Apartment,5,1833,164.67,8983.86,1992,Semi-Furnished,15,21,33,2,9,2,1,Gated,Clubhouse,West,Builder,Ready to Move
+81,Tamil Nadu,Chennai,Locality B,Apartment,2,2966,206.05,6947.12,2021,Unfurnished,15,13,4,1,8,3,2,None,Pool,North,Builder,Ready to Move
+82,Maharashtra,Nagpur,Locality A,Independent House,4,3182,218.29,6860.06,2001,Unfurnished,5,15,24,3,9,2,1,Guard,Pool,West,Agent,Under Construction
+83,Delhi,New Delhi,Locality A,Villa,2,1699,122.25,7195.62,2006,Unfurnished,19,7,19,5,5,1,1,None,None,South,Agent,Ready to Move
+84,Tamil Nadu,Chennai,Locality B,Independent House,3,1785,164.38,9208.96,2014,Fully-Furnished,6,11,11,1,9,1,0,Gated,Clubhouse,North,Builder,Ready to Move
+85,Delhi,New Delhi,Locality B,Apartment,2,1554,74.18,4773.22,2007,Unfurnished,12,11,18,5,7,3,1,CCTV,None,North,Builder,Ready to Move
+86,Maharashtra,Mumbai,Locality B,Independent House,2,2564,200.1,7804.03,1995,Semi-Furnished,9,6,30,8,3,4,2,Guard,None,West,Agent,Under Construction
+87,Tamil Nadu,Chennai,Locality B,Apartment,4,777,39.18,5042.52,2016,Semi-Furnished,1,22,9,4,2,4,0,CCTV,Pool,West,Agent,Ready to Move
+88,Telangana,Hyderabad,Locality C,Villa,3,1262,95.49,7566.38,2004,Fully-Furnished,2,18,21,7,1,2,2,CCTV,Gym,West,Individual,Ready to Move
+89,Tamil Nadu,Chennai,Locality C,Independent House,5,538,43.91,8162.09,2003,Fully-Furnished,17,16,22,4,2,3,1,None,None,North,Individual,Ready to Move
+90,Tamil Nadu,Chennai,Locality A,Independent House,3,583,32.91,5645.29,2004,Unfurnished,12,22,21,3,1,2,1,Guard,None,West,Agent,Under Construction
+91,Telangana,Hyderabad,Locality B,Independent House,1,2977,274.23,9211.74,2016,Fully-Furnished,12,7,9,5,8,3,1,None,Pool,East,Individual,Under Construction
+92,Maharashtra,Pune,Locality A,Apartment,4,1759,115.77,6581.84,2011,Semi-Furnished,8,15,14,6,9,4,1,None,Gym,North,Individual,Under Construction
+93,Karnataka,Mysore,Locality B,Independent House,3,1106,90.36,8169.89,1997,Unfurnished,17,16,28,1,6,1,2,Gated,Pool,West,Agent,Under Construction
+94,Telangana,Hyderabad,Locality A,Apartment,2,3220,278.69,8654.83,2022,Semi-Furnished,1,17,3,2,1,2,0,None,Pool,South,Agent,Under Construction
+95,Karnataka,Mysore,Locality C,Independent House,2,2669,238.31,8928.64,2000,Semi-Furnished,9,10,25,7,1,4,0,Gated,Clubhouse,East,Individual,Under Construction
+96,Telangana,Hyderabad,Locality B,Villa,2,1787,138.53,7751.83,2009,Semi-Furnished,3,13,16,4,7,3,1,None,Pool,South,Agent,Under Construction
+97,Telangana,Hyderabad,Locality C,Apartment,4,2634,130.57,4957.27,1997,Fully-Furnished,19,16,28,3,3,3,0,CCTV,Pool,South,Agent,Under Construction
+98,Tamil Nadu,Coimbatore,Locality C,Independent House,1,811,56.44,6959.66,2018,Unfurnished,7,16,7,3,3,1,1,Gated,Pool,North,Agent,Under Construction
+99,Tamil Nadu,Coimbatore,Locality B,Apartment,5,903,54.86,6075.61,2021,Semi-Furnished,4,6,4,4,8,2,0,Guard,Pool,West,Builder,Ready to Move
+100,Karnataka,Bangalore,Locality A,Independent House,2,1894,179.44,9474.18,2010,Semi-Furnished,8,8,15,3,2,4,2,None,Pool,East,Builder,Under Construction
+101,Karnataka,Bangalore,Locality A,Villa,5,2840,125.38,4414.8,2003,Fully-Furnished,6,21,22,9,6,4,2,Guard,Gym,North,Builder,Ready to Move
+102,Tamil Nadu,Chennai,Locality C,Independent House,1,2546,220.0,8640.84,2012,Semi-Furnished,3,18,13,8,4,1,2,None,Pool,North,Builder,Under Construction
+103,Maharashtra,Mumbai,Locality C,Apartment,4,2680,201.73,7527.31,2009,Fully-Furnished,5,16,16,1,9,4,0,Gated,Gym,North,Agent,Ready to Move
+104,Telangana,Hyderabad,Locality A,Apartment,5,1774,74.6,4205.13,2009,Fully-Furnished,3,10,16,2,9,3,1,Gated,Gym,East,Individual,Ready to Move
+105,Maharashtra,Nagpur,Locality B,Apartment,4,1729,84.55,4890.06,2023,Unfurnished,7,19,2,5,2,4,0,Guard,Pool,East,Builder,Under Construction
+106,Tamil Nadu,Coimbatore,Locality C,Apartment,2,1859,96.87,5211.12,2010,Semi-Furnished,5,19,15,7,8,2,0,CCTV,Clubhouse,South,Individual,Ready to Move
+107,Karnataka,Bangalore,Locality A,Villa,2,2493,136.24,5464.88,2001,Unfurnished,1,23,24,8,8,1,2,Guard,None,South,Individual,Under Construction
+108,Tamil Nadu,Chennai,Locality A,Apartment,2,3791,378.97,9996.48,2014,Unfurnished,9,15,11,6,9,1,0,None,Pool,North,Builder,Under Construction
+109,Telangana,Hyderabad,Locality C,Apartment,3,2137,189.06,8847.08,2008,Semi-Furnished,7,19,17,2,9,3,0,Gated,None,South,Agent,Ready to Move
+110,Tamil Nadu,Chennai,Locality C,Villa,5,3375,225.86,6692.16,2015,Semi-Furnished,10,6,10,1,1,3,2,CCTV,Gym,East,Individual,Under Construction
+111,Karnataka,Mysore,Locality C,Independent House,5,2447,217.36,8882.6,2004,Semi-Furnished,14,22,21,9,5,2,2,None,Clubhouse,East,Individual,Ready to Move
+112,Delhi,New Delhi,Locality A,Villa,5,1514,142.14,9388.18,2004,Fully-Furnished,2,18,21,9,4,3,0,Gated,None,West,Individual,Under Construction
+113,Delhi,New Delhi,Locality A,Villa,4,2192,158.59,7234.97,2002,Fully-Furnished,7,16,23,4,2,2,1,CCTV,Clubhouse,North,Agent,Ready to Move
+114,Maharashtra,Pune,Locality A,Apartment,2,944,89.74,9506.51,1996,Semi-Furnished,15,17,29,4,4,2,1,Guard,Pool,South,Individual,Under Construction
+115,Telangana,Hyderabad,Locality B,Independent House,1,3597,283.43,7879.64,1997,Unfurnished,4,22,28,8,9,1,0,None,Clubhouse,West,Agent,Under Construction
+116,Maharashtra,Pune,Locality C,Apartment,4,1414,69.26,4898.22,2023,Unfurnished,16,9,2,7,2,1,0,Guard,Clubhouse,West,Agent,Under Construction
+117,Delhi,New Delhi,Locality B,Independent House,1,1149,72.91,6345.44,1996,Semi-Furnished,7,13,29,9,9,2,0,Gated,Clubhouse,East,Builder,Ready to Move
+118,Telangana,Hyderabad,Locality A,Apartment,2,1741,164.23,9433.15,2022,Fully-Furnished,6,13,3,4,8,1,2,Guard,None,North,Individual,Under Construction
+119,Karnataka,Mysore,Locality C,Villa,4,3064,165.53,5402.27,1997,Unfurnished,3,10,28,5,8,2,1,CCTV,Clubhouse,West,Builder,Under Construction
+120,Maharashtra,Nagpur,Locality C,Apartment,4,2901,126.51,4360.85,2018,Fully-Furnished,16,14,7,4,5,1,2,CCTV,Pool,North,Agent,Under Construction
+121,Telangana,Hyderabad,Locality A,Villa,4,1156,114.3,9887.42,1994,Unfurnished,6,22,31,3,7,4,0,None,Clubhouse,West,Individual,Ready to Move
+122,Telangana,Hyderabad,Locality A,Villa,2,2023,88.58,4378.65,1991,Fully-Furnished,9,5,34,4,1,3,0,Guard,Clubhouse,West,Builder,Ready to Move
+123,Karnataka,Mysore,Locality A,Villa,3,810,70.61,8717.66,2001,Semi-Furnished,18,17,24,6,5,4,2,Guard,Pool,West,Builder,Under Construction
+124,Delhi,New Delhi,Locality C,Villa,4,3578,318.89,8912.41,2016,Semi-Furnished,18,14,9,5,3,2,1,Gated,Pool,North,Individual,Under Construction
+125,Maharashtra,Nagpur,Locality A,Apartment,1,2305,176.04,7637.52,1995,Semi-Furnished,8,6,30,6,4,3,0,None,Gym,East,Individual,Under Construction
+126,Telangana,Hyderabad,Locality C,Villa,4,627,36.81,5870.9,1995,Semi-Furnished,19,23,30,4,2,1,0,Gated,Clubhouse,South,Builder,Ready to Move
+127,Karnataka,Mysore,Locality A,Apartment,5,1189,91.75,7716.99,1998,Semi-Furnished,14,23,27,9,7,3,2,Guard,None,West,Individual,Under Construction
+128,Telangana,Hyderabad,Locality B,Villa,1,2138,115.36,5395.87,1996,Fully-Furnished,5,9,29,4,4,4,2,CCTV,Clubhouse,South,Builder,Ready to Move
+129,Tamil Nadu,Coimbatore,Locality A,Villa,5,1241,106.25,8561.74,1990,Semi-Furnished,13,22,35,8,7,1,0,Gated,Gym,West,Individual,Ready to Move
+130,Maharashtra,Nagpur,Locality B,Independent House,5,1202,108.98,9066.14,1993,Unfurnished,6,14,32,7,5,2,1,Gated,Pool,North,Individual,Ready to Move
+131,Maharashtra,Mumbai,Locality C,Villa,1,924,81.8,8853.3,2010,Fully-Furnished,8,21,15,1,2,2,2,Guard,Gym,West,Agent,Under Construction
+132,Tamil Nadu,Chennai,Locality C,Independent House,4,3128,221.25,7073.33,1997,Unfurnished,13,23,28,5,8,1,0,None,Clubhouse,West,Individual,Ready to Move
+133,Telangana,Hyderabad,Locality C,Independent House,2,2824,191.23,6771.68,2008,Fully-Furnished,5,9,17,4,4,3,2,CCTV,Pool,West,Builder,Under Construction
+134,Telangana,Hyderabad,Locality A,Apartment,1,3908,385.17,9855.95,1993,Unfurnished,18,14,32,2,3,1,1,Gated,None,West,Agent,Under Construction
+135,Karnataka,Mysore,Locality A,Apartment,5,1280,121.88,9521.78,2007,Fully-Furnished,14,22,18,2,1,4,2,CCTV,None,South,Individual,Under Construction
+136,Delhi,New Delhi,Locality C,Villa,1,1185,93.32,7874.86,2001,Unfurnished,13,12,24,3,7,3,0,CCTV,None,South,Agent,Ready to Move
+137,Telangana,Hyderabad,Locality A,Villa,3,2259,133.74,5920.36,2017,Semi-Furnished,15,24,8,6,9,2,0,Guard,Pool,East,Agent,Ready to Move
+138,Telangana,Hyderabad,Locality A,Villa,3,960,82.07,8549.11,2008,Fully-Furnished,12,19,17,1,8,3,2,Gated,None,North,Agent,Under Construction
+139,Karnataka,Mysore,Locality B,Independent House,4,2676,223.68,8358.77,2021,Unfurnished,10,18,4,1,4,4,1,Guard,Clubhouse,East,Builder,Ready to Move
+140,Tamil Nadu,Chennai,Locality B,Apartment,4,3047,122.84,4031.38,2003,Unfurnished,11,20,22,6,1,2,0,Guard,Clubhouse,East,Builder,Under Construction
+141,Delhi,New Delhi,Locality C,Villa,2,1624,100.85,6209.86,2013,Unfurnished,6,12,12,4,4,2,1,Guard,Gym,South,Builder,Under Construction
+142,Telangana,Hyderabad,Locality B,Independent House,1,687,43.46,6326.04,1993,Unfurnished,16,24,32,1,7,3,0,None,None,South,Builder,Under Construction
+143,Karnataka,Bangalore,Locality B,Villa,4,2706,242.2,8950.3,2013,Semi-Furnished,4,23,12,1,3,2,0,None,Gym,West,Builder,Ready to Move
+144,Maharashtra,Nagpur,Locality B,Independent House,2,3028,188.6,6228.53,2022,Fully-Furnished,15,10,3,1,9,4,0,Guard,Pool,West,Agent,Ready to Move
+145,Maharashtra,Pune,Locality B,Apartment,5,3971,202.79,5106.86,2019,Semi-Furnished,17,17,6,2,3,1,1,Guard,Gym,East,Builder,Ready to Move
+146,Karnataka,Bangalore,Locality B,Villa,5,1080,73.12,6770.4,1999,Semi-Furnished,7,11,26,4,1,1,0,CCTV,Clubhouse,North,Individual,Under Construction
+147,Maharashtra,Pune,Locality B,Villa,4,1185,56.74,4788.1,2014,Semi-Furnished,7,7,11,9,4,4,0,Guard,None,South,Builder,Under Construction
+148,Karnataka,Bangalore,Locality B,Independent House,4,704,34.77,4938.29,2009,Unfurnished,4,22,16,4,8,3,1,Gated,Clubhouse,East,Builder,Ready to Move
+149,Karnataka,Mysore,Locality A,Apartment,4,3774,179.94,4767.93,2015,Semi-Furnished,18,9,10,7,5,2,1,Guard,Clubhouse,South,Individual,Under Construction
+150,Maharashtra,Nagpur,Locality B,Apartment,1,870,84.24,9682.22,1993,Fully-Furnished,1,21,32,9,9,1,2,None,Gym,North,Builder,Under Construction
+151,Karnataka,Bangalore,Locality A,Apartment,1,2204,160.04,7261.23,1990,Semi-Furnished,16,6,35,6,6,2,1,CCTV,Pool,West,Agent,Ready to Move
+152,Telangana,Hyderabad,Locality A,Villa,4,843,51.73,6135.84,2021,Fully-Furnished,4,18,4,3,3,3,2,None,Pool,East,Individual,Ready to Move
+153,Telangana,Hyderabad,Locality B,Independent House,3,3151,305.01,9679.83,1991,Unfurnished,10,24,34,8,1,3,0,Guard,Pool,East,Agent,Ready to Move
+154,Delhi,New Delhi,Locality A,Apartment,3,1701,147.2,8653.67,1999,Fully-Furnished,9,19,26,3,8,4,0,Guard,None,South,Builder,Under Construction
+155,Telangana,Hyderabad,Locality C,Apartment,4,967,48.31,4996.21,2022,Fully-Furnished,5,8,3,3,3,3,0,CCTV,Pool,South,Builder,Ready to Move
+156,Maharashtra,Nagpur,Locality B,Villa,1,3361,218.69,6506.57,2019,Semi-Furnished,5,7,6,7,5,1,0,Gated,None,North,Builder,Under Construction
+157,Tamil Nadu,Chennai,Locality A,Independent House,4,3248,297.16,9149.06,1995,Semi-Furnished,15,16,30,4,6,2,2,None,Gym,North,Builder,Under Construction
+158,Delhi,New Delhi,Locality C,Villa,4,1087,77.75,7152.61,2022,Unfurnished,19,19,3,5,8,2,0,CCTV,Pool,East,Individual,Ready to Move
+159,Maharashtra,Mumbai,Locality B,Independent House,3,3167,287.01,9062.42,2005,Fully-Furnished,7,10,20,3,1,4,1,Gated,None,West,Individual,Under Construction
+160,Delhi,New Delhi,Locality C,Apartment,2,3063,216.74,7075.93,2003,Fully-Furnished,13,19,22,6,5,3,0,CCTV,Clubhouse,North,Builder,Ready to Move
+161,Delhi,New Delhi,Locality C,Independent House,3,2954,137.83,4665.94,1997,Semi-Furnished,14,24,28,8,6,2,1,Gated,Gym,West,Builder,Under Construction
+162,Maharashtra,Nagpur,Locality C,Apartment,3,3494,297.82,8523.77,1996,Fully-Furnished,19,19,29,9,4,1,1,None,Pool,West,Builder,Ready to Move
+163,Tamil Nadu,Coimbatore,Locality C,Apartment,1,3483,189.87,5451.36,2014,Fully-Furnished,9,18,11,1,8,4,1,CCTV,Gym,West,Agent,Under Construction
+164,Telangana,Hyderabad,Locality B,Apartment,2,2299,184.08,8006.83,2005,Semi-Furnished,12,7,20,6,9,4,0,Guard,None,South,Builder,Ready to Move
+165,Tamil Nadu,Chennai,Locality A,Independent House,4,1827,97.22,5321.35,1998,Unfurnished,2,5,27,1,5,1,0,None,Gym,East,Agent,Under Construction
+166,Telangana,Hyderabad,Locality A,Independent House,4,2985,202.58,6786.6,2018,Semi-Furnished,19,8,7,9,3,2,1,Guard,Clubhouse,West,Builder,Under Construction
+167,Tamil Nadu,Chennai,Locality B,Villa,4,3401,330.01,9703.19,1990,Semi-Furnished,18,21,35,2,7,1,2,Gated,None,South,Builder,Ready to Move
+168,Delhi,New Delhi,Locality A,Apartment,2,3951,388.35,9829.2,2003,Unfurnished,6,21,22,1,3,4,2,CCTV,Gym,South,Agent,Under Construction
+169,Telangana,Hyderabad,Locality A,Apartment,2,3412,231.24,6777.11,1998,Unfurnished,19,11,27,5,1,4,0,Guard,Gym,East,Individual,Under Construction
+170,Delhi,New Delhi,Locality A,Apartment,3,2017,135.21,6703.58,2008,Unfurnished,16,5,17,1,8,4,0,Gated,Pool,East,Builder,Ready to Move
+171,Maharashtra,Nagpur,Locality B,Apartment,5,673,60.42,8977.53,2007,Fully-Furnished,4,22,18,1,4,2,1,Gated,Clubhouse,East,Individual,Ready to Move
+172,Telangana,Hyderabad,Locality B,Villa,3,3949,242.02,6128.63,2018,Fully-Furnished,11,17,7,7,2,3,0,CCTV,Pool,South,Agent,Under Construction
+173,Maharashtra,Mumbai,Locality B,Apartment,3,2063,172.13,8343.84,1992,Unfurnished,12,7,33,5,2,1,1,Guard,Gym,East,Individual,Ready to Move
+174,Karnataka,Bangalore,Locality B,Independent House,1,1736,91.94,5296.31,2017,Semi-Furnished,4,7,8,9,7,4,0,Gated,Clubhouse,North,Individual,Under Construction
+175,Karnataka,Mysore,Locality C,Independent House,4,3759,330.43,8790.28,2004,Fully-Furnished,16,8,21,3,3,4,0,None,Gym,West,Agent,Under Construction
+176,Telangana,Hyderabad,Locality A,Villa,4,3480,148.55,4268.67,2009,Semi-Furnished,3,15,16,1,1,3,2,Guard,Clubhouse,East,Builder,Ready to Move
+177,Maharashtra,Mumbai,Locality A,Apartment,5,2329,167.37,7186.51,1990,Semi-Furnished,5,7,35,4,8,4,2,Guard,Gym,West,Builder,Ready to Move
+178,Delhi,New Delhi,Locality B,Villa,3,2995,148.56,4960.15,2004,Unfurnished,5,14,21,2,6,3,0,None,Gym,East,Agent,Under Construction
+179,Telangana,Hyderabad,Locality A,Apartment,4,1285,93.45,7272.29,2021,Unfurnished,17,17,4,4,1,1,1,CCTV,Gym,South,Individual,Ready to Move
+180,Delhi,New Delhi,Locality C,Independent House,2,3446,308.79,8960.89,2010,Unfurnished,3,17,15,3,1,1,2,Guard,Pool,East,Agent,Ready to Move
+181,Maharashtra,Nagpur,Locality A,Apartment,1,2651,232.1,8755.13,2010,Semi-Furnished,19,6,15,3,5,3,0,Guard,Pool,North,Agent,Under Construction
+182,Tamil Nadu,Coimbatore,Locality A,Independent House,4,2942,127.87,4346.45,2001,Fully-Furnished,16,16,24,8,4,1,1,None,None,West,Builder,Ready to Move
+183,Karnataka,Mysore,Locality A,Independent House,3,3673,191.71,5219.34,2016,Semi-Furnished,17,23,9,8,7,3,2,Gated,Pool,East,Builder,Under Construction
+184,Delhi,New Delhi,Locality A,Apartment,4,2210,195.35,8839.54,2006,Fully-Furnished,6,7,19,3,9,4,0,Guard,Gym,North,Agent,Under Construction
+185,Tamil Nadu,Chennai,Locality B,Apartment,2,3267,224.15,6861.06,1999,Semi-Furnished,9,7,26,6,3,2,1,None,Pool,North,Builder,Ready to Move
+186,Delhi,New Delhi,Locality C,Apartment,2,518,41.76,8060.93,2019,Unfurnished,5,5,6,1,8,3,2,Guard,Gym,North,Individual,Under Construction
+187,Maharashtra,Nagpur,Locality B,Villa,4,756,61.99,8200.21,2023,Fully-Furnished,6,15,2,8,7,1,1,Guard,None,East,Builder,Under Construction
+188,Tamil Nadu,Chennai,Locality C,Villa,2,2515,101.52,4036.53,1991,Semi-Furnished,16,10,34,3,6,4,0,None,Pool,South,Builder,Ready to Move
+189,Telangana,Hyderabad,Locality A,Independent House,3,1813,159.92,8820.9,2018,Unfurnished,17,13,7,8,7,3,2,CCTV,Gym,North,Individual,Ready to Move
+190,Tamil Nadu,Chennai,Locality B,Villa,1,3884,184.01,4737.52,2021,Semi-Furnished,18,18,4,1,7,3,1,CCTV,None,South,Individual,Under Construction
+191,Telangana,Hyderabad,Locality B,Villa,3,1728,149.51,8652.08,2003,Fully-Furnished,11,13,22,2,7,3,1,None,Gym,East,Individual,Ready to Move
+192,Maharashtra,Pune,Locality A,Villa,2,2384,197.64,8290.23,2012,Unfurnished,12,15,13,6,6,1,1,Gated,Gym,East,Agent,Ready to Move
+193,Delhi,New Delhi,Locality B,Independent House,4,2197,163.26,7430.85,2008,Unfurnished,17,5,17,2,3,1,0,None,Clubhouse,North,Agent,Under Construction
+194,Tamil Nadu,Chennai,Locality A,Apartment,5,734,37.41,5096.84,2014,Fully-Furnished,19,16,11,8,1,4,1,Gated,Pool,North,Individual,Under Construction
+195,Telangana,Hyderabad,Locality A,Villa,1,1523,104.41,6855.81,1996,Unfurnished,13,8,29,2,3,4,0,Guard,Pool,West,Individual,Ready to Move
+196,Delhi,New Delhi,Locality B,Independent House,1,1451,127.36,8777.44,2013,Semi-Furnished,12,16,12,7,2,1,2,Gated,None,West,Builder,Under Construction
+197,Maharashtra,Mumbai,Locality C,Apartment,3,3823,237.28,6206.72,1999,Semi-Furnished,14,17,26,9,1,2,0,Gated,Pool,West,Builder,Under Construction
+198,Maharashtra,Pune,Locality C,Apartment,3,3709,258.04,6957.19,2013,Semi-Furnished,6,5,12,6,1,4,0,None,Clubhouse,West,Agent,Ready to Move
+199,Telangana,Hyderabad,Locality A,Apartment,4,3245,154.24,4753.3,1995,Unfurnished,7,24,30,5,9,2,2,Gated,Pool,West,Agent,Ready to Move
+200,Telangana,Hyderabad,Locality A,Villa,4,1472,133.69,9082.36,2012,Fully-Furnished,4,12,13,9,8,1,0,Guard,Gym,North,Individual,Under Construction
+201,Karnataka,Mysore,Locality C,Independent House,4,3776,258.39,6842.86,1994,Semi-Furnished,9,21,31,4,8,1,1,Guard,Pool,West,Agent,Under Construction
+202,Maharashtra,Pune,Locality C,Independent House,2,3596,211.84,5890.88,1993,Fully-Furnished,1,21,32,3,5,4,2,Guard,None,South,Builder,Under Construction
+203,Maharashtra,Nagpur,Locality C,Villa,1,658,53.56,8140.0,2009,Unfurnished,18,10,16,1,2,1,0,Guard,Pool,East,Individual,Under Construction
+204,Tamil Nadu,Coimbatore,Locality C,Apartment,2,3000,218.43,7281.16,1997,Unfurnished,16,15,28,3,6,1,0,Gated,Pool,East,Agent,Under Construction
+205,Telangana,Hyderabad,Locality A,Independent House,1,2105,109.07,5181.55,2015,Unfurnished,18,23,10,3,8,4,1,Guard,Clubhouse,South,Builder,Under Construction
+206,Karnataka,Mysore,Locality B,Independent House,4,1783,156.11,8755.57,2005,Unfurnished,10,12,20,2,1,3,1,CCTV,None,West,Agent,Under Construction
+207,Maharashtra,Nagpur,Locality A,Apartment,1,1562,77.73,4976.2,2018,Semi-Furnished,4,9,7,8,2,2,1,None,None,West,Builder,Ready to Move
+208,Delhi,New Delhi,Locality A,Independent House,2,2251,133.48,5930.02,2016,Unfurnished,3,16,9,2,7,4,1,Gated,Gym,South,Individual,Under Construction
+209,Delhi,New Delhi,Locality B,Independent House,3,3093,215.52,6968.05,1992,Fully-Furnished,17,11,33,9,7,1,0,Guard,Pool,South,Individual,Under Construction
+210,Tamil Nadu,Coimbatore,Locality B,Apartment,4,1360,101.23,7443.05,1990,Fully-Furnished,10,15,35,2,4,1,1,Gated,Gym,North,Builder,Ready to Move
+211,Maharashtra,Pune,Locality A,Independent House,5,2901,155.18,5349.34,2000,Semi-Furnished,19,23,25,4,5,4,2,Gated,None,East,Agent,Ready to Move
+212,Karnataka,Mysore,Locality C,Independent House,4,904,80.81,8938.96,2018,Semi-Furnished,14,8,7,4,2,4,0,CCTV,Clubhouse,East,Individual,Ready to Move
+213,Delhi,New Delhi,Locality C,Villa,3,1890,170.38,9014.96,2013,Unfurnished,17,24,12,4,2,1,1,Guard,Gym,North,Agent,Under Construction
+214,Tamil Nadu,Coimbatore,Locality C,Villa,1,1180,89.0,7542.59,1999,Unfurnished,3,23,26,6,6,1,2,CCTV,Clubhouse,West,Builder,Ready to Move
+215,Telangana,Hyderabad,Locality C,Villa,1,3298,299.81,9090.55,2014,Unfurnished,16,19,11,7,2,2,2,CCTV,None,East,Builder,Ready to Move
+216,Tamil Nadu,Coimbatore,Locality B,Apartment,3,3300,214.07,6486.82,2000,Unfurnished,4,20,25,2,9,1,1,None,Clubhouse,North,Agent,Ready to Move
+217,Tamil Nadu,Coimbatore,Locality C,Independent House,1,3300,272.28,8250.94,2013,Fully-Furnished,6,5,12,3,4,1,1,Guard,Clubhouse,South,Agent,Ready to Move
+218,Maharashtra,Mumbai,Locality C,Apartment,3,3989,171.98,4311.37,2009,Fully-Furnished,17,16,16,9,6,2,0,None,Clubhouse,North,Agent,Under Construction
+219,Maharashtra,Mumbai,Locality C,Villa,2,3510,174.74,4978.21,2008,Semi-Furnished,1,18,17,4,2,1,2,CCTV,Gym,East,Agent,Ready to Move
+220,Delhi,New Delhi,Locality C,Villa,1,1401,100.95,7205.74,1990,Unfurnished,16,7,35,8,3,1,0,Guard,None,West,Agent,Ready to Move
+221,Karnataka,Bangalore,Locality B,Independent House,4,3666,284.12,7750.18,1997,Fully-Furnished,18,20,28,2,8,2,2,Guard,Clubhouse,East,Builder,Under Construction
+222,Telangana,Hyderabad,Locality A,Villa,4,612,35.04,5725.8,2022,Unfurnished,1,22,3,5,1,2,0,None,Gym,East,Builder,Ready to Move
+223,Delhi,New Delhi,Locality B,Independent House,4,1973,195.18,9892.3,2004,Fully-Furnished,18,14,21,4,6,3,2,Gated,Gym,West,Builder,Under Construction
+224,Tamil Nadu,Coimbatore,Locality A,Apartment,2,2564,251.89,9824.06,2007,Fully-Furnished,17,16,18,5,9,1,1,Guard,Clubhouse,East,Builder,Under Construction
+225,Maharashtra,Nagpur,Locality C,Villa,2,707,40.47,5724.77,2016,Fully-Furnished,9,24,9,6,6,2,0,None,Clubhouse,West,Agent,Ready to Move
+226,Karnataka,Mysore,Locality A,Independent House,2,3880,319.04,8222.75,2021,Fully-Furnished,2,8,4,6,9,1,1,Gated,Clubhouse,South,Individual,Under Construction
+227,Tamil Nadu,Chennai,Locality A,Apartment,3,3886,361.32,9297.96,2023,Unfurnished,17,17,2,8,6,4,1,None,Clubhouse,North,Individual,Under Construction
+228,Delhi,New Delhi,Locality C,Villa,2,2420,154.74,6394.21,1999,Semi-Furnished,3,24,26,6,6,1,1,Guard,Gym,East,Individual,Under Construction
+229,Telangana,Hyderabad,Locality A,Apartment,1,2926,194.0,6630.31,2006,Semi-Furnished,18,24,19,3,8,4,2,Gated,None,East,Individual,Ready to Move
+230,Telangana,Hyderabad,Locality B,Independent House,1,1570,83.0,5286.44,2000,Semi-Furnished,1,15,25,5,2,4,0,None,Pool,South,Agent,Under Construction
+231,Karnataka,Mysore,Locality C,Villa,3,3186,221.78,6961.01,1990,Fully-Furnished,14,14,35,8,3,2,2,Gated,Gym,North,Builder,Ready to Move
+232,Maharashtra,Nagpur,Locality A,Villa,4,1892,117.51,6210.69,2007,Unfurnished,11,10,18,6,5,1,2,CCTV,None,West,Builder,Under Construction
+233,Delhi,New Delhi,Locality C,Apartment,4,2072,135.02,6516.34,1993,Fully-Furnished,4,19,32,6,9,1,1,Gated,Clubhouse,East,Builder,Under Construction
+234,Karnataka,Bangalore,Locality B,Independent House,5,3956,196.33,4962.78,2017,Fully-Furnished,13,19,8,5,1,2,0,None,Clubhouse,East,Individual,Ready to Move
+235,Telangana,Hyderabad,Locality A,Independent House,4,2687,178.95,6659.84,2013,Semi-Furnished,5,8,12,7,9,1,0,CCTV,Pool,North,Builder,Under Construction
+236,Maharashtra,Mumbai,Locality B,Apartment,5,1736,110.35,6356.38,2011,Semi-Furnished,17,16,14,3,3,3,0,Guard,None,East,Builder,Ready to Move
+237,Maharashtra,Mumbai,Locality A,Villa,5,3810,246.38,6466.56,2006,Unfurnished,6,16,19,4,7,1,2,CCTV,Pool,South,Builder,Ready to Move
+238,Maharashtra,Pune,Locality C,Villa,2,2782,258.45,9289.97,1998,Fully-Furnished,15,23,27,3,4,2,1,CCTV,Clubhouse,South,Agent,Ready to Move
+239,Maharashtra,Nagpur,Locality A,Villa,1,3860,279.67,7245.43,2023,Unfurnished,2,20,2,8,1,1,2,Guard,Gym,West,Individual,Ready to Move
+240,Tamil Nadu,Chennai,Locality A,Independent House,2,794,56.17,7073.71,1996,Unfurnished,1,21,29,5,1,3,1,CCTV,Gym,East,Individual,Ready to Move
+241,Tamil Nadu,Chennai,Locality A,Apartment,5,3778,293.57,7770.56,1998,Semi-Furnished,16,13,27,9,6,4,0,Guard,None,East,Builder,Ready to Move
+242,Tamil Nadu,Chennai,Locality B,Independent House,2,1158,74.43,6427.41,2019,Semi-Furnished,8,10,6,3,5,2,0,None,Clubhouse,North,Agent,Under Construction
+243,Telangana,Hyderabad,Locality C,Villa,1,3372,149.87,4444.63,2009,Unfurnished,3,23,16,2,6,3,0,Guard,Pool,South,Agent,Ready to Move
+244,Telangana,Hyderabad,Locality B,Apartment,4,2030,169.23,8336.43,2017,Fully-Furnished,16,8,8,2,1,1,2,None,Gym,South,Builder,Ready to Move
+245,Tamil Nadu,Coimbatore,Locality C,Apartment,2,3354,286.8,8551.01,2018,Fully-Furnished,6,21,7,3,5,3,2,None,Clubhouse,East,Agent,Ready to Move
+246,Karnataka,Mysore,Locality B,Villa,5,989,71.7,7249.88,1991,Fully-Furnished,15,20,34,6,8,4,1,Gated,Pool,South,Builder,Under Construction
+247,Delhi,New Delhi,Locality C,Villa,2,1357,132.32,9750.99,1992,Unfurnished,1,17,33,1,6,1,1,None,None,North,Builder,Under Construction
+248,Tamil Nadu,Chennai,Locality A,Apartment,2,3415,272.24,7971.81,1995,Unfurnished,5,10,30,4,7,3,1,Gated,Gym,West,Agent,Ready to Move
+249,Tamil Nadu,Coimbatore,Locality A,Villa,2,3691,321.21,8702.63,2018,Semi-Furnished,2,12,7,9,8,2,2,Guard,Gym,South,Individual,Under Construction
+250,Delhi,New Delhi,Locality A,Apartment,4,3847,229.27,5959.84,2004,Fully-Furnished,11,23,21,3,3,3,0,CCTV,Clubhouse,South,Agent,Under Construction
+251,Tamil Nadu,Chennai,Locality A,Apartment,2,3145,259.05,8236.95,1992,Semi-Furnished,19,8,33,4,7,3,0,Gated,Gym,East,Agent,Ready to Move
+252,Karnataka,Mysore,Locality B,Independent House,3,1072,80.11,7473.04,2000,Unfurnished,5,23,25,3,7,4,1,Gated,None,South,Builder,Ready to Move
+253,Karnataka,Mysore,Locality C,Apartment,3,2444,236.95,9695.2,2007,Unfurnished,9,13,18,2,7,2,2,CCTV,Pool,South,Agent,Ready to Move
+254,Telangana,Hyderabad,Locality B,Apartment,4,2740,116.56,4254.05,2003,Fully-Furnished,11,19,22,2,1,1,1,None,None,South,Builder,Under Construction
+255,Delhi,New Delhi,Locality B,Independent House,2,3727,238.95,6411.32,1991,Fully-Furnished,8,12,34,2,5,1,1,CCTV,Pool,North,Agent,Under Construction
+256,Delhi,New Delhi,Locality A,Independent House,5,3066,302.22,9857.12,2013,Fully-Furnished,5,14,12,8,5,3,2,Gated,Clubhouse,East,Agent,Ready to Move
+257,Tamil Nadu,Coimbatore,Locality B,Apartment,4,2913,177.26,6085.04,2006,Fully-Furnished,14,15,19,5,7,4,1,CCTV,Pool,East,Builder,Under Construction
+258,Delhi,New Delhi,Locality B,Apartment,2,2823,158.41,5611.37,1992,Fully-Furnished,8,15,33,4,5,4,0,CCTV,None,West,Individual,Under Construction
+259,Telangana,Hyderabad,Locality B,Villa,4,1149,70.46,6131.92,2011,Fully-Furnished,2,15,14,4,5,2,2,None,Pool,West,Builder,Ready to Move
+260,Karnataka,Mysore,Locality B,Apartment,3,3699,148.66,4018.85,2020,Fully-Furnished,10,6,5,7,1,1,2,Gated,Pool,North,Individual,Under Construction
+261,Karnataka,Bangalore,Locality B,Independent House,1,1471,134.94,9173.22,2006,Unfurnished,18,17,19,7,7,1,0,None,Gym,East,Builder,Ready to Move
+262,Telangana,Hyderabad,Locality A,Villa,1,1850,169.44,9158.77,1993,Unfurnished,13,21,32,2,7,3,2,Gated,Gym,South,Agent,Ready to Move
+263,Maharashtra,Pune,Locality B,Independent House,4,769,75.53,9821.41,2021,Semi-Furnished,3,7,4,8,9,1,2,Gated,Pool,South,Builder,Under Construction
+264,Tamil Nadu,Coimbatore,Locality C,Independent House,1,3259,283.98,8713.86,2001,Unfurnished,5,24,24,3,3,4,0,Gated,Clubhouse,North,Agent,Under Construction
+265,Tamil Nadu,Coimbatore,Locality B,Apartment,4,2119,84.84,4003.92,2002,Unfurnished,15,17,23,2,1,4,0,Gated,None,South,Builder,Ready to Move
+266,Tamil Nadu,Chennai,Locality A,Independent House,3,827,44.9,5428.88,2017,Semi-Furnished,18,21,8,7,5,1,0,CCTV,Clubhouse,North,Builder,Ready to Move
+267,Karnataka,Bangalore,Locality A,Villa,5,1694,145.3,8577.36,2008,Fully-Furnished,1,24,17,7,1,4,2,Gated,Pool,East,Individual,Under Construction
+268,Delhi,New Delhi,Locality B,Apartment,2,2366,125.23,5293.0,1997,Fully-Furnished,8,14,28,1,9,1,2,CCTV,Clubhouse,East,Agent,Ready to Move
+269,Maharashtra,Mumbai,Locality B,Villa,2,2963,238.95,8064.36,1995,Unfurnished,13,23,30,5,8,3,1,CCTV,None,North,Individual,Ready to Move
+270,Delhi,New Delhi,Locality A,Villa,1,2686,160.98,5993.23,2017,Fully-Furnished,6,6,8,2,8,3,2,CCTV,Clubhouse,North,Agent,Under Construction
+271,Telangana,Hyderabad,Locality C,Villa,1,3789,215.58,5689.7,2008,Fully-Furnished,1,14,17,4,1,1,1,CCTV,None,West,Individual,Ready to Move
+272,Telangana,Hyderabad,Locality B,Apartment,2,1467,140.42,9571.78,2020,Unfurnished,2,7,5,9,8,4,2,CCTV,None,South,Builder,Under Construction
+273,Maharashtra,Pune,Locality C,Independent House,2,1415,71.64,5063.16,2016,Unfurnished,12,19,9,8,5,3,0,CCTV,Clubhouse,East,Builder,Under Construction
+274,Telangana,Hyderabad,Locality B,Independent House,4,1994,117.31,5883.27,2014,Semi-Furnished,17,24,11,7,1,2,1,CCTV,Gym,South,Individual,Ready to Move
+275,Telangana,Hyderabad,Locality B,Apartment,5,2841,197.65,6956.92,2013,Semi-Furnished,17,15,12,4,9,1,0,None,None,East,Agent,Under Construction
+276,Delhi,New Delhi,Locality B,Apartment,5,1029,91.85,8925.89,1992,Unfurnished,8,15,33,6,8,3,1,Gated,None,North,Builder,Ready to Move
+277,Tamil Nadu,Chennai,Locality C,Villa,3,3096,305.99,9883.41,1991,Fully-Furnished,12,16,34,5,9,3,0,Guard,Pool,North,Agent,Under Construction
+278,Tamil Nadu,Chennai,Locality B,Independent House,4,1961,194.17,9901.4,2010,Fully-Furnished,12,5,15,9,7,3,2,Guard,Pool,West,Individual,Ready to Move
+279,Maharashtra,Mumbai,Locality C,Apartment,2,1260,77.56,6155.25,2005,Unfurnished,13,21,20,5,1,2,1,CCTV,Gym,West,Builder,Ready to Move
+280,Delhi,New Delhi,Locality B,Villa,5,2913,217.28,7458.83,1995,Unfurnished,2,19,30,1,5,4,0,Gated,Pool,West,Builder,Under Construction
+281,Delhi,New Delhi,Locality C,Independent House,2,1971,193.69,9826.91,2003,Fully-Furnished,19,15,22,1,9,2,0,Guard,None,East,Individual,Ready to Move
+282,Delhi,New Delhi,Locality C,Villa,4,2439,197.27,8088.12,2006,Unfurnished,3,8,19,8,8,1,2,Gated,Pool,South,Builder,Ready to Move
+283,Telangana,Hyderabad,Locality C,Independent House,3,1307,54.57,4174.93,1992,Fully-Furnished,9,11,33,4,2,3,1,Gated,Pool,West,Agent,Under Construction
+284,Telangana,Hyderabad,Locality A,Independent House,2,2918,172.15,5899.52,1994,Semi-Furnished,11,17,31,3,6,2,0,Guard,Gym,South,Builder,Under Construction
+285,Karnataka,Bangalore,Locality B,Apartment,4,3041,190.8,6274.24,2007,Unfurnished,10,24,18,7,6,4,2,CCTV,None,West,Agent,Ready to Move
+286,Delhi,New Delhi,Locality B,Villa,3,3677,304.35,8277.08,2008,Fully-Furnished,1,24,17,4,4,1,0,CCTV,None,East,Agent,Ready to Move
+287,Delhi,New Delhi,Locality B,Independent House,3,3549,354.39,9985.74,1998,Unfurnished,15,9,27,7,1,2,2,Guard,None,West,Agent,Under Construction
+288,Maharashtra,Pune,Locality C,Villa,1,3808,334.47,8783.27,2014,Semi-Furnished,3,15,11,9,7,3,1,Guard,Gym,North,Builder,Ready to Move
+289,Maharashtra,Pune,Locality C,Villa,2,2099,200.64,9558.78,2000,Fully-Furnished,16,10,25,2,6,3,0,Gated,None,East,Agent,Ready to Move
+290,Karnataka,Mysore,Locality B,Independent House,4,1856,182.68,9842.8,2001,Unfurnished,17,8,24,2,8,3,0,Gated,None,North,Builder,Under Construction
+291,Telangana,Hyderabad,Locality C,Apartment,5,3343,259.37,7758.74,2003,Unfurnished,5,7,22,5,7,4,1,Guard,None,East,Builder,Under Construction
+292,Delhi,New Delhi,Locality B,Independent House,2,960,50.41,5251.53,2018,Semi-Furnished,16,22,7,5,7,4,0,Gated,Pool,West,Builder,Ready to Move
+293,Delhi,New Delhi,Locality C,Independent House,2,970,50.06,5160.61,1998,Semi-Furnished,6,24,27,6,4,2,2,Guard,Clubhouse,North,Individual,Under Construction
+294,Telangana,Hyderabad,Locality B,Apartment,2,3621,154.68,4271.77,1993,Semi-Furnished,9,14,32,7,5,2,0,Guard,Clubhouse,West,Agent,Under Construction
+295,Delhi,New Delhi,Locality B,Villa,5,2988,274.79,9196.61,1991,Semi-Furnished,17,20,34,3,5,4,2,None,Pool,East,Individual,Ready to Move
+296,Delhi,New Delhi,Locality B,Independent House,1,3659,174.72,4775.05,2015,Unfurnished,1,15,10,5,4,3,2,None,None,North,Agent,Under Construction
+297,Tamil Nadu,Coimbatore,Locality C,Independent House,2,3258,248.09,7614.82,2000,Unfurnished,3,16,25,4,3,2,1,Guard,Pool,East,Individual,Under Construction
+298,Karnataka,Bangalore,Locality B,Villa,2,1155,86.07,7452.16,2014,Unfurnished,13,13,11,4,6,4,0,CCTV,Pool,East,Individual,Under Construction
+299,Tamil Nadu,Coimbatore,Locality B,Apartment,4,684,56.14,8208.3,2015,Semi-Furnished,9,14,10,9,2,4,0,None,Gym,South,Agent,Under Construction
+300,Karnataka,Bangalore,Locality A,Independent House,4,1958,163.41,8345.53,2003,Unfurnished,7,14,22,6,2,3,1,CCTV,Pool,North,Builder,Under Construction
+301,Karnataka,Mysore,Locality C,Apartment,4,2861,140.31,4904.12,2011,Unfurnished,1,17,14,6,4,1,1,None,None,South,Builder,Ready to Move
+302,Tamil Nadu,Chennai,Locality C,Villa,3,1923,183.56,9545.72,2003,Semi-Furnished,12,20,22,5,8,3,2,Gated,Gym,East,Builder,Ready to Move
+303,Telangana,Hyderabad,Locality C,Villa,1,3972,268.67,6764.02,2016,Fully-Furnished,11,5,9,2,5,1,2,Gated,Clubhouse,East,Individual,Under Construction
+304,Delhi,New Delhi,Locality C,Apartment,5,1633,159.15,9745.79,2018,Fully-Furnished,2,17,7,3,5,1,1,Gated,None,East,Individual,Under Construction
+305,Maharashtra,Nagpur,Locality B,Independent House,3,1107,99.39,8978.34,2018,Semi-Furnished,3,5,7,6,8,3,1,Guard,Pool,North,Agent,Ready to Move
+306,Maharashtra,Pune,Locality A,Apartment,5,1351,110.35,8167.92,1994,Fully-Furnished,4,23,31,1,3,4,2,CCTV,Clubhouse,South,Agent,Ready to Move
+307,Delhi,New Delhi,Locality C,Villa,5,1152,47.86,4154.14,2011,Semi-Furnished,16,23,14,6,4,3,2,CCTV,Clubhouse,East,Individual,Under Construction
+308,Maharashtra,Nagpur,Locality B,Villa,3,3299,247.87,7513.53,2008,Unfurnished,10,5,17,7,6,2,1,Guard,None,West,Agent,Under Construction
+309,Delhi,New Delhi,Locality A,Apartment,5,2906,290.0,9979.39,2013,Unfurnished,4,15,12,6,3,1,0,None,Gym,East,Builder,Under Construction
+310,Delhi,New Delhi,Locality B,Apartment,1,3919,215.75,5505.27,2015,Fully-Furnished,1,8,10,7,2,4,0,CCTV,Pool,East,Builder,Under Construction
+311,Maharashtra,Nagpur,Locality B,Independent House,4,1219,78.07,6404.23,2012,Semi-Furnished,17,22,13,8,9,3,0,Gated,Gym,South,Builder,Ready to Move
+312,Tamil Nadu,Coimbatore,Locality C,Villa,3,1241,74.81,6028.51,2023,Semi-Furnished,4,5,2,1,5,4,0,Guard,Pool,South,Individual,Ready to Move
+313,Delhi,New Delhi,Locality C,Independent House,3,1419,81.92,5772.81,2017,Fully-Furnished,4,9,8,4,9,2,0,Gated,Clubhouse,West,Builder,Under Construction
+314,Maharashtra,Pune,Locality A,Independent House,3,1801,157.56,8748.46,1996,Semi-Furnished,13,10,29,4,2,2,0,CCTV,None,West,Builder,Ready to Move
+315,Tamil Nadu,Coimbatore,Locality C,Apartment,5,3154,128.15,4062.96,2019,Semi-Furnished,12,5,6,1,5,4,2,Guard,Pool,North,Agent,Under Construction
+316,Telangana,Hyderabad,Locality A,Villa,5,2010,94.44,4698.75,2007,Unfurnished,12,15,18,2,3,3,1,None,Clubhouse,South,Individual,Under Construction
+317,Tamil Nadu,Coimbatore,Locality C,Independent House,2,2569,230.07,8955.59,2010,Semi-Furnished,7,23,15,6,9,3,2,Guard,Gym,North,Builder,Ready to Move
+318,Tamil Nadu,Chennai,Locality B,Apartment,2,2744,156.41,5700.18,1992,Fully-Furnished,3,10,33,7,7,1,2,None,Clubhouse,South,Individual,Ready to Move
+319,Delhi,New Delhi,Locality C,Apartment,2,3638,177.24,4871.96,1992,Fully-Furnished,16,13,33,4,3,1,0,None,Pool,North,Individual,Ready to Move
+320,Karnataka,Bangalore,Locality A,Apartment,1,2313,182.11,7873.43,2014,Semi-Furnished,14,20,11,1,8,4,1,CCTV,Gym,West,Individual,Ready to Move
+321,Delhi,New Delhi,Locality C,Independent House,5,633,61.36,9693.88,2017,Unfurnished,8,24,8,2,2,3,2,None,Gym,West,Builder,Ready to Move
+322,Karnataka,Mysore,Locality A,Villa,2,822,62.44,7596.16,2002,Semi-Furnished,15,22,23,8,7,2,0,CCTV,Pool,East,Individual,Under Construction
+323,Telangana,Hyderabad,Locality C,Apartment,5,994,56.5,5683.6,2008,Semi-Furnished,14,18,17,9,7,3,2,CCTV,Gym,West,Individual,Ready to Move
+324,Delhi,New Delhi,Locality A,Villa,3,3486,209.34,6005.16,2017,Unfurnished,5,7,8,7,1,3,2,CCTV,Clubhouse,East,Builder,Ready to Move
+325,Telangana,Hyderabad,Locality B,Apartment,4,2857,230.07,8052.74,2011,Unfurnished,9,5,14,8,7,3,0,CCTV,Clubhouse,East,Agent,Ready to Move
+326,Delhi,New Delhi,Locality A,Villa,5,1418,107.24,7562.68,2012,Fully-Furnished,15,12,13,7,1,1,2,Guard,Pool,East,Builder,Under Construction
+327,Telangana,Hyderabad,Locality C,Apartment,3,2894,236.43,8169.72,2002,Semi-Furnished,17,13,23,9,5,2,0,CCTV,Gym,South,Builder,Ready to Move
+328,Delhi,New Delhi,Locality B,Apartment,5,2796,235.08,8407.65,2022,Unfurnished,13,7,3,2,8,3,2,CCTV,Gym,West,Individual,Ready to Move
+329,Maharashtra,Pune,Locality B,Independent House,2,990,92.51,9343.95,2008,Unfurnished,1,14,17,2,3,3,0,Guard,Gym,South,Agent,Under Construction
+330,Karnataka,Bangalore,Locality A,Villa,5,544,35.68,6559.0,1999,Unfurnished,9,19,26,9,7,3,1,None,Clubhouse,West,Individual,Ready to Move
+331,Maharashtra,Pune,Locality A,Independent House,1,1911,78.75,4120.83,1994,Semi-Furnished,15,6,31,3,9,4,2,Gated,Gym,West,Builder,Ready to Move
+332,Karnataka,Bangalore,Locality A,Villa,1,1618,150.13,9278.51,2002,Unfurnished,7,6,23,9,5,3,0,CCTV,None,West,Agent,Ready to Move
+333,Tamil Nadu,Chennai,Locality A,Apartment,2,3777,328.27,8691.35,2009,Semi-Furnished,13,11,16,7,9,3,2,None,Pool,East,Builder,Ready to Move
+334,Karnataka,Bangalore,Locality C,Villa,3,1093,86.03,7871.31,2008,Unfurnished,4,19,17,5,3,2,1,Gated,None,East,Agent,Ready to Move
+335,Maharashtra,Nagpur,Locality B,Independent House,4,3417,213.91,6260.06,2005,Semi-Furnished,16,24,20,3,1,1,2,Guard,Pool,North,Agent,Ready to Move
+336,Tamil Nadu,Chennai,Locality B,Apartment,2,3726,319.99,8587.91,2007,Semi-Furnished,17,18,18,9,6,4,2,None,Clubhouse,South,Agent,Ready to Move
+337,Karnataka,Mysore,Locality C,Villa,3,1398,128.18,9168.51,2019,Fully-Furnished,7,13,6,3,5,2,2,Gated,Gym,North,Agent,Under Construction
+338,Telangana,Hyderabad,Locality B,Independent House,3,3606,282.35,7830.1,1990,Fully-Furnished,9,15,35,8,7,3,2,CCTV,Gym,North,Builder,Ready to Move
+339,Telangana,Hyderabad,Locality C,Villa,1,2712,158.58,5847.24,1994,Fully-Furnished,14,20,31,1,3,4,2,Gated,Gym,East,Agent,Ready to Move
+340,Telangana,Hyderabad,Locality B,Independent House,4,1547,72.33,4675.54,2004,Fully-Furnished,18,8,21,2,6,2,2,Guard,None,East,Agent,Under Construction
+341,Tamil Nadu,Chennai,Locality B,Independent House,5,1483,71.71,4835.52,1990,Semi-Furnished,2,22,35,4,1,1,1,CCTV,Clubhouse,North,Agent,Ready to Move
+342,Tamil Nadu,Chennai,Locality A,Apartment,3,1049,57.69,5499.84,2014,Unfurnished,3,9,11,1,5,2,1,None,Pool,South,Individual,Ready to Move
+343,Maharashtra,Pune,Locality C,Apartment,2,3050,292.34,9584.94,1995,Unfurnished,5,24,30,7,2,2,0,None,None,East,Individual,Ready to Move
+344,Maharashtra,Mumbai,Locality B,Independent House,1,1949,90.29,4632.43,2011,Unfurnished,6,18,14,4,6,4,1,Gated,Pool,East,Individual,Ready to Move
+345,Maharashtra,Mumbai,Locality B,Independent House,4,715,50.58,7074.36,1995,Semi-Furnished,10,21,30,2,1,4,1,Gated,None,South,Builder,Ready to Move
+346,Maharashtra,Mumbai,Locality B,Villa,5,670,47.26,7053.36,2019,Fully-Furnished,7,22,6,2,7,2,1,CCTV,Clubhouse,West,Builder,Under Construction
+347,Karnataka,Bangalore,Locality C,Independent House,1,1591,145.5,9145.18,2001,Semi-Furnished,6,12,24,5,9,3,1,Gated,Pool,North,Individual,Under Construction
+348,Delhi,New Delhi,Locality A,Independent House,1,1481,85.13,5748.17,2009,Unfurnished,10,6,16,3,6,3,1,Gated,Clubhouse,South,Builder,Ready to Move
+349,Karnataka,Bangalore,Locality B,Independent House,1,1817,164.73,9065.89,2008,Semi-Furnished,1,24,17,8,6,3,0,Gated,Gym,South,Individual,Ready to Move
+350,Delhi,New Delhi,Locality B,Independent House,3,1396,117.64,8427.28,2005,Unfurnished,7,16,20,6,8,2,0,Gated,Clubhouse,West,Agent,Under Construction
+351,Tamil Nadu,Coimbatore,Locality B,Apartment,3,1729,141.88,8205.61,2001,Unfurnished,15,10,24,2,1,1,1,Guard,Pool,South,Individual,Ready to Move
+352,Karnataka,Bangalore,Locality A,Apartment,4,890,87.38,9817.7,2016,Semi-Furnished,1,20,9,1,4,1,0,Guard,Pool,East,Builder,Ready to Move
+353,Karnataka,Bangalore,Locality C,Villa,3,2626,135.29,5152.1,2012,Fully-Furnished,18,15,13,2,1,1,2,Guard,Gym,North,Individual,Under Construction
+354,Telangana,Hyderabad,Locality B,Independent House,2,2259,110.49,4891.04,2006,Fully-Furnished,15,14,19,2,4,1,0,Guard,None,West,Individual,Under Construction
+355,Delhi,New Delhi,Locality C,Apartment,1,783,40.39,5158.96,1996,Fully-Furnished,1,15,29,2,2,3,0,CCTV,Gym,North,Agent,Ready to Move
+356,Maharashtra,Mumbai,Locality B,Apartment,1,843,38.26,4538.56,2021,Unfurnished,17,22,4,5,9,2,0,None,Pool,West,Builder,Ready to Move
+357,Tamil Nadu,Chennai,Locality A,Villa,5,1194,87.45,7323.96,2009,Unfurnished,9,18,16,1,2,2,0,Gated,Gym,East,Builder,Ready to Move
+358,Telangana,Hyderabad,Locality A,Villa,3,3947,170.79,4327.07,2015,Semi-Furnished,14,21,10,5,7,3,1,CCTV,None,North,Agent,Under Construction
+359,Maharashtra,Pune,Locality A,Independent House,1,1286,74.53,5795.39,1992,Semi-Furnished,3,12,33,1,8,3,2,None,None,North,Builder,Ready to Move
+360,Telangana,Hyderabad,Locality B,Apartment,5,3459,292.94,8468.95,1999,Fully-Furnished,6,20,26,1,1,1,1,None,None,East,Individual,Under Construction
+361,Delhi,New Delhi,Locality C,Apartment,2,3213,243.5,7578.6,2009,Semi-Furnished,11,6,16,1,9,1,2,CCTV,None,South,Individual,Under Construction
+362,Karnataka,Mysore,Locality A,Independent House,5,2452,189.04,7709.74,1991,Fully-Furnished,13,21,34,2,5,4,1,CCTV,None,West,Builder,Under Construction
+363,Telangana,Hyderabad,Locality B,Apartment,3,2222,154.52,6954.17,2003,Semi-Furnished,6,17,22,8,2,4,2,None,None,South,Builder,Under Construction
+364,Telangana,Hyderabad,Locality A,Independent House,5,622,39.57,6361.81,2009,Unfurnished,16,11,16,7,3,2,2,Guard,Gym,East,Agent,Under Construction
+365,Delhi,New Delhi,Locality B,Apartment,5,877,72.26,8239.62,1992,Semi-Furnished,8,15,33,5,9,3,0,CCTV,None,South,Individual,Ready to Move
+366,Karnataka,Mysore,Locality C,Villa,4,2329,106.12,4556.29,2006,Fully-Furnished,19,5,19,2,9,2,0,None,Clubhouse,West,Builder,Ready to Move
+367,Karnataka,Mysore,Locality B,Villa,1,1608,157.89,9818.91,2001,Semi-Furnished,8,23,24,5,3,2,0,Guard,Clubhouse,North,Agent,Under Construction
+368,Maharashtra,Pune,Locality B,Apartment,2,3067,184.22,6006.66,2010,Semi-Furnished,16,22,15,5,4,2,0,Gated,Pool,North,Builder,Under Construction
+369,Telangana,Hyderabad,Locality C,Villa,1,2763,164.88,5967.3,2011,Semi-Furnished,6,21,14,6,6,2,1,Guard,Pool,South,Agent,Under Construction
+370,Tamil Nadu,Coimbatore,Locality B,Independent House,5,569,32.37,5688.1,2007,Semi-Furnished,14,24,18,7,8,1,0,CCTV,None,South,Builder,Ready to Move
+371,Delhi,New Delhi,Locality A,Apartment,2,3338,214.09,6413.84,2020,Semi-Furnished,18,19,5,8,7,1,2,Gated,Gym,South,Agent,Ready to Move
+372,Karnataka,Bangalore,Locality B,Independent House,2,2281,136.74,5994.56,2019,Unfurnished,11,6,6,8,8,1,0,CCTV,Pool,West,Individual,Ready to Move
+373,Tamil Nadu,Coimbatore,Locality C,Independent House,4,2124,193.05,9089.09,2008,Semi-Furnished,16,5,17,2,5,2,1,None,None,South,Individual,Ready to Move
+374,Karnataka,Bangalore,Locality C,Villa,5,2659,132.62,4987.6,1992,Semi-Furnished,12,6,33,6,3,1,1,Guard,None,West,Builder,Ready to Move
+375,Tamil Nadu,Coimbatore,Locality B,Apartment,2,3519,142.99,4063.31,2005,Fully-Furnished,5,17,20,7,8,4,2,Gated,Clubhouse,South,Individual,Ready to Move
+376,Tamil Nadu,Coimbatore,Locality C,Independent House,2,1701,116.65,6857.93,2021,Unfurnished,6,5,4,7,8,4,2,None,Clubhouse,West,Builder,Ready to Move
+377,Tamil Nadu,Chennai,Locality C,Villa,5,1744,118.79,6811.34,2002,Unfurnished,4,12,23,1,7,4,2,None,Clubhouse,North,Builder,Ready to Move
+378,Telangana,Hyderabad,Locality B,Independent House,5,2125,123.48,5810.86,1994,Unfurnished,2,18,31,1,9,4,1,CCTV,Gym,East,Builder,Ready to Move
+379,Karnataka,Mysore,Locality C,Villa,2,3646,239.61,6571.87,1997,Fully-Furnished,15,10,28,5,1,3,0,Guard,Gym,North,Agent,Under Construction
+380,Delhi,New Delhi,Locality B,Apartment,4,3069,298.53,9727.32,2014,Fully-Furnished,9,22,11,2,8,4,2,Guard,Clubhouse,South,Agent,Ready to Move
+381,Karnataka,Bangalore,Locality A,Independent House,4,2497,173.18,6935.36,2023,Semi-Furnished,17,20,2,2,4,1,1,Guard,Clubhouse,West,Agent,Under Construction
+382,Karnataka,Mysore,Locality C,Villa,1,3661,220.89,6033.67,1998,Unfurnished,8,19,27,7,6,4,2,Guard,Clubhouse,West,Agent,Ready to Move
+383,Karnataka,Bangalore,Locality C,Villa,4,1188,73.16,6158.32,2019,Unfurnished,18,22,6,9,4,4,1,Guard,None,North,Agent,Ready to Move
+384,Telangana,Hyderabad,Locality A,Independent House,2,3615,323.86,8958.79,2012,Unfurnished,18,9,13,5,4,3,0,Gated,Clubhouse,South,Individual,Under Construction
+385,Telangana,Hyderabad,Locality B,Villa,4,1367,118.66,8680.29,1993,Unfurnished,10,14,32,7,9,4,2,Gated,Gym,East,Individual,Under Construction
+386,Karnataka,Mysore,Locality C,Villa,3,1881,186.26,9902.27,1990,Unfurnished,17,13,35,3,5,4,0,Gated,Gym,South,Individual,Under Construction
+387,Telangana,Hyderabad,Locality A,Villa,3,3867,160.97,4162.64,2002,Unfurnished,11,21,23,4,2,1,1,None,Pool,West,Builder,Ready to Move
+388,Maharashtra,Mumbai,Locality B,Apartment,2,1594,110.38,6924.44,2009,Unfurnished,18,19,16,8,7,4,1,CCTV,Gym,North,Agent,Under Construction
+389,Maharashtra,Mumbai,Locality C,Apartment,3,2784,248.43,8923.55,1992,Semi-Furnished,13,24,33,3,9,4,0,None,None,North,Builder,Ready to Move
+390,Delhi,New Delhi,Locality C,Independent House,5,872,53.05,6083.15,1991,Semi-Furnished,10,14,34,9,1,1,2,Guard,None,North,Individual,Ready to Move
+391,Karnataka,Bangalore,Locality C,Apartment,4,1073,91.12,8492.19,1996,Semi-Furnished,5,16,29,5,7,2,0,None,None,North,Individual,Under Construction
+392,Delhi,New Delhi,Locality B,Independent House,5,2187,155.08,7091.0,2007,Fully-Furnished,17,5,18,9,3,4,0,Guard,None,West,Individual,Ready to Move
+393,Telangana,Hyderabad,Locality A,Apartment,4,1419,124.36,8764.09,2001,Unfurnished,1,14,24,6,3,1,0,Guard,Clubhouse,East,Builder,Ready to Move
+394,Telangana,Hyderabad,Locality B,Independent House,2,3401,308.43,9068.79,2018,Semi-Furnished,2,11,7,2,7,1,1,None,Pool,West,Builder,Ready to Move
+395,Maharashtra,Nagpur,Locality B,Independent House,3,3260,317.81,9748.83,2009,Semi-Furnished,16,24,16,5,4,3,0,Gated,Pool,East,Agent,Under Construction
+396,Maharashtra,Mumbai,Locality B,Villa,1,1658,71.09,4287.48,2001,Semi-Furnished,15,16,24,5,2,2,2,CCTV,Gym,West,Agent,Under Construction
+397,Maharashtra,Nagpur,Locality B,Apartment,4,2534,159.27,6285.34,1995,Semi-Furnished,19,6,30,7,7,2,1,None,Clubhouse,South,Builder,Under Construction
+398,Tamil Nadu,Coimbatore,Locality A,Independent House,3,1939,186.67,9626.95,2001,Unfurnished,2,8,24,6,3,3,0,CCTV,Clubhouse,West,Individual,Under Construction
+399,Delhi,New Delhi,Locality C,Independent House,2,824,33.33,4044.35,1993,Unfurnished,5,12,32,3,5,4,2,None,Pool,East,Agent,Under Construction
+400,Telangana,Hyderabad,Locality B,Apartment,5,972,88.94,9149.94,2006,Unfurnished,2,24,19,6,1,4,0,None,Clubhouse,East,Builder,Under Construction
+401,Delhi,New Delhi,Locality A,Apartment,3,2986,172.1,5763.5,2002,Unfurnished,12,17,23,8,5,4,0,None,Pool,North,Individual,Under Construction
+402,Tamil Nadu,Chennai,Locality B,Independent House,5,758,53.89,7109.68,1999,Fully-Furnished,11,17,26,7,5,4,1,Guard,Gym,South,Builder,Ready to Move
+403,Telangana,Hyderabad,Locality C,Villa,2,2988,165.79,5548.65,2006,Unfurnished,14,10,19,9,7,3,0,CCTV,Pool,West,Builder,Under Construction
+404,Maharashtra,Nagpur,Locality B,Independent House,1,2287,205.97,9005.95,2022,Unfurnished,7,22,3,5,1,4,1,CCTV,Pool,North,Individual,Under Construction
+405,Delhi,New Delhi,Locality B,Independent House,2,978,54.68,5590.68,2005,Semi-Furnished,2,17,20,2,7,1,1,Gated,None,East,Individual,Ready to Move
+406,Telangana,Hyderabad,Locality B,Apartment,5,2728,230.62,8453.79,1994,Fully-Furnished,16,23,31,7,5,3,2,Gated,None,North,Builder,Ready to Move
+407,Karnataka,Bangalore,Locality B,Independent House,4,3610,244.9,6784.0,2022,Fully-Furnished,1,11,3,8,4,3,1,Guard,Pool,South,Builder,Ready to Move
+408,Telangana,Hyderabad,Locality A,Apartment,2,1634,151.57,9275.95,2017,Fully-Furnished,6,24,8,3,3,3,2,Guard,Clubhouse,East,Builder,Under Construction
+409,Telangana,Hyderabad,Locality B,Villa,2,3507,151.87,4330.61,2020,Unfurnished,17,19,5,2,2,4,1,CCTV,None,North,Agent,Under Construction
+410,Tamil Nadu,Coimbatore,Locality A,Apartment,5,2765,234.95,8497.27,2004,Fully-Furnished,15,17,21,6,8,1,2,None,None,East,Agent,Ready to Move
+411,Karnataka,Mysore,Locality A,Independent House,2,2702,147.74,5467.93,1997,Semi-Furnished,8,23,28,6,9,3,0,CCTV,Clubhouse,North,Builder,Under Construction
+412,Karnataka,Bangalore,Locality C,Apartment,1,1104,50.21,4548.12,2011,Unfurnished,16,10,14,6,4,4,2,None,None,South,Agent,Under Construction
+413,Tamil Nadu,Chennai,Locality A,Apartment,1,1596,120.95,7578.08,2017,Semi-Furnished,7,14,8,8,3,1,2,None,Gym,East,Builder,Under Construction
+414,Karnataka,Bangalore,Locality A,Villa,5,3644,281.26,7718.49,1992,Semi-Furnished,2,22,33,7,4,1,1,Guard,Pool,West,Builder,Ready to Move
+415,Telangana,Hyderabad,Locality C,Independent House,4,3674,288.14,7842.68,2019,Semi-Furnished,11,16,6,1,1,1,0,Gated,Pool,North,Individual,Under Construction
+416,Karnataka,Bangalore,Locality A,Villa,4,2059,109.82,5333.7,2004,Fully-Furnished,1,19,21,8,1,3,2,CCTV,Clubhouse,West,Agent,Ready to Move
+417,Delhi,New Delhi,Locality C,Independent House,2,2944,118.17,4013.94,2012,Fully-Furnished,12,11,13,2,7,1,2,Gated,Pool,North,Individual,Under Construction
+418,Karnataka,Bangalore,Locality A,Independent House,4,2418,175.89,7274.01,2017,Semi-Furnished,4,20,8,5,4,4,0,CCTV,Clubhouse,North,Individual,Under Construction
+419,Delhi,New Delhi,Locality B,Villa,5,1118,57.95,5183.1,1993,Unfurnished,18,6,32,5,4,4,0,Gated,None,West,Agent,Ready to Move
+420,Tamil Nadu,Coimbatore,Locality A,Villa,5,1101,72.51,6585.9,2003,Semi-Furnished,14,5,22,3,9,3,0,Guard,Pool,East,Builder,Ready to Move
+421,Delhi,New Delhi,Locality C,Villa,2,2503,116.19,4642.17,2005,Fully-Furnished,12,7,20,3,5,2,0,Gated,Gym,South,Builder,Under Construction
+422,Karnataka,Bangalore,Locality B,Apartment,5,2372,219.37,9248.46,2007,Unfurnished,18,18,18,9,1,1,0,Gated,Clubhouse,South,Builder,Ready to Move
+423,Tamil Nadu,Coimbatore,Locality C,Villa,2,2629,128.21,4876.58,2007,Unfurnished,6,17,18,7,3,3,1,None,Clubhouse,South,Individual,Under Construction
+424,Telangana,Hyderabad,Locality A,Villa,4,1019,87.84,8620.13,2020,Unfurnished,3,22,5,5,6,1,0,None,Gym,East,Builder,Ready to Move
+425,Tamil Nadu,Coimbatore,Locality C,Independent House,2,1404,89.81,6396.59,2002,Fully-Furnished,9,6,23,3,4,1,2,Gated,Pool,North,Agent,Under Construction
+426,Karnataka,Mysore,Locality C,Villa,5,1477,133.78,9057.67,2019,Semi-Furnished,3,17,6,8,9,2,2,Guard,Pool,North,Builder,Under Construction
+427,Tamil Nadu,Coimbatore,Locality B,Villa,4,1310,99.2,7572.49,2000,Semi-Furnished,4,12,25,1,4,2,2,None,Pool,West,Builder,Ready to Move
+428,Delhi,New Delhi,Locality A,Independent House,2,2513,152.58,6071.59,1998,Unfurnished,11,19,27,8,2,1,2,None,None,East,Agent,Ready to Move
+429,Karnataka,Bangalore,Locality C,Apartment,3,1201,85.37,7108.09,2008,Fully-Furnished,16,11,17,7,9,1,0,CCTV,None,West,Individual,Under Construction
+430,Telangana,Hyderabad,Locality C,Independent House,5,2408,179.86,7469.31,2002,Unfurnished,11,22,23,5,6,3,0,CCTV,Gym,South,Builder,Under Construction
+431,Tamil Nadu,Chennai,Locality B,Villa,2,3476,231.12,6649.02,1995,Semi-Furnished,18,13,30,1,6,2,1,None,None,South,Individual,Ready to Move
+432,Tamil Nadu,Coimbatore,Locality B,Apartment,2,2617,188.38,7198.33,2012,Unfurnished,9,14,13,3,6,3,2,Gated,Clubhouse,East,Individual,Ready to Move
+433,Telangana,Hyderabad,Locality B,Independent House,1,1397,133.55,9559.51,1992,Semi-Furnished,16,21,33,3,2,3,2,Guard,Clubhouse,South,Agent,Ready to Move
+434,Telangana,Hyderabad,Locality C,Apartment,5,1983,194.07,9786.93,1990,Semi-Furnished,12,17,35,9,4,1,2,Gated,Pool,North,Individual,Under Construction
+435,Delhi,New Delhi,Locality A,Independent House,4,1929,192.44,9975.96,2020,Semi-Furnished,17,23,5,3,6,3,1,CCTV,None,East,Builder,Under Construction
+436,Delhi,New Delhi,Locality B,Villa,2,3803,375.8,9881.57,1992,Unfurnished,6,5,33,9,1,1,1,Gated,Clubhouse,South,Agent,Under Construction
+437,Telangana,Hyderabad,Locality B,Villa,4,855,80.24,9385.19,2001,Semi-Furnished,5,13,24,8,4,3,2,Gated,Clubhouse,North,Agent,Ready to Move
+438,Maharashtra,Pune,Locality C,Apartment,1,3275,184.75,5641.25,2020,Semi-Furnished,8,13,5,5,3,4,2,Guard,Clubhouse,South,Agent,Ready to Move
+439,Tamil Nadu,Coimbatore,Locality A,Villa,4,1912,138.66,7252.09,2014,Semi-Furnished,9,7,11,4,6,4,1,Gated,Gym,East,Individual,Ready to Move
+440,Delhi,New Delhi,Locality C,Villa,1,1420,138.79,9774.03,2002,Fully-Furnished,5,12,23,5,2,2,0,CCTV,Gym,West,Builder,Under Construction
+441,Telangana,Hyderabad,Locality C,Apartment,2,2563,142.61,5564.05,2021,Semi-Furnished,18,17,4,7,9,2,1,None,Clubhouse,West,Builder,Ready to Move
+442,Telangana,Hyderabad,Locality B,Apartment,5,3378,182.89,5414.1,2007,Fully-Furnished,16,7,18,9,8,2,2,None,Pool,South,Individual,Ready to Move
+443,Tamil Nadu,Coimbatore,Locality B,Apartment,1,1602,71.67,4473.58,2006,Semi-Furnished,19,11,19,5,1,3,1,None,Gym,South,Agent,Under Construction
+444,Maharashtra,Nagpur,Locality C,Apartment,1,2053,123.18,5999.8,2016,Semi-Furnished,4,14,9,6,1,3,1,CCTV,None,North,Agent,Ready to Move
+445,Karnataka,Bangalore,Locality A,Apartment,1,2288,96.35,4210.96,2001,Semi-Furnished,11,8,24,3,8,2,2,None,Gym,West,Individual,Under Construction
+446,Delhi,New Delhi,Locality C,Apartment,1,2951,154.51,5235.93,2009,Fully-Furnished,1,9,16,5,6,3,1,CCTV,Gym,South,Agent,Ready to Move
+447,Tamil Nadu,Coimbatore,Locality C,Villa,2,1644,152.01,9246.39,2013,Fully-Furnished,18,18,12,8,1,2,0,CCTV,Gym,South,Individual,Under Construction
+448,Delhi,New Delhi,Locality C,Independent House,4,819,68.57,8371.82,2017,Fully-Furnished,17,20,8,6,3,2,2,Guard,None,South,Agent,Ready to Move
+449,Telangana,Hyderabad,Locality B,Villa,3,914,57.18,6255.83,2004,Fully-Furnished,19,15,21,2,2,4,1,None,None,South,Agent,Under Construction
+450,Tamil Nadu,Chennai,Locality C,Independent House,2,3800,190.33,5008.71,1998,Fully-Furnished,7,18,27,2,6,2,2,None,None,East,Agent,Ready to Move
+451,Tamil Nadu,Coimbatore,Locality C,Apartment,3,3742,299.13,7993.9,2021,Unfurnished,4,18,4,5,4,4,1,None,Gym,North,Agent,Ready to Move
+452,Tamil Nadu,Chennai,Locality B,Villa,1,2181,147.43,6759.89,2020,Semi-Furnished,3,16,5,1,1,3,1,None,None,North,Builder,Under Construction
+453,Tamil Nadu,Chennai,Locality C,Villa,4,2003,126.93,6337.1,2013,Unfurnished,6,6,12,1,6,3,1,None,Clubhouse,East,Agent,Under Construction
+454,Maharashtra,Pune,Locality C,Villa,4,1055,55.45,5255.84,2010,Semi-Furnished,3,24,15,8,7,3,1,Gated,Pool,West,Agent,Under Construction
+455,Karnataka,Mysore,Locality A,Apartment,2,2827,263.83,9332.51,2016,Semi-Furnished,8,11,9,5,8,4,0,Guard,Clubhouse,South,Individual,Ready to Move
+456,Karnataka,Bangalore,Locality B,Apartment,4,3186,282.16,8856.22,1993,Fully-Furnished,6,9,32,7,5,2,1,Guard,None,East,Agent,Under Construction
+457,Karnataka,Mysore,Locality C,Villa,4,2118,167.41,7904.35,2012,Semi-Furnished,10,23,13,3,7,3,0,CCTV,Gym,West,Agent,Under Construction
+458,Maharashtra,Mumbai,Locality B,Independent House,1,733,60.99,8320.67,2004,Fully-Furnished,19,19,21,9,3,3,2,CCTV,Gym,West,Builder,Ready to Move
+459,Delhi,New Delhi,Locality B,Villa,1,2392,161.99,6772.24,2018,Unfurnished,15,6,7,2,6,2,2,Gated,Gym,South,Builder,Under Construction
+460,Tamil Nadu,Coimbatore,Locality C,Apartment,1,2991,271.05,9062.08,2016,Semi-Furnished,8,9,9,8,3,4,0,Gated,Pool,West,Individual,Under Construction
+461,Karnataka,Bangalore,Locality B,Independent House,3,2923,286.06,9786.59,2014,Semi-Furnished,2,18,11,5,6,4,2,CCTV,Clubhouse,West,Agent,Ready to Move
+462,Delhi,New Delhi,Locality A,Apartment,5,1060,66.33,6257.14,2004,Fully-Furnished,14,24,21,8,2,4,2,CCTV,None,North,Individual,Ready to Move
+463,Telangana,Hyderabad,Locality A,Apartment,5,3684,271.57,7371.69,1995,Unfurnished,15,18,30,5,5,2,2,None,Pool,North,Individual,Ready to Move
+464,Delhi,New Delhi,Locality B,Independent House,4,1406,129.76,9228.93,2000,Unfurnished,14,11,25,1,1,1,1,None,None,North,Builder,Under Construction
+465,Tamil Nadu,Coimbatore,Locality B,Apartment,3,1279,100.68,7871.43,2005,Fully-Furnished,1,11,20,6,7,4,2,None,Clubhouse,West,Agent,Ready to Move
+466,Karnataka,Mysore,Locality C,Apartment,2,739,53.53,7243.32,2002,Unfurnished,2,17,23,9,2,1,2,Guard,Gym,South,Agent,Ready to Move
+467,Maharashtra,Pune,Locality C,Apartment,5,1663,100.28,6030.21,2010,Semi-Furnished,11,9,15,8,9,1,0,Gated,None,East,Individual,Ready to Move
+468,Delhi,New Delhi,Locality A,Independent House,3,2594,258.13,9950.99,2011,Unfurnished,14,21,14,7,5,3,1,CCTV,None,West,Builder,Under Construction
+469,Delhi,New Delhi,Locality C,Villa,4,3299,301.58,9141.7,2005,Semi-Furnished,9,8,20,1,2,4,0,CCTV,Clubhouse,West,Agent,Ready to Move
+470,Maharashtra,Nagpur,Locality B,Independent House,4,3235,279.81,8649.57,2021,Fully-Furnished,2,10,4,7,2,3,1,None,Pool,North,Builder,Ready to Move
+471,Karnataka,Mysore,Locality A,Villa,1,1915,107.43,5609.72,1999,Fully-Furnished,5,13,26,4,6,3,0,CCTV,Clubhouse,North,Builder,Under Construction
+472,Delhi,New Delhi,Locality A,Independent House,3,3335,173.06,5189.24,2000,Fully-Furnished,12,6,25,5,2,2,1,CCTV,Clubhouse,South,Individual,Under Construction
+473,Maharashtra,Mumbai,Locality C,Villa,3,2166,91.98,4246.49,2019,Fully-Furnished,18,17,6,2,1,4,0,None,Clubhouse,East,Builder,Ready to Move
+474,Maharashtra,Nagpur,Locality A,Villa,2,2506,167.76,6694.5,2023,Unfurnished,8,23,2,6,9,2,0,Guard,Pool,North,Agent,Under Construction
+475,Delhi,New Delhi,Locality B,Independent House,2,2850,198.2,6954.41,2001,Semi-Furnished,1,21,24,7,1,1,0,None,Gym,North,Agent,Ready to Move
+476,Karnataka,Bangalore,Locality A,Independent House,1,3152,312.06,9900.32,1993,Fully-Furnished,10,9,32,8,9,4,0,Guard,None,West,Individual,Under Construction
+477,Karnataka,Bangalore,Locality C,Apartment,5,3536,299.97,8483.42,2023,Semi-Furnished,16,11,2,7,9,3,2,Gated,Gym,North,Individual,Under Construction
+478,Telangana,Hyderabad,Locality A,Independent House,5,1466,134.14,9150.22,2015,Fully-Furnished,6,15,10,9,8,2,2,Gated,Clubhouse,East,Builder,Ready to Move
+479,Telangana,Hyderabad,Locality A,Independent House,1,2221,163.33,7353.72,2022,Semi-Furnished,18,14,3,7,9,1,2,None,Clubhouse,North,Individual,Ready to Move
+480,Tamil Nadu,Coimbatore,Locality B,Apartment,3,1575,134.92,8566.04,2018,Unfurnished,2,9,7,1,7,2,0,None,None,South,Individual,Ready to Move
+481,Tamil Nadu,Chennai,Locality B,Villa,2,3148,232.09,7372.67,2006,Unfurnished,8,7,19,4,1,2,0,Gated,Clubhouse,North,Builder,Ready to Move
+482,Telangana,Hyderabad,Locality C,Apartment,2,3773,249.99,6625.88,2015,Semi-Furnished,3,19,10,1,1,1,0,Guard,Clubhouse,North,Builder,Ready to Move
+483,Telangana,Hyderabad,Locality C,Independent House,4,1679,159.92,9524.54,2010,Unfurnished,2,14,15,1,8,1,0,CCTV,Clubhouse,West,Builder,Under Construction
+484,Telangana,Hyderabad,Locality B,Apartment,3,3102,266.29,8584.57,1995,Unfurnished,15,12,30,5,6,1,1,Guard,None,West,Builder,Ready to Move
+485,Delhi,New Delhi,Locality B,Independent House,1,1629,145.15,8910.16,2001,Fully-Furnished,11,8,24,4,6,3,1,None,Clubhouse,North,Individual,Under Construction
+486,Maharashtra,Pune,Locality C,Independent House,1,683,64.48,9441.2,1991,Fully-Furnished,6,7,34,7,9,2,1,None,Clubhouse,East,Agent,Ready to Move
+487,Telangana,Hyderabad,Locality B,Villa,2,1103,56.66,5137.33,1996,Unfurnished,2,12,29,9,2,2,2,None,Pool,East,Builder,Ready to Move
+488,Karnataka,Bangalore,Locality C,Apartment,1,3966,294.82,7433.7,2010,Fully-Furnished,12,24,15,1,3,2,0,CCTV,Gym,South,Builder,Ready to Move
+489,Telangana,Hyderabad,Locality B,Villa,4,523,25.05,4790.26,2015,Unfurnished,17,15,10,8,8,2,1,Guard,Clubhouse,East,Individual,Ready to Move
+490,Maharashtra,Pune,Locality B,Villa,2,2089,127.64,6110.26,2003,Semi-Furnished,19,5,22,3,4,2,2,None,Gym,South,Builder,Under Construction
+491,Maharashtra,Pune,Locality A,Independent House,4,875,46.93,5363.25,1990,Unfurnished,4,13,35,6,2,2,0,Gated,None,South,Builder,Under Construction
+492,Karnataka,Bangalore,Locality A,Independent House,1,3738,184.05,4923.78,1990,Fully-Furnished,5,21,35,7,5,4,2,None,Pool,South,Builder,Under Construction
+493,Tamil Nadu,Chennai,Locality A,Apartment,2,3220,284.76,8843.57,1999,Unfurnished,18,6,26,4,2,3,0,None,Gym,South,Agent,Ready to Move
+494,Telangana,Hyderabad,Locality A,Apartment,5,3564,300.24,8424.24,2004,Unfurnished,9,11,21,5,9,4,2,None,Clubhouse,West,Individual,Ready to Move
+495,Maharashtra,Pune,Locality C,Villa,1,1685,96.4,5721.08,1995,Unfurnished,14,8,30,1,1,3,0,None,Gym,East,Builder,Under Construction
+496,Tamil Nadu,Coimbatore,Locality B,Villa,4,2231,146.78,6578.99,2018,Semi-Furnished,7,22,7,8,6,2,2,Gated,Clubhouse,North,Individual,Ready to Move
+497,Telangana,Hyderabad,Locality C,Apartment,5,2735,175.04,6400.18,2022,Semi-Furnished,1,17,3,7,9,2,1,Gated,Gym,West,Agent,Ready to Move
+498,Telangana,Hyderabad,Locality B,Independent House,5,3282,150.59,4588.27,2003,Unfurnished,17,19,22,1,2,1,2,Gated,Pool,West,Individual,Ready to Move
+499,Delhi,New Delhi,Locality B,Apartment,1,3256,260.45,7999.15,1990,Fully-Furnished,9,16,35,9,2,1,1,CCTV,Pool,East,Builder,Under Construction
+500,Karnataka,Mysore,Locality A,Villa,2,849,60.33,7105.6,2002,Semi-Furnished,5,22,23,1,5,4,2,Guard,Clubhouse,South,Agent,Ready to Move
+501,Tamil Nadu,Chennai,Locality B,Apartment,4,3847,365.02,9488.5,2023,Semi-Furnished,19,14,2,9,2,2,1,Guard,None,North,Individual,Under Construction
+502,Telangana,Hyderabad,Locality B,Apartment,1,3149,256.3,8138.94,2018,Fully-Furnished,7,23,7,3,1,2,2,Guard,Pool,South,Individual,Under Construction
+503,Tamil Nadu,Chennai,Locality B,Villa,1,2229,217.28,9747.88,2020,Fully-Furnished,9,20,5,3,9,1,0,CCTV,Pool,West,Builder,Under Construction
+504,Karnataka,Mysore,Locality C,Villa,1,2968,120.46,4058.68,1999,Semi-Furnished,12,17,26,7,4,3,2,Gated,None,East,Builder,Ready to Move
+505,Tamil Nadu,Chennai,Locality B,Villa,5,2486,238.16,9580.03,2020,Semi-Furnished,19,12,5,2,1,2,1,None,None,East,Agent,Ready to Move
+506,Telangana,Hyderabad,Locality A,Independent House,1,1353,76.37,5644.5,2019,Fully-Furnished,15,18,6,3,9,2,0,Guard,None,West,Agent,Under Construction
+507,Telangana,Hyderabad,Locality A,Apartment,3,1059,55.72,5261.66,2002,Unfurnished,16,10,23,4,4,3,0,CCTV,Gym,East,Builder,Ready to Move
+508,Delhi,New Delhi,Locality B,Apartment,5,3428,147.27,4296.1,2011,Unfurnished,14,20,14,5,2,2,0,None,Clubhouse,West,Individual,Ready to Move
+509,Tamil Nadu,Coimbatore,Locality C,Apartment,2,1262,68.88,5457.67,2001,Unfurnished,11,21,24,8,4,3,1,Guard,Pool,North,Builder,Ready to Move
+510,Telangana,Hyderabad,Locality C,Villa,2,2050,118.67,5788.9,2004,Semi-Furnished,6,18,21,7,1,1,2,None,Gym,South,Agent,Ready to Move
+511,Maharashtra,Pune,Locality B,Apartment,1,3659,293.95,8033.7,1997,Semi-Furnished,5,12,28,6,4,1,0,None,Pool,West,Individual,Under Construction
+512,Tamil Nadu,Chennai,Locality B,Apartment,3,3252,146.35,4500.27,2007,Fully-Furnished,15,5,18,4,2,3,2,Guard,Gym,East,Agent,Ready to Move
+513,Tamil Nadu,Chennai,Locality A,Independent House,1,2630,166.3,6323.1,2001,Unfurnished,9,11,24,3,5,3,1,CCTV,Pool,East,Agent,Ready to Move
+514,Tamil Nadu,Coimbatore,Locality C,Independent House,5,2556,114.28,4471.22,1990,Unfurnished,13,12,35,3,4,1,1,Guard,Gym,East,Agent,Under Construction
+515,Telangana,Hyderabad,Locality B,Villa,4,916,37.16,4056.52,2000,Unfurnished,12,15,25,9,4,4,1,None,Gym,South,Builder,Under Construction
+516,Maharashtra,Nagpur,Locality A,Apartment,1,3175,278.5,8771.73,1997,Fully-Furnished,19,13,28,1,9,3,0,CCTV,Pool,South,Individual,Under Construction
+517,Maharashtra,Pune,Locality B,Independent House,1,2221,214.55,9659.86,2008,Semi-Furnished,3,21,17,8,7,3,1,None,None,East,Builder,Ready to Move
+518,Tamil Nadu,Coimbatore,Locality C,Independent House,1,2640,114.83,4349.65,2006,Unfurnished,2,23,19,1,1,2,2,None,Gym,West,Agent,Ready to Move
+519,Karnataka,Bangalore,Locality A,Villa,4,2958,203.86,6891.92,1999,Unfurnished,18,19,26,1,1,3,2,CCTV,Clubhouse,North,Builder,Under Construction
+520,Telangana,Hyderabad,Locality B,Apartment,4,1576,157.24,9976.98,2020,Semi-Furnished,10,20,5,6,4,3,2,Gated,Clubhouse,West,Builder,Ready to Move
+521,Delhi,New Delhi,Locality A,Independent House,3,2277,117.21,5147.66,2001,Semi-Furnished,13,12,24,4,5,4,2,None,Pool,West,Agent,Under Construction
+522,Karnataka,Mysore,Locality B,Independent House,1,3220,221.29,6872.21,2015,Fully-Furnished,10,15,10,2,2,3,1,Gated,Gym,North,Agent,Ready to Move
+523,Maharashtra,Mumbai,Locality C,Independent House,3,1197,95.01,7937.22,2021,Semi-Furnished,13,5,4,5,4,2,0,None,None,East,Individual,Under Construction
+524,Tamil Nadu,Coimbatore,Locality B,Villa,3,981,69.75,7109.94,2009,Semi-Furnished,19,13,16,6,4,1,1,None,Clubhouse,North,Agent,Under Construction
+525,Telangana,Hyderabad,Locality C,Villa,5,3757,259.16,6898.08,2016,Unfurnished,14,22,9,3,3,1,1,None,None,South,Individual,Ready to Move
+526,Telangana,Hyderabad,Locality B,Apartment,5,3615,313.8,8680.5,1992,Unfurnished,17,10,33,4,9,3,2,CCTV,None,East,Agent,Ready to Move
+527,Karnataka,Mysore,Locality B,Independent House,5,756,66.97,8858.62,2004,Fully-Furnished,7,14,21,3,7,4,1,CCTV,Pool,North,Individual,Ready to Move
+528,Tamil Nadu,Chennai,Locality B,Villa,3,2258,142.23,6298.99,2012,Unfurnished,4,15,13,7,8,2,0,Gated,Gym,North,Agent,Ready to Move
+529,Maharashtra,Nagpur,Locality A,Villa,3,1536,111.28,7244.55,1998,Semi-Furnished,11,20,27,6,8,1,1,Gated,Gym,East,Builder,Ready to Move
+530,Delhi,New Delhi,Locality A,Independent House,4,3090,211.37,6840.61,2003,Semi-Furnished,14,20,22,3,6,3,1,Guard,None,South,Agent,Ready to Move
+531,Delhi,New Delhi,Locality B,Independent House,2,2714,136.1,5014.75,2011,Semi-Furnished,17,8,14,4,9,1,2,None,Clubhouse,South,Individual,Ready to Move
+532,Maharashtra,Nagpur,Locality C,Independent House,1,3006,241.07,8019.72,2011,Semi-Furnished,14,19,14,6,8,3,0,CCTV,Gym,South,Builder,Under Construction
+533,Karnataka,Mysore,Locality A,Villa,2,1213,96.55,7959.22,2022,Unfurnished,1,9,3,5,1,1,1,Guard,Gym,South,Individual,Ready to Move
+534,Maharashtra,Nagpur,Locality A,Villa,1,555,33.56,6046.12,1990,Semi-Furnished,3,21,35,8,6,1,0,Guard,None,East,Individual,Under Construction
+535,Karnataka,Bangalore,Locality C,Independent House,1,2475,162.9,6581.9,2001,Unfurnished,18,8,24,4,1,1,1,Gated,Pool,North,Builder,Under Construction
+536,Maharashtra,Nagpur,Locality B,Apartment,4,746,32.81,4398.43,2013,Semi-Furnished,15,23,12,6,2,1,0,Guard,Pool,South,Individual,Under Construction
+537,Delhi,New Delhi,Locality C,Independent House,1,2559,131.28,5130.31,2010,Fully-Furnished,11,20,15,3,5,1,1,None,None,South,Builder,Ready to Move
+538,Maharashtra,Mumbai,Locality B,Apartment,3,3902,262.59,6729.7,2016,Fully-Furnished,4,20,9,6,5,3,0,None,Gym,South,Individual,Under Construction
+539,Delhi,New Delhi,Locality C,Apartment,1,621,60.08,9674.65,2017,Semi-Furnished,17,12,8,6,7,2,0,CCTV,Gym,North,Individual,Ready to Move
+540,Delhi,New Delhi,Locality B,Apartment,3,1712,137.73,8045.12,2013,Fully-Furnished,7,13,12,8,9,1,2,Guard,Gym,South,Builder,Under Construction
+541,Tamil Nadu,Chennai,Locality A,Villa,2,1269,97.89,7713.61,1996,Semi-Furnished,15,18,29,1,1,2,2,None,Gym,East,Agent,Ready to Move
+542,Delhi,New Delhi,Locality B,Villa,3,2681,147.44,5499.41,2001,Semi-Furnished,5,15,24,2,1,3,2,None,Clubhouse,West,Agent,Under Construction
+543,Maharashtra,Mumbai,Locality C,Independent House,2,3482,229.9,6602.67,2010,Unfurnished,17,16,15,1,5,3,1,None,Pool,West,Agent,Ready to Move
+544,Telangana,Hyderabad,Locality C,Villa,4,2029,131.78,6494.65,2004,Fully-Furnished,10,22,21,3,5,4,0,Gated,Clubhouse,West,Individual,Under Construction
+545,Delhi,New Delhi,Locality A,Apartment,1,3039,285.07,9380.48,2014,Semi-Furnished,4,21,11,5,3,1,0,CCTV,Pool,East,Individual,Under Construction
+546,Delhi,New Delhi,Locality B,Apartment,5,1994,170.76,8563.64,2020,Semi-Furnished,3,10,5,4,5,1,0,None,Clubhouse,North,Individual,Ready to Move
+547,Telangana,Hyderabad,Locality A,Apartment,1,2998,292.73,9764.29,2011,Fully-Furnished,14,16,14,6,3,2,1,None,Gym,North,Builder,Ready to Move
+548,Telangana,Hyderabad,Locality C,Independent House,3,554,42.57,7685.01,1994,Unfurnished,16,18,31,1,1,1,1,Gated,Gym,West,Builder,Under Construction
+549,Karnataka,Bangalore,Locality C,Apartment,5,2002,133.74,6680.44,2017,Unfurnished,1,6,8,2,4,2,2,Gated,None,North,Agent,Ready to Move
+550,Telangana,Hyderabad,Locality A,Apartment,5,3898,234.7,6021.09,1996,Unfurnished,8,19,29,2,8,1,0,None,None,South,Individual,Ready to Move
+551,Maharashtra,Mumbai,Locality A,Apartment,2,2005,194.05,9678.27,2015,Unfurnished,18,24,10,4,7,2,0,CCTV,None,North,Builder,Ready to Move
+552,Delhi,New Delhi,Locality C,Villa,2,3686,259.3,7034.86,2003,Unfurnished,18,13,22,3,8,2,0,Gated,Pool,East,Agent,Ready to Move
+553,Delhi,New Delhi,Locality A,Apartment,3,3362,226.5,6736.95,2009,Unfurnished,1,6,16,5,7,4,1,Guard,Pool,West,Builder,Ready to Move
+554,Karnataka,Bangalore,Locality C,Independent House,1,2873,249.3,8677.19,2009,Semi-Furnished,4,12,16,6,4,2,2,Gated,Clubhouse,North,Individual,Ready to Move
+555,Maharashtra,Nagpur,Locality A,Independent House,4,672,48.19,7171.51,2021,Fully-Furnished,12,15,4,8,3,1,2,None,None,West,Individual,Under Construction
+556,Telangana,Hyderabad,Locality B,Independent House,2,2889,179.21,6203.02,2022,Unfurnished,11,20,3,4,8,2,1,Guard,None,North,Agent,Ready to Move
+557,Maharashtra,Mumbai,Locality C,Apartment,3,956,68.9,7207.33,2007,Unfurnished,12,10,18,9,8,4,0,Gated,Clubhouse,North,Agent,Under Construction
+558,Karnataka,Bangalore,Locality A,Independent House,1,3397,337.71,9941.34,2014,Fully-Furnished,18,22,11,8,3,2,1,Gated,Clubhouse,North,Agent,Under Construction
+559,Tamil Nadu,Chennai,Locality A,Apartment,1,1754,92.39,5267.25,2011,Unfurnished,13,12,14,5,9,4,2,None,Gym,West,Individual,Ready to Move
+560,Delhi,New Delhi,Locality A,Independent House,1,2580,208.63,8086.3,2007,Fully-Furnished,4,17,18,8,9,1,1,Gated,None,South,Builder,Ready to Move
+561,Tamil Nadu,Coimbatore,Locality A,Villa,2,3382,261.76,7739.89,2014,Fully-Furnished,5,21,11,7,6,2,0,Guard,Pool,West,Individual,Ready to Move
+562,Telangana,Hyderabad,Locality A,Apartment,2,2805,137.02,4884.72,1990,Fully-Furnished,9,11,35,6,8,3,0,Guard,None,East,Individual,Ready to Move
+563,Maharashtra,Pune,Locality C,Apartment,1,3833,160.55,4188.68,2005,Unfurnished,13,19,20,5,2,2,0,CCTV,None,East,Builder,Under Construction
+564,Telangana,Hyderabad,Locality C,Independent House,2,653,55.48,8495.89,1992,Fully-Furnished,8,7,33,5,1,3,2,Gated,Pool,East,Builder,Ready to Move
+565,Delhi,New Delhi,Locality C,Independent House,4,3044,177.69,5837.44,2008,Unfurnished,9,15,17,1,9,3,2,Guard,Gym,South,Individual,Under Construction
+566,Tamil Nadu,Chennai,Locality B,Villa,5,1016,42.68,4201.28,2008,Fully-Furnished,9,17,17,7,8,4,2,CCTV,Clubhouse,West,Builder,Under Construction
+567,Karnataka,Mysore,Locality B,Independent House,5,2386,116.14,4867.48,2002,Unfurnished,8,20,23,6,2,1,2,Gated,Pool,West,Builder,Under Construction
+568,Delhi,New Delhi,Locality B,Villa,3,3268,237.07,7254.32,2000,Fully-Furnished,6,23,25,8,6,4,0,None,None,South,Individual,Under Construction
+569,Karnataka,Bangalore,Locality A,Apartment,2,678,51.5,7596.58,1991,Unfurnished,4,13,34,9,4,4,1,Guard,None,South,Individual,Under Construction
+570,Tamil Nadu,Coimbatore,Locality A,Independent House,1,3017,280.29,9290.3,2005,Fully-Furnished,7,21,20,6,2,4,2,CCTV,None,South,Agent,Ready to Move
+571,Maharashtra,Mumbai,Locality A,Independent House,5,802,73.36,9147.5,1999,Semi-Furnished,3,17,26,5,3,3,2,Gated,Pool,South,Builder,Under Construction
+572,Telangana,Hyderabad,Locality B,Villa,4,2828,115.33,4078.06,2012,Unfurnished,1,23,13,8,7,2,2,Gated,None,North,Builder,Ready to Move
+573,Delhi,New Delhi,Locality A,Independent House,1,1831,73.32,4004.3,2012,Unfurnished,9,14,13,6,6,3,1,Gated,Clubhouse,West,Individual,Ready to Move
+574,Telangana,Hyderabad,Locality A,Independent House,2,1871,103.69,5541.71,2007,Unfurnished,2,5,18,3,9,3,0,Guard,Gym,East,Agent,Ready to Move
+575,Karnataka,Bangalore,Locality B,Independent House,2,1237,90.8,7340.39,1993,Semi-Furnished,6,19,32,3,3,3,0,Gated,Clubhouse,North,Builder,Under Construction
+576,Maharashtra,Pune,Locality B,Villa,1,2241,166.06,7409.91,2002,Fully-Furnished,13,8,23,3,2,4,2,Gated,Pool,South,Individual,Ready to Move
+577,Telangana,Hyderabad,Locality A,Apartment,3,1819,126.86,6973.92,2020,Semi-Furnished,12,14,5,2,7,1,1,CCTV,Pool,West,Agent,Ready to Move
+578,Karnataka,Mysore,Locality B,Apartment,3,2611,221.8,8494.95,1991,Semi-Furnished,16,24,34,8,3,1,2,CCTV,None,North,Builder,Under Construction
+579,Karnataka,Bangalore,Locality C,Villa,1,1997,141.3,7075.5,2005,Fully-Furnished,5,20,20,3,6,3,2,CCTV,None,North,Individual,Ready to Move
+580,Delhi,New Delhi,Locality C,Villa,3,1696,154.21,9092.61,2004,Unfurnished,19,23,21,6,9,4,0,Guard,Clubhouse,North,Agent,Under Construction
+581,Maharashtra,Nagpur,Locality A,Independent House,1,2384,211.38,8866.52,1992,Unfurnished,17,13,33,8,6,3,2,Gated,Pool,East,Individual,Ready to Move
+582,Tamil Nadu,Coimbatore,Locality A,Villa,1,2393,158.36,6617.47,2006,Fully-Furnished,15,12,19,6,4,3,2,Gated,None,South,Individual,Ready to Move
+583,Tamil Nadu,Coimbatore,Locality A,Apartment,1,2114,100.02,4731.34,1999,Unfurnished,17,21,26,6,8,3,1,None,None,North,Builder,Under Construction
+584,Karnataka,Bangalore,Locality B,Independent House,5,1926,116.99,6074.38,2004,Semi-Furnished,16,6,21,3,7,2,2,Guard,None,East,Builder,Ready to Move
+585,Karnataka,Mysore,Locality C,Apartment,4,3258,191.88,5889.6,2018,Semi-Furnished,19,9,7,4,7,4,0,Guard,Pool,East,Individual,Under Construction
+586,Delhi,New Delhi,Locality B,Independent House,3,1645,156.1,9489.15,2002,Unfurnished,3,12,23,1,9,1,2,None,None,West,Builder,Ready to Move
+587,Tamil Nadu,Chennai,Locality B,Apartment,5,2608,125.75,4821.89,2000,Semi-Furnished,2,7,25,6,5,4,1,None,Clubhouse,West,Agent,Ready to Move
+588,Karnataka,Mysore,Locality B,Independent House,2,1164,94.56,8123.7,2012,Fully-Furnished,2,18,13,1,8,1,0,None,Gym,North,Agent,Under Construction
+589,Karnataka,Mysore,Locality A,Apartment,2,3090,257.63,8337.66,2009,Fully-Furnished,14,6,16,7,3,4,1,Gated,None,North,Individual,Under Construction
+590,Delhi,New Delhi,Locality C,Villa,3,3013,164.93,5473.79,1992,Semi-Furnished,12,11,33,9,5,2,1,Gated,Gym,West,Builder,Under Construction
+591,Karnataka,Bangalore,Locality B,Apartment,1,3055,140.67,4604.52,2001,Fully-Furnished,12,17,24,3,1,4,2,None,Gym,East,Builder,Under Construction
+592,Telangana,Hyderabad,Locality C,Independent House,1,632,37.71,5966.63,1993,Unfurnished,5,13,32,7,7,4,1,CCTV,Clubhouse,East,Individual,Under Construction
+593,Maharashtra,Pune,Locality B,Independent House,3,1877,121.8,6489.08,2011,Semi-Furnished,15,14,14,2,7,1,1,Gated,Gym,East,Agent,Ready to Move
+594,Telangana,Hyderabad,Locality B,Villa,2,3836,177.73,4633.08,2020,Semi-Furnished,13,20,5,4,3,1,1,None,Pool,North,Builder,Under Construction
+595,Delhi,New Delhi,Locality B,Apartment,5,2891,274.09,9480.67,2015,Fully-Furnished,4,11,10,1,4,3,1,CCTV,Clubhouse,North,Builder,Under Construction
+596,Karnataka,Mysore,Locality B,Independent House,2,1768,123.72,6997.71,2011,Unfurnished,19,20,14,6,1,2,2,CCTV,Gym,West,Builder,Ready to Move
+597,Tamil Nadu,Chennai,Locality B,Villa,1,3198,133.45,4173.02,2023,Unfurnished,5,24,2,9,4,3,0,None,Pool,North,Agent,Under Construction
+598,Tamil Nadu,Chennai,Locality B,Independent House,3,592,33.91,5727.28,1994,Fully-Furnished,15,23,31,3,6,2,1,CCTV,Gym,West,Agent,Under Construction
+599,Delhi,New Delhi,Locality A,Independent House,3,3239,267.93,8272.05,2005,Semi-Furnished,17,13,20,4,6,3,2,Gated,Clubhouse,South,Agent,Under Construction
+600,Delhi,New Delhi,Locality C,Independent House,3,3889,385.8,9920.18,2007,Fully-Furnished,6,5,18,1,4,4,1,None,Gym,East,Agent,Ready to Move
+601,Maharashtra,Nagpur,Locality A,Apartment,3,2796,123.41,4413.94,2022,Unfurnished,10,10,3,5,8,4,2,Gated,Pool,North,Builder,Under Construction
+602,Karnataka,Bangalore,Locality A,Apartment,5,3433,196.97,5737.5,2022,Semi-Furnished,5,18,3,8,6,3,1,Gated,None,North,Agent,Ready to Move
+603,Karnataka,Bangalore,Locality C,Villa,4,2813,278.09,9885.92,2009,Fully-Furnished,12,14,16,5,1,4,1,Gated,Pool,North,Builder,Under Construction
+604,Tamil Nadu,Chennai,Locality A,Independent House,1,770,38.57,5009.56,1995,Unfurnished,5,8,30,9,6,3,2,CCTV,Pool,East,Individual,Under Construction
+605,Karnataka,Mysore,Locality C,Independent House,2,2315,149.79,6470.49,1992,Semi-Furnished,18,24,33,6,5,3,2,None,Gym,West,Builder,Under Construction
+606,Maharashtra,Nagpur,Locality A,Independent House,5,2348,105.98,4513.6,2009,Semi-Furnished,14,15,16,3,7,4,0,Guard,Gym,South,Individual,Ready to Move
+607,Telangana,Hyderabad,Locality A,Apartment,2,1187,83.78,7058.41,2022,Fully-Furnished,16,23,3,1,9,1,1,Guard,Pool,South,Agent,Ready to Move
+608,Tamil Nadu,Coimbatore,Locality A,Apartment,2,1261,56.08,4447.06,2017,Semi-Furnished,3,12,8,5,4,2,0,CCTV,Pool,South,Individual,Ready to Move
+609,Karnataka,Bangalore,Locality C,Independent House,5,2737,116.1,4241.98,2008,Fully-Furnished,10,22,17,6,6,3,2,CCTV,Gym,South,Builder,Ready to Move
+610,Karnataka,Mysore,Locality B,Apartment,3,2378,218.82,9201.65,2013,Semi-Furnished,19,20,12,4,7,1,0,None,None,North,Agent,Ready to Move
+611,Tamil Nadu,Coimbatore,Locality B,Apartment,2,2400,209.16,8714.85,2000,Unfurnished,11,20,25,4,8,4,0,None,Gym,East,Agent,Under Construction
+612,Tamil Nadu,Chennai,Locality A,Villa,4,1554,143.46,9231.91,2005,Unfurnished,12,10,20,2,5,2,2,Guard,Clubhouse,North,Individual,Ready to Move
+613,Delhi,New Delhi,Locality A,Villa,1,1356,120.36,8876.16,1995,Semi-Furnished,9,21,30,9,4,4,0,CCTV,Clubhouse,South,Agent,Ready to Move
+614,Tamil Nadu,Coimbatore,Locality C,Independent House,1,3538,299.36,8461.27,2023,Fully-Furnished,7,12,2,3,2,2,1,Guard,Pool,North,Individual,Under Construction
+615,Delhi,New Delhi,Locality B,Independent House,4,2378,213.5,8978.01,1996,Fully-Furnished,4,23,29,6,9,4,0,Gated,None,East,Builder,Under Construction
+616,Delhi,New Delhi,Locality A,Apartment,5,2768,193.6,6994.22,1995,Semi-Furnished,12,10,30,7,7,1,2,Guard,Gym,West,Agent,Under Construction
+617,Delhi,New Delhi,Locality C,Apartment,3,1226,58.86,4801.09,2005,Semi-Furnished,15,10,20,4,8,4,0,Guard,Pool,West,Agent,Ready to Move
+618,Tamil Nadu,Chennai,Locality A,Independent House,1,3731,156.04,4182.28,2014,Fully-Furnished,15,19,11,6,5,4,1,CCTV,Clubhouse,North,Individual,Ready to Move
+619,Telangana,Hyderabad,Locality B,Independent House,2,1292,65.61,5077.96,2003,Fully-Furnished,17,23,22,1,8,4,0,Guard,Gym,North,Agent,Ready to Move
+620,Karnataka,Bangalore,Locality A,Villa,1,587,30.66,5222.66,2003,Unfurnished,7,19,22,7,8,1,2,None,Clubhouse,South,Agent,Ready to Move
+621,Telangana,Hyderabad,Locality A,Apartment,4,1541,66.49,4314.43,2018,Unfurnished,15,8,7,8,6,1,1,Gated,Clubhouse,West,Individual,Ready to Move
+622,Tamil Nadu,Chennai,Locality C,Apartment,2,1985,100.98,5087.31,2018,Semi-Furnished,4,5,7,4,8,1,1,Guard,Gym,North,Agent,Under Construction
+623,Delhi,New Delhi,Locality A,Apartment,2,1618,129.29,7990.72,2011,Fully-Furnished,18,15,14,6,1,1,0,None,Clubhouse,South,Agent,Ready to Move
+624,Telangana,Hyderabad,Locality A,Independent House,5,2083,202.79,9735.51,2004,Semi-Furnished,5,10,21,2,3,4,0,Guard,Pool,South,Individual,Ready to Move
+625,Telangana,Hyderabad,Locality B,Apartment,5,3080,240.58,7810.94,2017,Semi-Furnished,12,5,8,7,5,3,0,None,None,North,Builder,Under Construction
+626,Delhi,New Delhi,Locality A,Apartment,4,1755,124.29,7081.8,2018,Fully-Furnished,17,19,7,4,7,4,2,CCTV,Pool,West,Agent,Under Construction
+627,Telangana,Hyderabad,Locality B,Apartment,5,526,42.0,7984.92,1996,Unfurnished,11,13,29,4,9,1,0,None,None,North,Builder,Under Construction
+628,Telangana,Hyderabad,Locality A,Villa,2,1778,101.07,5684.26,2007,Semi-Furnished,19,7,18,2,5,2,0,Gated,None,West,Agent,Ready to Move
+629,Maharashtra,Nagpur,Locality B,Independent House,2,1834,157.3,8576.79,2017,Unfurnished,13,15,8,5,3,3,2,Gated,Gym,North,Individual,Under Construction
+630,Maharashtra,Nagpur,Locality C,Independent House,2,2018,140.91,6982.54,2014,Unfurnished,10,24,11,7,8,4,1,Gated,Clubhouse,East,Individual,Ready to Move
+631,Maharashtra,Pune,Locality A,Independent House,3,2861,154.45,5398.32,2015,Semi-Furnished,1,15,10,8,6,4,2,None,Gym,East,Agent,Under Construction
+632,Telangana,Hyderabad,Locality C,Villa,2,2095,184.33,8798.58,2008,Semi-Furnished,1,10,17,9,7,4,1,None,Gym,South,Agent,Ready to Move
+633,Delhi,New Delhi,Locality A,Apartment,2,3398,238.85,7029.25,2002,Semi-Furnished,5,20,23,8,5,4,0,Guard,Gym,West,Builder,Under Construction
+634,Tamil Nadu,Chennai,Locality B,Villa,3,2591,252.99,9764.37,1993,Unfurnished,2,7,32,2,2,1,2,Guard,Pool,East,Agent,Ready to Move
+635,Telangana,Hyderabad,Locality B,Independent House,2,2790,113.79,4078.46,2008,Fully-Furnished,2,7,17,7,7,2,1,Guard,Clubhouse,West,Agent,Under Construction
+636,Delhi,New Delhi,Locality C,Independent House,1,3727,268.43,7202.35,2002,Fully-Furnished,17,22,23,5,7,4,0,None,Clubhouse,West,Builder,Under Construction
+637,Tamil Nadu,Chennai,Locality B,Villa,1,3349,219.97,6568.12,1991,Unfurnished,3,11,34,8,1,4,2,None,None,West,Agent,Ready to Move
+638,Telangana,Hyderabad,Locality A,Independent House,2,2780,215.87,7765.04,2011,Fully-Furnished,11,12,14,6,9,1,0,Gated,Pool,West,Builder,Under Construction
+639,Tamil Nadu,Chennai,Locality A,Villa,3,1373,124.55,9071.35,2014,Fully-Furnished,12,5,11,1,5,4,0,CCTV,None,West,Agent,Ready to Move
+640,Maharashtra,Pune,Locality C,Villa,3,3759,190.08,5056.54,2009,Semi-Furnished,11,12,16,8,8,4,0,Gated,Gym,East,Agent,Ready to Move
+641,Karnataka,Bangalore,Locality A,Independent House,4,1638,115.13,7028.44,1994,Fully-Furnished,2,16,31,4,4,3,2,Gated,None,South,Individual,Under Construction
+642,Telangana,Hyderabad,Locality C,Independent House,2,974,51.43,5280.18,2014,Semi-Furnished,11,5,11,6,8,3,1,Gated,Gym,North,Builder,Ready to Move
+643,Maharashtra,Nagpur,Locality A,Apartment,3,3784,277.65,7337.42,2005,Semi-Furnished,8,18,20,7,6,1,1,None,Clubhouse,South,Builder,Under Construction
+644,Telangana,Hyderabad,Locality C,Villa,5,1037,82.47,7953.13,2020,Unfurnished,16,21,5,3,8,3,0,None,Pool,South,Builder,Under Construction
+645,Karnataka,Bangalore,Locality B,Apartment,5,2605,223.66,8585.94,1997,Unfurnished,8,6,28,8,6,4,1,None,None,North,Agent,Under Construction
+646,Delhi,New Delhi,Locality C,Apartment,4,2113,167.51,7927.73,1996,Semi-Furnished,6,20,29,4,5,3,2,None,None,East,Builder,Under Construction
+647,Karnataka,Mysore,Locality B,Villa,5,3774,271.93,7205.48,2001,Semi-Furnished,13,11,24,8,1,1,2,None,Clubhouse,North,Individual,Under Construction
+648,Tamil Nadu,Chennai,Locality C,Villa,4,3740,216.68,5793.69,2007,Semi-Furnished,10,9,18,4,9,2,0,Gated,Pool,North,Agent,Ready to Move
+649,Maharashtra,Pune,Locality B,Villa,5,2593,113.75,4386.94,2015,Fully-Furnished,14,12,10,9,7,3,1,Guard,None,North,Individual,Ready to Move
+650,Karnataka,Bangalore,Locality C,Independent House,5,1010,53.99,5345.55,2000,Fully-Furnished,15,14,25,2,5,3,1,Guard,Clubhouse,East,Individual,Under Construction
+651,Maharashtra,Mumbai,Locality B,Villa,1,861,36.21,4205.05,2014,Fully-Furnished,12,11,11,8,6,2,2,None,Gym,East,Individual,Under Construction
+652,Maharashtra,Nagpur,Locality A,Apartment,4,2568,158.97,6190.5,2003,Semi-Furnished,18,6,22,4,4,2,1,Guard,None,West,Builder,Under Construction
+653,Karnataka,Mysore,Locality C,Apartment,1,603,42.72,7084.48,2014,Unfurnished,16,10,11,1,3,4,2,Guard,Gym,South,Agent,Under Construction
+654,Maharashtra,Nagpur,Locality B,Villa,4,3185,148.09,4649.74,1995,Semi-Furnished,8,12,30,4,7,2,2,Gated,None,West,Individual,Under Construction
+655,Telangana,Hyderabad,Locality C,Apartment,4,962,60.99,6340.4,2011,Semi-Furnished,1,20,14,3,6,3,0,CCTV,Gym,East,Builder,Ready to Move
+656,Tamil Nadu,Chennai,Locality C,Independent House,2,2103,165.49,7869.44,2012,Fully-Furnished,9,15,13,5,2,2,1,CCTV,Gym,North,Individual,Ready to Move
+657,Maharashtra,Mumbai,Locality A,Apartment,3,3708,270.57,7296.94,2019,Semi-Furnished,13,11,6,4,1,2,0,None,None,North,Agent,Ready to Move
+658,Maharashtra,Pune,Locality A,Apartment,4,510,41.71,8179.04,2006,Fully-Furnished,4,20,19,3,2,1,2,Guard,None,North,Individual,Ready to Move
+659,Maharashtra,Mumbai,Locality B,Apartment,2,3751,160.69,4283.95,2004,Unfurnished,9,9,21,2,1,1,1,Guard,Gym,South,Builder,Ready to Move
+660,Maharashtra,Nagpur,Locality C,Independent House,1,3540,195.43,5520.74,2019,Semi-Furnished,19,23,6,6,6,1,1,Guard,None,East,Agent,Under Construction
+661,Delhi,New Delhi,Locality B,Villa,2,556,41.07,7385.81,1996,Semi-Furnished,19,13,29,6,7,4,1,Gated,None,South,Individual,Under Construction
+662,Maharashtra,Pune,Locality A,Independent House,4,1408,74.21,5270.3,2007,Semi-Furnished,4,6,18,8,5,2,1,None,Pool,West,Agent,Ready to Move
+663,Karnataka,Mysore,Locality C,Independent House,1,961,59.07,6146.71,2012,Unfurnished,16,20,13,6,7,2,2,None,Clubhouse,South,Builder,Under Construction
+664,Tamil Nadu,Coimbatore,Locality C,Villa,1,3566,326.15,9145.96,2011,Fully-Furnished,15,5,14,1,5,3,2,Gated,Gym,East,Builder,Under Construction
+665,Tamil Nadu,Coimbatore,Locality A,Villa,1,3798,252.44,6646.7,1994,Unfurnished,10,12,31,5,9,1,2,Guard,Gym,North,Individual,Ready to Move
+666,Telangana,Hyderabad,Locality A,Apartment,4,1685,83.38,4948.55,2005,Unfurnished,6,9,20,7,7,2,1,Gated,Gym,West,Agent,Under Construction
+667,Tamil Nadu,Coimbatore,Locality C,Villa,3,3162,134.41,4250.93,1997,Unfurnished,17,11,28,8,3,3,2,Gated,None,North,Builder,Ready to Move
+668,Delhi,New Delhi,Locality C,Villa,3,1661,135.13,8135.57,2006,Semi-Furnished,14,5,19,7,4,1,0,Guard,Pool,East,Builder,Under Construction
+669,Tamil Nadu,Chennai,Locality C,Independent House,4,3973,286.2,7203.57,2013,Semi-Furnished,9,9,12,5,2,1,1,Gated,Pool,South,Agent,Ready to Move
+670,Karnataka,Mysore,Locality B,Villa,2,2709,241.37,8909.89,2023,Semi-Furnished,19,18,2,4,5,1,0,None,Gym,West,Agent,Ready to Move
+671,Karnataka,Bangalore,Locality C,Apartment,3,2926,178.22,6091.05,1994,Unfurnished,3,9,31,5,4,3,1,CCTV,Clubhouse,East,Individual,Under Construction
+672,Delhi,New Delhi,Locality B,Independent House,1,2740,176.66,6447.31,2023,Unfurnished,5,13,2,6,1,4,0,Gated,Gym,North,Agent,Under Construction
+673,Telangana,Hyderabad,Locality A,Villa,4,1021,70.3,6885.88,1992,Fully-Furnished,15,11,33,6,8,4,1,None,Pool,West,Builder,Ready to Move
+674,Maharashtra,Mumbai,Locality A,Apartment,3,869,70.58,8121.71,1994,Unfurnished,3,23,31,3,3,4,1,None,Clubhouse,West,Builder,Under Construction
+675,Delhi,New Delhi,Locality C,Independent House,5,3398,265.29,7807.21,2002,Fully-Furnished,12,15,23,3,4,1,1,CCTV,None,West,Agent,Ready to Move
+676,Maharashtra,Pune,Locality B,Independent House,3,3830,327.26,8544.78,2013,Fully-Furnished,12,20,12,7,3,2,2,CCTV,Gym,South,Agent,Ready to Move
+677,Telangana,Hyderabad,Locality C,Independent House,2,2952,197.43,6687.85,2014,Fully-Furnished,15,23,11,5,5,2,2,CCTV,None,South,Agent,Ready to Move
+678,Maharashtra,Pune,Locality C,Apartment,5,2919,205.54,7041.58,2006,Unfurnished,14,22,19,3,8,4,2,CCTV,None,North,Agent,Ready to Move
+679,Tamil Nadu,Coimbatore,Locality B,Apartment,4,2679,210.78,7868.03,2005,Semi-Furnished,16,14,20,1,4,2,0,Gated,None,North,Builder,Under Construction
+680,Telangana,Hyderabad,Locality B,Apartment,2,3115,241.69,7758.91,2010,Unfurnished,6,10,15,2,2,1,2,Guard,None,West,Individual,Under Construction
+681,Maharashtra,Nagpur,Locality B,Villa,3,648,39.16,6043.93,2021,Unfurnished,7,15,4,8,5,2,1,None,None,North,Builder,Under Construction
+682,Delhi,New Delhi,Locality A,Independent House,1,3060,288.41,9425.15,2006,Semi-Furnished,16,6,19,8,5,3,2,Gated,Pool,East,Agent,Under Construction
+683,Maharashtra,Pune,Locality A,Apartment,2,614,37.0,6026.26,2016,Unfurnished,6,6,9,8,1,3,0,CCTV,Pool,East,Individual,Ready to Move
+684,Maharashtra,Mumbai,Locality C,Villa,3,1003,43.63,4349.78,2005,Fully-Furnished,1,13,20,4,1,1,2,None,Clubhouse,West,Builder,Under Construction
+685,Karnataka,Bangalore,Locality C,Villa,3,1422,103.52,7280.08,2008,Semi-Furnished,10,20,17,5,8,4,1,Guard,None,South,Agent,Under Construction
+686,Tamil Nadu,Coimbatore,Locality C,Independent House,2,3067,226.49,7384.76,2016,Unfurnished,7,11,9,3,2,1,0,None,Clubhouse,West,Agent,Ready to Move
+687,Karnataka,Mysore,Locality C,Apartment,5,1466,142.12,9694.67,2016,Semi-Furnished,17,8,9,5,7,1,1,None,Clubhouse,West,Agent,Under Construction
+688,Delhi,New Delhi,Locality C,Villa,4,1270,51.64,4066.17,2010,Unfurnished,17,21,15,1,6,2,0,CCTV,Clubhouse,North,Individual,Ready to Move
+689,Delhi,New Delhi,Locality A,Villa,5,1269,51.38,4048.88,2021,Unfurnished,16,24,4,8,7,2,0,CCTV,Gym,South,Agent,Ready to Move
+690,Maharashtra,Mumbai,Locality C,Villa,1,1470,82.0,5578.42,1995,Fully-Furnished,13,19,30,6,5,4,1,None,Gym,West,Builder,Under Construction
+691,Tamil Nadu,Coimbatore,Locality A,Villa,1,1703,113.95,6691.26,2005,Unfurnished,17,5,20,8,6,2,2,Guard,Pool,South,Builder,Ready to Move
+692,Telangana,Hyderabad,Locality A,Apartment,4,1460,101.06,6922.1,2019,Unfurnished,13,20,6,4,1,1,2,CCTV,Gym,West,Builder,Ready to Move
+693,Telangana,Hyderabad,Locality A,Villa,3,1753,155.86,8891.08,1998,Fully-Furnished,3,14,27,7,3,1,1,Gated,Gym,West,Agent,Under Construction
+694,Maharashtra,Pune,Locality A,Apartment,4,1722,79.18,4598.36,2009,Semi-Furnished,5,21,16,8,4,3,2,Guard,Pool,South,Agent,Ready to Move
+695,Tamil Nadu,Coimbatore,Locality B,Villa,3,3544,298.27,8416.1,2004,Unfurnished,6,7,21,1,5,2,2,Gated,None,East,Agent,Ready to Move
+696,Karnataka,Bangalore,Locality C,Independent House,1,2244,119.21,5312.44,2002,Semi-Furnished,13,16,23,4,2,1,2,None,None,South,Individual,Ready to Move
+697,Maharashtra,Pune,Locality B,Independent House,2,3530,338.9,9600.48,2000,Unfurnished,7,20,25,3,1,3,0,Guard,Gym,East,Agent,Ready to Move
+698,Telangana,Hyderabad,Locality B,Independent House,2,2207,94.12,4264.55,2011,Fully-Furnished,1,7,14,5,7,3,1,Guard,Pool,South,Builder,Under Construction
+699,Karnataka,Bangalore,Locality C,Apartment,1,3664,170.07,4641.52,2004,Semi-Furnished,12,5,21,5,2,1,0,CCTV,Pool,West,Individual,Ready to Move
+700,Karnataka,Bangalore,Locality A,Villa,2,2046,107.18,5238.67,2007,Semi-Furnished,3,20,18,6,6,2,2,CCTV,Clubhouse,North,Agent,Ready to Move
+701,Tamil Nadu,Coimbatore,Locality B,Villa,3,2095,134.91,6439.41,1999,Unfurnished,6,17,26,6,8,4,1,Guard,Pool,South,Builder,Ready to Move
+702,Karnataka,Mysore,Locality A,Apartment,5,1118,105.73,9456.76,2023,Unfurnished,15,22,2,4,7,4,2,None,Clubhouse,West,Builder,Ready to Move
+703,Karnataka,Mysore,Locality B,Villa,5,1892,103.64,5477.62,2006,Semi-Furnished,7,19,19,7,1,2,0,Guard,None,North,Individual,Ready to Move
+704,Delhi,New Delhi,Locality C,Apartment,3,3987,351.57,8817.8,1993,Semi-Furnished,15,6,32,6,1,3,0,Guard,Gym,East,Builder,Ready to Move
+705,Tamil Nadu,Chennai,Locality B,Villa,5,2457,187.17,7618.02,2013,Fully-Furnished,6,6,12,8,2,3,0,Gated,Clubhouse,West,Agent,Ready to Move
+706,Tamil Nadu,Chennai,Locality A,Villa,5,720,51.78,7191.73,1999,Fully-Furnished,10,11,26,1,8,4,2,CCTV,Clubhouse,South,Builder,Ready to Move
+707,Maharashtra,Pune,Locality A,Independent House,3,1559,95.96,6154.97,2003,Unfurnished,19,23,22,8,6,1,1,CCTV,Gym,East,Individual,Ready to Move
+708,Karnataka,Mysore,Locality A,Apartment,4,520,38.89,7479.81,2020,Unfurnished,14,24,5,7,4,2,2,None,Gym,East,Builder,Under Construction
+709,Karnataka,Mysore,Locality A,Independent House,3,1473,59.81,4060.43,2003,Semi-Furnished,14,7,22,8,1,3,2,Guard,None,West,Agent,Ready to Move
+710,Maharashtra,Nagpur,Locality B,Villa,5,2964,208.61,7038.22,2001,Unfurnished,14,22,24,8,6,4,0,CCTV,Gym,North,Builder,Under Construction
+711,Karnataka,Bangalore,Locality B,Apartment,5,2725,111.85,4104.58,2014,Unfurnished,10,22,11,3,4,3,2,None,Gym,West,Builder,Ready to Move
+712,Karnataka,Mysore,Locality B,Independent House,1,2123,158.2,7451.68,1995,Fully-Furnished,5,13,30,4,3,3,2,Guard,Clubhouse,South,Agent,Under Construction
+713,Telangana,Hyderabad,Locality C,Apartment,4,1727,122.72,7106.07,2002,Semi-Furnished,4,6,23,5,6,2,0,Guard,Pool,West,Agent,Under Construction
+714,Telangana,Hyderabad,Locality C,Apartment,1,957,42.29,4419.35,1998,Fully-Furnished,9,19,27,9,9,1,2,CCTV,Clubhouse,East,Agent,Under Construction
+715,Tamil Nadu,Coimbatore,Locality C,Villa,3,1434,98.39,6861.03,2008,Semi-Furnished,7,8,17,1,2,1,2,Gated,Gym,West,Individual,Under Construction
+716,Telangana,Hyderabad,Locality A,Apartment,1,3680,266.95,7254.15,2016,Unfurnished,13,6,9,4,9,4,0,None,Gym,North,Builder,Under Construction
+717,Telangana,Hyderabad,Locality B,Villa,4,500,39.36,7872.07,2003,Semi-Furnished,4,14,22,3,4,1,0,Guard,Clubhouse,East,Builder,Ready to Move
+718,Telangana,Hyderabad,Locality B,Apartment,3,2021,112.31,5557.31,2021,Fully-Furnished,7,16,4,8,2,4,2,Gated,Clubhouse,South,Builder,Under Construction
+719,Tamil Nadu,Coimbatore,Locality B,Independent House,3,3441,339.97,9879.92,2005,Fully-Furnished,1,9,20,3,2,2,0,CCTV,Pool,North,Builder,Ready to Move
+720,Maharashtra,Nagpur,Locality A,Apartment,3,2524,220.18,8723.5,2001,Unfurnished,19,22,24,4,5,3,0,None,Clubhouse,North,Builder,Under Construction
+721,Tamil Nadu,Coimbatore,Locality B,Villa,5,1594,71.27,4471.16,2022,Semi-Furnished,7,13,3,8,7,2,0,Gated,Pool,North,Agent,Ready to Move
+722,Tamil Nadu,Coimbatore,Locality B,Apartment,4,606,31.7,5231.63,2021,Fully-Furnished,11,5,4,9,3,2,1,None,Pool,South,Individual,Under Construction
+723,Karnataka,Mysore,Locality B,Villa,5,3186,168.96,5303.34,2012,Fully-Furnished,18,20,13,3,4,3,0,None,None,North,Builder,Ready to Move
+724,Maharashtra,Pune,Locality A,Villa,1,2063,87.67,4249.58,2003,Unfurnished,6,7,22,4,9,3,2,CCTV,Gym,South,Builder,Under Construction
+725,Maharashtra,Pune,Locality A,Apartment,1,3526,172.74,4899.03,2004,Unfurnished,8,5,21,6,1,4,1,Gated,Gym,South,Agent,Ready to Move
+726,Telangana,Hyderabad,Locality C,Independent House,1,2901,261.42,9011.38,2007,Fully-Furnished,13,20,18,4,1,1,2,Guard,None,North,Builder,Ready to Move
+727,Telangana,Hyderabad,Locality B,Villa,4,2384,106.65,4473.41,1993,Semi-Furnished,15,23,32,4,8,1,1,Guard,Pool,West,Builder,Under Construction
+728,Telangana,Hyderabad,Locality B,Apartment,2,2110,175.96,8339.38,2008,Fully-Furnished,6,14,17,7,5,1,0,CCTV,None,South,Individual,Ready to Move
+729,Karnataka,Bangalore,Locality C,Villa,5,3509,204.31,5822.4,1996,Unfurnished,19,8,29,2,2,3,1,None,None,East,Builder,Ready to Move
+730,Maharashtra,Nagpur,Locality B,Independent House,3,3945,234.68,5948.79,2019,Unfurnished,6,21,6,7,9,3,0,Gated,Pool,West,Individual,Under Construction
+731,Maharashtra,Mumbai,Locality A,Independent House,4,1712,86.96,5079.38,2006,Semi-Furnished,4,21,19,3,9,2,2,None,Pool,East,Builder,Ready to Move
+732,Delhi,New Delhi,Locality B,Independent House,5,3691,169.96,4604.84,1997,Fully-Furnished,16,13,28,8,7,4,2,Gated,Clubhouse,West,Agent,Ready to Move
+733,Maharashtra,Mumbai,Locality B,Apartment,3,3300,305.81,9267.0,1994,Semi-Furnished,17,16,31,1,3,3,0,Gated,Clubhouse,South,Builder,Ready to Move
+734,Delhi,New Delhi,Locality C,Apartment,5,801,32.09,4005.66,2005,Fully-Furnished,5,24,20,3,4,1,0,None,None,South,Builder,Ready to Move
+735,Karnataka,Bangalore,Locality C,Apartment,1,3960,331.32,8366.58,1997,Unfurnished,16,24,28,7,5,2,2,Gated,None,South,Agent,Ready to Move
+736,Delhi,New Delhi,Locality C,Independent House,2,3736,291.91,7813.56,2023,Fully-Furnished,1,6,2,4,6,3,2,CCTV,None,North,Agent,Under Construction
+737,Maharashtra,Pune,Locality C,Villa,3,2823,131.19,4647.13,2021,Unfurnished,10,21,4,8,7,4,0,Gated,Gym,West,Individual,Under Construction
+738,Telangana,Hyderabad,Locality C,Independent House,2,3082,213.67,6932.68,2009,Unfurnished,3,7,16,7,9,2,1,CCTV,Gym,South,Individual,Ready to Move
+739,Delhi,New Delhi,Locality C,Apartment,3,1745,135.24,7750.12,2007,Fully-Furnished,2,5,18,2,7,1,1,None,Clubhouse,South,Agent,Ready to Move
+740,Tamil Nadu,Coimbatore,Locality A,Independent House,2,3755,340.98,9080.7,1996,Unfurnished,4,16,29,6,9,4,1,None,Gym,South,Builder,Under Construction
+741,Karnataka,Bangalore,Locality B,Independent House,5,635,40.55,6385.55,2014,Fully-Furnished,6,20,11,4,2,3,0,None,None,West,Individual,Under Construction
+742,Telangana,Hyderabad,Locality B,Independent House,3,3433,322.99,9408.4,2018,Semi-Furnished,17,24,7,9,3,4,2,Guard,Gym,South,Builder,Ready to Move
+743,Karnataka,Mysore,Locality C,Villa,1,3302,233.74,7078.85,2004,Fully-Furnished,8,10,21,6,3,1,1,None,Pool,East,Agent,Under Construction
+744,Telangana,Hyderabad,Locality A,Apartment,4,2682,131.02,4885.14,2002,Semi-Furnished,8,24,23,4,9,1,1,None,Gym,East,Individual,Ready to Move
+745,Tamil Nadu,Chennai,Locality C,Independent House,3,3334,276.7,8299.32,1994,Fully-Furnished,17,10,31,3,8,4,0,Guard,None,East,Builder,Under Construction
+746,Tamil Nadu,Coimbatore,Locality C,Independent House,5,1994,154.24,7735.1,2018,Semi-Furnished,3,9,7,5,4,1,1,None,Gym,North,Builder,Ready to Move
+747,Tamil Nadu,Coimbatore,Locality C,Independent House,1,2780,243.04,8742.44,2010,Fully-Furnished,3,10,15,1,4,4,0,None,Gym,West,Agent,Ready to Move
+748,Karnataka,Mysore,Locality A,Villa,1,2612,147.51,5647.43,2014,Unfurnished,13,13,11,4,3,2,2,None,Pool,South,Individual,Ready to Move
+749,Tamil Nadu,Coimbatore,Locality B,Independent House,2,1885,181.17,9611.31,2019,Fully-Furnished,11,21,6,2,7,4,1,None,Gym,East,Individual,Ready to Move
+750,Maharashtra,Nagpur,Locality B,Independent House,4,3897,165.69,4251.84,2001,Semi-Furnished,19,9,24,5,9,2,1,CCTV,Gym,North,Agent,Under Construction
+751,Karnataka,Bangalore,Locality A,Villa,1,1127,101.22,8981.1,2004,Unfurnished,13,5,21,1,6,4,2,Gated,None,North,Builder,Ready to Move
+752,Telangana,Hyderabad,Locality B,Independent House,3,1169,92.88,7945.41,2006,Fully-Furnished,11,7,19,6,2,1,1,CCTV,Pool,South,Builder,Ready to Move
+753,Maharashtra,Pune,Locality A,Independent House,4,1830,73.68,4026.06,2010,Semi-Furnished,8,16,15,2,9,1,0,Gated,Clubhouse,North,Agent,Ready to Move
+754,Tamil Nadu,Chennai,Locality B,Villa,1,961,83.79,8719.29,2004,Semi-Furnished,13,6,21,7,1,4,0,Guard,Clubhouse,West,Agent,Ready to Move
+755,Karnataka,Mysore,Locality B,Villa,4,1657,101.12,6102.82,2023,Fully-Furnished,2,20,2,6,9,2,1,None,Gym,East,Agent,Under Construction
+756,Maharashtra,Mumbai,Locality C,Independent House,2,3384,291.58,8616.37,2019,Fully-Furnished,8,5,6,6,4,3,1,Gated,Pool,South,Builder,Ready to Move
+757,Telangana,Hyderabad,Locality C,Independent House,4,961,73.13,7609.29,2004,Fully-Furnished,14,6,21,5,1,2,2,Gated,None,South,Agent,Under Construction
+758,Karnataka,Bangalore,Locality A,Independent House,2,2326,128.52,5525.31,2010,Unfurnished,7,13,15,9,5,3,0,Gated,Pool,North,Builder,Under Construction
+759,Delhi,New Delhi,Locality A,Independent House,1,668,52.68,7886.25,2022,Fully-Furnished,17,6,3,8,8,4,1,Guard,Clubhouse,South,Agent,Under Construction
+760,Delhi,New Delhi,Locality B,Villa,1,3013,264.01,8762.3,1993,Fully-Furnished,15,8,32,4,1,4,0,Guard,Pool,East,Agent,Under Construction
+761,Delhi,New Delhi,Locality C,Apartment,2,1751,104.43,5964.26,1993,Unfurnished,14,15,32,9,6,1,0,Gated,Pool,South,Builder,Under Construction
+762,Delhi,New Delhi,Locality B,Villa,2,2970,200.05,6735.68,2021,Fully-Furnished,7,18,4,7,6,3,1,Gated,Clubhouse,North,Builder,Under Construction
+763,Telangana,Hyderabad,Locality A,Villa,3,2634,237.32,9009.82,2002,Unfurnished,13,13,23,9,2,2,1,Guard,Gym,North,Builder,Ready to Move
+764,Maharashtra,Nagpur,Locality B,Villa,3,2715,168.69,6213.3,1996,Semi-Furnished,15,18,29,8,1,4,2,None,Gym,East,Builder,Ready to Move
+765,Delhi,New Delhi,Locality C,Independent House,1,1869,111.4,5960.45,2008,Unfurnished,11,9,17,3,4,1,0,CCTV,Gym,East,Builder,Under Construction
+766,Karnataka,Mysore,Locality C,Villa,5,1053,62.45,5931.08,2009,Fully-Furnished,15,6,16,3,4,1,0,Gated,Pool,West,Agent,Ready to Move
+767,Maharashtra,Nagpur,Locality C,Independent House,1,2345,168.63,7190.94,2005,Unfurnished,17,17,20,9,8,1,2,Gated,Clubhouse,East,Individual,Ready to Move
+768,Tamil Nadu,Coimbatore,Locality A,Villa,4,2556,234.33,9167.72,1993,Semi-Furnished,3,7,32,8,6,3,2,CCTV,None,East,Individual,Under Construction
+769,Tamil Nadu,Coimbatore,Locality A,Independent House,4,2376,203.21,8552.76,2010,Semi-Furnished,5,10,15,2,4,1,0,None,Clubhouse,West,Individual,Under Construction
+770,Maharashtra,Mumbai,Locality C,Independent House,3,2861,227.53,7952.72,2008,Semi-Furnished,19,11,17,5,7,1,0,None,None,East,Agent,Under Construction
+771,Karnataka,Bangalore,Locality C,Independent House,2,3407,160.37,4707.16,1998,Unfurnished,16,6,27,3,6,2,0,CCTV,Pool,East,Builder,Under Construction
+772,Telangana,Hyderabad,Locality A,Villa,3,2312,227.94,9858.9,2022,Unfurnished,13,9,3,6,4,3,2,CCTV,None,North,Individual,Under Construction
+773,Delhi,New Delhi,Locality C,Villa,4,2927,226.99,7755.08,1995,Semi-Furnished,4,6,30,3,9,1,0,CCTV,None,West,Individual,Under Construction
+774,Karnataka,Bangalore,Locality A,Independent House,1,2417,228.83,9467.54,2003,Fully-Furnished,19,13,22,2,6,3,2,Gated,Gym,East,Individual,Under Construction
+775,Telangana,Hyderabad,Locality B,Independent House,4,2071,99.56,4807.15,2003,Fully-Furnished,17,16,22,9,3,4,2,CCTV,None,South,Agent,Under Construction
+776,Tamil Nadu,Coimbatore,Locality A,Independent House,2,2232,138.03,6184.16,2016,Fully-Furnished,1,22,9,9,9,2,2,Gated,Gym,West,Individual,Under Construction
+777,Karnataka,Mysore,Locality B,Independent House,2,2377,193.13,8125.01,1994,Fully-Furnished,10,19,31,3,9,2,2,Gated,Clubhouse,West,Individual,Ready to Move
+778,Telangana,Hyderabad,Locality C,Apartment,2,3367,190.16,5647.89,1991,Fully-Furnished,16,14,34,1,5,2,0,None,Pool,North,Builder,Ready to Move
+779,Maharashtra,Nagpur,Locality C,Independent House,5,3531,156.82,4441.3,2017,Fully-Furnished,6,13,8,7,8,3,2,Guard,Gym,East,Builder,Ready to Move
+780,Maharashtra,Pune,Locality C,Villa,1,2609,236.91,9080.33,1991,Fully-Furnished,12,18,34,8,6,4,1,Gated,None,South,Builder,Ready to Move
+781,Maharashtra,Mumbai,Locality C,Independent House,5,2234,200.99,8996.65,2005,Fully-Furnished,9,10,20,2,3,1,1,CCTV,Pool,North,Builder,Under Construction
+782,Maharashtra,Nagpur,Locality B,Apartment,2,1474,118.99,8072.66,1999,Fully-Furnished,8,5,26,1,4,2,2,Guard,Gym,West,Agent,Ready to Move
+783,Tamil Nadu,Coimbatore,Locality C,Apartment,3,1930,169.67,8791.25,2013,Unfurnished,13,24,12,9,3,1,2,Gated,Pool,West,Individual,Under Construction
+784,Delhi,New Delhi,Locality B,Villa,4,3769,338.88,8991.33,2011,Unfurnished,16,5,14,9,5,1,1,Gated,Pool,South,Individual,Ready to Move
+785,Delhi,New Delhi,Locality A,Apartment,5,1064,87.88,8259.37,2008,Unfurnished,6,6,17,8,5,1,2,Guard,None,North,Builder,Ready to Move
+786,Tamil Nadu,Chennai,Locality A,Independent House,3,3775,199.46,5283.6,2020,Unfurnished,11,15,5,6,4,1,1,Gated,Pool,South,Builder,Under Construction
+787,Maharashtra,Nagpur,Locality A,Villa,2,1544,93.67,6066.63,2000,Unfurnished,7,18,25,9,5,4,0,Gated,Gym,South,Builder,Ready to Move
+788,Delhi,New Delhi,Locality C,Villa,2,3709,162.58,4383.47,1991,Unfurnished,3,7,34,3,6,3,0,CCTV,Gym,South,Agent,Ready to Move
+789,Delhi,New Delhi,Locality B,Apartment,5,1746,145.5,8333.49,2007,Semi-Furnished,6,8,18,4,2,4,2,Gated,Clubhouse,North,Individual,Under Construction
+790,Tamil Nadu,Chennai,Locality A,Independent House,5,2305,100.48,4359.25,2005,Fully-Furnished,14,10,20,5,5,2,1,Gated,Clubhouse,West,Builder,Under Construction
+791,Maharashtra,Pune,Locality B,Villa,3,3812,278.28,7300.23,1996,Semi-Furnished,15,18,29,6,4,4,2,Guard,Pool,North,Individual,Under Construction
+792,Tamil Nadu,Chennai,Locality C,Villa,5,3291,187.05,5683.54,2021,Semi-Furnished,17,16,4,5,1,2,2,Gated,None,North,Builder,Under Construction
+793,Maharashtra,Pune,Locality A,Independent House,2,998,85.04,8521.02,2007,Semi-Furnished,10,9,18,8,2,2,2,Gated,Clubhouse,East,Individual,Under Construction
+794,Delhi,New Delhi,Locality C,Independent House,4,3513,157.68,4488.57,2005,Unfurnished,2,17,20,2,3,4,2,CCTV,Pool,North,Individual,Under Construction
+795,Karnataka,Mysore,Locality C,Independent House,4,2470,121.46,4917.32,1996,Unfurnished,10,24,29,1,2,3,0,None,None,South,Individual,Ready to Move
+796,Telangana,Hyderabad,Locality B,Villa,5,3402,307.98,9053.0,2007,Fully-Furnished,18,16,18,7,8,1,2,CCTV,Clubhouse,West,Builder,Under Construction
+797,Karnataka,Bangalore,Locality C,Independent House,5,3555,230.6,6486.69,2022,Unfurnished,3,12,3,2,3,3,1,None,Clubhouse,West,Individual,Ready to Move
+798,Karnataka,Bangalore,Locality C,Villa,4,2425,221.88,9149.86,1998,Fully-Furnished,17,6,27,4,5,2,2,Guard,Clubhouse,South,Agent,Ready to Move
+799,Karnataka,Bangalore,Locality C,Apartment,3,3806,232.18,6100.43,2014,Fully-Furnished,5,14,11,9,4,4,2,CCTV,Pool,South,Builder,Under Construction
+800,Tamil Nadu,Chennai,Locality B,Independent House,4,3960,371.54,9382.28,2017,Unfurnished,11,23,8,2,6,3,1,Gated,None,West,Builder,Under Construction
+801,Karnataka,Mysore,Locality A,Villa,4,1390,82.03,5901.78,1998,Semi-Furnished,8,8,27,4,6,2,0,Guard,Clubhouse,South,Individual,Ready to Move
+802,Tamil Nadu,Coimbatore,Locality C,Independent House,3,2296,176.51,7687.86,1996,Unfurnished,19,11,29,9,4,1,2,CCTV,Clubhouse,East,Individual,Under Construction
+803,Maharashtra,Pune,Locality A,Independent House,3,1926,186.67,9691.94,1992,Semi-Furnished,18,19,33,7,3,2,1,Guard,Pool,North,Agent,Under Construction
+804,Telangana,Hyderabad,Locality C,Apartment,2,1040,43.54,4186.37,2020,Unfurnished,2,8,5,7,2,3,0,Gated,Clubhouse,North,Individual,Under Construction
+805,Delhi,New Delhi,Locality B,Independent House,1,2098,84.23,4014.73,2009,Semi-Furnished,9,6,16,6,6,2,2,Guard,Gym,North,Individual,Ready to Move
+806,Maharashtra,Pune,Locality A,Independent House,1,2000,183.9,9195.05,1994,Fully-Furnished,17,10,31,4,1,3,1,Gated,Pool,East,Individual,Ready to Move
+807,Karnataka,Mysore,Locality C,Villa,5,1676,100.7,6008.46,2021,Semi-Furnished,2,18,4,6,2,3,0,Guard,None,South,Agent,Ready to Move
+808,Tamil Nadu,Chennai,Locality A,Independent House,4,1458,71.96,4935.51,2012,Semi-Furnished,19,12,13,8,9,1,1,Gated,Gym,East,Individual,Under Construction
+809,Tamil Nadu,Coimbatore,Locality B,Independent House,3,1313,94.8,7219.77,1997,Fully-Furnished,4,18,28,8,4,2,0,None,None,West,Builder,Ready to Move
+810,Maharashtra,Nagpur,Locality A,Independent House,3,2041,94.39,4624.46,1999,Semi-Furnished,1,8,26,3,3,4,1,Guard,Gym,West,Individual,Under Construction
+811,Tamil Nadu,Coimbatore,Locality C,Apartment,1,3999,286.84,7172.83,2010,Fully-Furnished,11,10,15,5,8,4,2,Gated,Gym,West,Builder,Under Construction
+812,Maharashtra,Pune,Locality B,Villa,3,3861,229.49,5943.86,2009,Fully-Furnished,10,10,16,6,6,3,0,Guard,None,North,Builder,Under Construction
+813,Tamil Nadu,Chennai,Locality A,Independent House,2,2852,141.45,4959.78,1996,Fully-Furnished,18,23,29,3,6,3,0,None,None,East,Individual,Ready to Move
+814,Tamil Nadu,Coimbatore,Locality B,Villa,4,3872,311.02,8032.63,1999,Fully-Furnished,17,23,26,7,3,4,1,None,Clubhouse,West,Builder,Ready to Move
+815,Maharashtra,Nagpur,Locality B,Independent House,4,3050,248.9,8160.8,1998,Fully-Furnished,9,8,27,4,6,4,2,Gated,Clubhouse,South,Builder,Under Construction
+816,Delhi,New Delhi,Locality B,Independent House,2,866,49.37,5700.39,1997,Unfurnished,11,9,28,9,4,1,0,CCTV,None,East,Builder,Under Construction
+817,Telangana,Hyderabad,Locality B,Independent House,5,2496,190.66,7638.75,1994,Unfurnished,16,16,31,6,2,2,2,None,Pool,South,Agent,Ready to Move
+818,Tamil Nadu,Chennai,Locality A,Apartment,1,2660,114.78,4314.95,2020,Semi-Furnished,6,12,5,2,8,2,2,Guard,Pool,South,Individual,Under Construction
+819,Delhi,New Delhi,Locality A,Independent House,5,1113,87.02,7818.82,2018,Fully-Furnished,15,9,7,1,1,3,2,Guard,None,East,Builder,Under Construction
+820,Delhi,New Delhi,Locality A,Villa,3,3833,268.77,7012.08,2016,Fully-Furnished,14,10,9,9,3,4,0,CCTV,Gym,East,Agent,Ready to Move
+821,Tamil Nadu,Chennai,Locality A,Independent House,5,3307,137.22,4149.26,2019,Fully-Furnished,15,8,6,9,8,1,2,Guard,None,East,Individual,Under Construction
+822,Tamil Nadu,Coimbatore,Locality A,Independent House,5,1955,88.75,4539.8,2016,Fully-Furnished,15,7,9,7,7,3,0,Guard,Pool,South,Builder,Under Construction
+823,Delhi,New Delhi,Locality C,Villa,4,2849,266.54,9355.6,2007,Fully-Furnished,2,12,18,8,7,4,1,Gated,Clubhouse,South,Agent,Ready to Move
+824,Maharashtra,Mumbai,Locality B,Independent House,1,3428,221.48,6460.98,2021,Semi-Furnished,10,21,4,2,4,2,1,None,None,East,Builder,Ready to Move
+825,Tamil Nadu,Coimbatore,Locality A,Independent House,2,2331,113.18,4855.34,2004,Unfurnished,8,6,21,9,2,3,2,Gated,Pool,East,Individual,Under Construction
+826,Tamil Nadu,Chennai,Locality B,Villa,2,732,43.06,5882.41,2003,Fully-Furnished,1,20,22,7,3,1,1,Gated,None,North,Individual,Ready to Move
+827,Telangana,Hyderabad,Locality C,Apartment,2,1189,69.86,5875.94,2011,Fully-Furnished,3,16,14,2,8,4,2,CCTV,Gym,North,Individual,Under Construction
+828,Tamil Nadu,Chennai,Locality C,Independent House,1,2973,290.94,9786.03,2012,Fully-Furnished,15,12,13,3,8,4,2,CCTV,Pool,East,Builder,Under Construction
+829,Telangana,Hyderabad,Locality A,Apartment,3,2530,157.64,6230.82,2003,Semi-Furnished,8,22,22,3,6,1,0,None,Pool,South,Builder,Ready to Move
+830,Karnataka,Mysore,Locality C,Apartment,4,2175,145.74,6700.75,1991,Semi-Furnished,18,23,34,3,4,2,1,CCTV,Gym,North,Individual,Under Construction
+831,Maharashtra,Pune,Locality B,Independent House,2,1170,47.57,4065.78,2012,Fully-Furnished,13,12,13,6,7,4,2,Gated,Clubhouse,West,Builder,Ready to Move
+832,Delhi,New Delhi,Locality B,Villa,5,2519,195.9,7777.06,2009,Semi-Furnished,14,13,16,7,9,3,1,Gated,Gym,North,Agent,Ready to Move
+833,Maharashtra,Nagpur,Locality A,Independent House,4,3949,283.6,7181.49,1995,Unfurnished,4,8,30,5,1,2,1,Gated,Gym,South,Individual,Ready to Move
+834,Tamil Nadu,Coimbatore,Locality C,Apartment,1,2148,167.74,7809.02,2016,Semi-Furnished,7,7,9,2,4,2,1,Gated,Pool,West,Agent,Ready to Move
+835,Maharashtra,Nagpur,Locality B,Apartment,5,1602,143.51,8958.18,2003,Fully-Furnished,1,24,22,7,7,1,1,Guard,None,West,Individual,Under Construction
+836,Maharashtra,Pune,Locality C,Apartment,1,2642,214.0,8100.02,2000,Unfurnished,15,17,25,7,6,4,1,CCTV,None,West,Individual,Ready to Move
+837,Telangana,Hyderabad,Locality B,Independent House,5,3161,283.65,8973.38,2020,Semi-Furnished,13,24,5,4,5,3,2,Gated,Pool,North,Individual,Ready to Move
+838,Maharashtra,Pune,Locality A,Apartment,3,2056,149.6,7276.15,2003,Unfurnished,11,24,22,3,1,2,1,None,Clubhouse,West,Agent,Under Construction
+839,Karnataka,Mysore,Locality B,Independent House,1,2089,144.78,6930.64,1991,Fully-Furnished,14,7,34,7,7,3,1,Guard,Clubhouse,West,Individual,Ready to Move
+840,Tamil Nadu,Chennai,Locality B,Independent House,4,3565,294.2,8252.33,2007,Fully-Furnished,16,21,18,2,2,1,1,Gated,None,South,Builder,Under Construction
+841,Tamil Nadu,Coimbatore,Locality B,Apartment,3,2544,231.72,9108.63,2009,Fully-Furnished,10,19,16,4,2,3,2,None,Gym,West,Builder,Ready to Move
+842,Tamil Nadu,Chennai,Locality B,Independent House,2,1719,167.07,9719.07,1998,Unfurnished,15,9,27,8,7,3,0,CCTV,Clubhouse,North,Agent,Ready to Move
+843,Maharashtra,Mumbai,Locality C,Apartment,5,2182,201.15,9218.61,2018,Fully-Furnished,15,19,7,6,6,4,1,Gated,Pool,South,Agent,Ready to Move
+844,Maharashtra,Nagpur,Locality B,Villa,4,538,46.75,8688.94,2003,Semi-Furnished,7,11,22,3,9,1,2,Guard,Gym,East,Builder,Ready to Move
+845,Telangana,Hyderabad,Locality A,Apartment,5,1153,100.39,8706.65,2011,Fully-Furnished,18,14,14,8,8,1,2,Gated,Pool,East,Builder,Ready to Move
+846,Tamil Nadu,Coimbatore,Locality C,Villa,1,610,59.17,9699.73,1998,Fully-Furnished,3,7,27,2,4,3,0,CCTV,None,West,Builder,Ready to Move
+847,Maharashtra,Nagpur,Locality B,Independent House,2,2633,215.84,8197.35,2014,Semi-Furnished,13,14,11,7,8,1,2,Guard,Pool,West,Individual,Under Construction
+848,Telangana,Hyderabad,Locality B,Apartment,2,2947,167.67,5689.45,1995,Unfurnished,12,10,30,7,8,3,0,None,Gym,South,Individual,Ready to Move
+849,Delhi,New Delhi,Locality B,Apartment,2,2273,104.58,4601.02,1999,Fully-Furnished,16,6,26,7,4,1,2,Gated,None,North,Builder,Ready to Move
+850,Maharashtra,Pune,Locality C,Apartment,5,2190,194.54,8882.96,2015,Fully-Furnished,3,18,10,5,9,2,1,Gated,Gym,North,Agent,Ready to Move
+851,Maharashtra,Mumbai,Locality B,Apartment,2,2531,164.42,6496.31,2006,Unfurnished,2,6,19,6,7,3,2,CCTV,Clubhouse,North,Builder,Under Construction
+852,Tamil Nadu,Chennai,Locality A,Apartment,1,2542,119.74,4710.38,2015,Semi-Furnished,9,11,10,9,9,3,0,Gated,Clubhouse,East,Agent,Ready to Move
+853,Delhi,New Delhi,Locality C,Independent House,5,1361,65.21,4791.58,1999,Semi-Furnished,2,17,26,1,7,2,2,None,None,South,Agent,Ready to Move
+854,Karnataka,Mysore,Locality C,Villa,3,3415,160.67,4704.77,2022,Semi-Furnished,5,8,3,2,9,1,0,None,Pool,South,Individual,Under Construction
+855,Delhi,New Delhi,Locality C,Villa,2,3143,129.26,4112.71,2016,Unfurnished,6,15,9,5,5,1,2,CCTV,Clubhouse,West,Agent,Ready to Move
+856,Tamil Nadu,Chennai,Locality B,Independent House,5,2309,203.92,8831.49,2014,Fully-Furnished,19,21,11,2,4,1,0,Gated,Pool,East,Individual,Under Construction
+857,Maharashtra,Mumbai,Locality A,Apartment,2,2562,111.79,4363.38,2021,Fully-Furnished,9,5,4,7,1,4,0,None,Pool,South,Agent,Ready to Move
+858,Karnataka,Bangalore,Locality A,Villa,5,2487,110.58,4446.39,2014,Fully-Furnished,15,21,11,3,8,3,2,Guard,Gym,West,Agent,Under Construction
+859,Karnataka,Mysore,Locality B,Apartment,2,1990,102.92,5171.64,2011,Unfurnished,17,24,14,4,5,2,2,None,None,West,Individual,Ready to Move
+860,Telangana,Hyderabad,Locality C,Independent House,4,3348,250.22,7473.62,2003,Fully-Furnished,1,16,22,9,1,1,2,None,Clubhouse,East,Builder,Under Construction
+861,Karnataka,Bangalore,Locality B,Independent House,1,2743,138.87,5062.81,2013,Unfurnished,19,8,12,8,7,2,0,Guard,None,South,Agent,Ready to Move
+862,Telangana,Hyderabad,Locality A,Villa,4,3491,190.02,5443.21,2010,Fully-Furnished,4,20,15,2,8,1,2,Guard,Clubhouse,North,Individual,Ready to Move
+863,Karnataka,Mysore,Locality C,Apartment,2,954,83.21,8721.76,2015,Unfurnished,14,22,10,2,7,2,2,Gated,Gym,West,Builder,Under Construction
+864,Maharashtra,Pune,Locality B,Villa,1,2882,285.09,9892.24,2004,Unfurnished,8,20,21,8,3,4,2,Guard,None,North,Builder,Under Construction
+865,Karnataka,Bangalore,Locality B,Villa,4,1035,90.64,8757.47,1990,Unfurnished,1,8,35,8,9,1,0,None,Clubhouse,North,Builder,Ready to Move
+866,Karnataka,Mysore,Locality C,Apartment,3,1155,79.06,6844.96,1990,Semi-Furnished,17,24,35,8,9,3,0,CCTV,Gym,West,Individual,Under Construction
+867,Delhi,New Delhi,Locality A,Independent House,1,3068,167.61,5463.03,2023,Fully-Furnished,9,21,2,4,1,2,2,Gated,None,North,Agent,Under Construction
+868,Telangana,Hyderabad,Locality C,Apartment,2,1999,162.94,8151.29,2008,Semi-Furnished,14,16,17,5,7,3,1,Gated,Gym,East,Individual,Under Construction
+869,Karnataka,Mysore,Locality A,Villa,3,3679,340.1,9244.34,2012,Semi-Furnished,13,14,13,7,2,2,0,Guard,Gym,South,Agent,Under Construction
+870,Karnataka,Bangalore,Locality B,Villa,1,2764,245.82,8893.5,2016,Unfurnished,10,18,9,8,7,1,0,CCTV,Pool,West,Agent,Ready to Move
+871,Tamil Nadu,Chennai,Locality A,Villa,4,2161,134.42,6220.35,2002,Semi-Furnished,16,15,23,9,8,3,1,None,Pool,East,Individual,Under Construction
+872,Delhi,New Delhi,Locality A,Independent House,5,567,25.67,4527.72,2016,Unfurnished,12,16,9,2,5,1,2,None,None,North,Individual,Under Construction
+873,Maharashtra,Mumbai,Locality B,Villa,2,1125,103.94,9239.46,2000,Unfurnished,5,24,25,9,4,3,0,Gated,Gym,North,Individual,Ready to Move
+874,Telangana,Hyderabad,Locality C,Independent House,5,1769,116.3,6574.59,1994,Unfurnished,11,19,31,7,6,3,0,None,Pool,North,Builder,Under Construction
+875,Karnataka,Mysore,Locality B,Independent House,4,1420,112.55,7925.84,1990,Unfurnished,9,19,35,7,3,1,2,CCTV,Pool,West,Individual,Ready to Move
+876,Delhi,New Delhi,Locality C,Apartment,3,3136,299.99,9565.86,1998,Semi-Furnished,2,18,27,2,9,1,2,CCTV,None,East,Builder,Under Construction
+877,Tamil Nadu,Chennai,Locality B,Apartment,3,3551,250.73,7060.83,2020,Fully-Furnished,5,10,5,2,6,3,0,None,Clubhouse,West,Agent,Under Construction
+878,Karnataka,Bangalore,Locality B,Apartment,5,1813,122.35,6748.5,1992,Fully-Furnished,15,12,33,3,4,1,0,CCTV,Clubhouse,East,Builder,Under Construction
+879,Telangana,Hyderabad,Locality A,Independent House,3,3004,193.04,6426.25,2015,Semi-Furnished,3,13,10,4,6,2,1,Guard,Clubhouse,North,Builder,Ready to Move
+880,Telangana,Hyderabad,Locality C,Villa,2,2038,150.18,7369.15,2007,Fully-Furnished,7,23,18,7,1,2,0,Gated,Clubhouse,East,Builder,Under Construction
+881,Maharashtra,Mumbai,Locality C,Apartment,2,1563,117.5,7517.43,2013,Fully-Furnished,1,14,12,1,7,2,1,Gated,Pool,North,Individual,Under Construction
+882,Delhi,New Delhi,Locality C,Villa,2,2536,230.63,9094.43,1994,Unfurnished,4,22,31,2,5,3,0,None,Pool,North,Builder,Under Construction
+883,Karnataka,Bangalore,Locality C,Independent House,4,3138,179.99,5735.69,1990,Semi-Furnished,7,22,35,1,3,1,1,Gated,Pool,West,Agent,Under Construction
+884,Delhi,New Delhi,Locality C,Villa,3,743,49.95,6723.12,2013,Fully-Furnished,5,23,12,1,3,3,1,Gated,None,West,Builder,Under Construction
+885,Telangana,Hyderabad,Locality A,Apartment,2,684,36.89,5393.11,2017,Semi-Furnished,3,13,8,1,6,3,1,Gated,Pool,South,Builder,Under Construction
+886,Tamil Nadu,Chennai,Locality A,Apartment,5,1654,81.67,4937.46,1998,Fully-Furnished,7,19,27,1,8,1,1,Guard,Pool,East,Individual,Under Construction
+887,Karnataka,Bangalore,Locality B,Villa,2,1570,141.79,9031.21,1996,Unfurnished,4,17,29,6,2,1,2,None,None,South,Individual,Under Construction
+888,Maharashtra,Pune,Locality A,Independent House,2,3545,219.45,6190.31,2015,Semi-Furnished,1,12,10,8,8,4,2,Guard,None,North,Builder,Under Construction
+889,Delhi,New Delhi,Locality C,Apartment,5,3373,149.63,4436.09,2012,Fully-Furnished,5,11,13,3,1,1,0,Gated,Pool,South,Individual,Under Construction
+890,Maharashtra,Mumbai,Locality A,Apartment,5,1015,50.44,4969.7,2018,Fully-Furnished,13,13,7,8,8,1,0,CCTV,Clubhouse,West,Agent,Under Construction
+891,Maharashtra,Nagpur,Locality B,Villa,2,2554,254.11,9949.59,1999,Semi-Furnished,15,5,26,3,8,1,0,CCTV,Gym,South,Builder,Ready to Move
+892,Maharashtra,Pune,Locality A,Apartment,1,1861,128.62,6911.52,1997,Semi-Furnished,9,16,28,3,1,3,0,Gated,Gym,East,Individual,Under Construction
+893,Maharashtra,Mumbai,Locality C,Villa,4,638,48.68,7630.85,1997,Unfurnished,9,8,28,6,1,2,1,Gated,Clubhouse,West,Builder,Ready to Move
+894,Maharashtra,Nagpur,Locality B,Villa,1,731,57.77,7903.51,2019,Semi-Furnished,14,8,6,1,7,1,0,Guard,Clubhouse,West,Individual,Under Construction
+895,Maharashtra,Mumbai,Locality A,Villa,2,1986,131.49,6620.67,2001,Semi-Furnished,15,6,24,4,4,1,0,Gated,None,South,Builder,Under Construction
+896,Karnataka,Bangalore,Locality A,Independent House,4,3464,147.06,4245.32,2022,Fully-Furnished,16,23,3,6,8,2,2,CCTV,Clubhouse,East,Builder,Under Construction
+897,Telangana,Hyderabad,Locality A,Apartment,2,2807,243.68,8681.01,1999,Semi-Furnished,10,7,26,6,3,1,1,None,Pool,East,Individual,Ready to Move
+898,Karnataka,Bangalore,Locality A,Apartment,5,3903,377.24,9665.34,2009,Semi-Furnished,8,14,16,6,2,3,0,Guard,Pool,South,Builder,Under Construction
+899,Tamil Nadu,Coimbatore,Locality C,Apartment,5,2626,171.16,6517.93,2007,Semi-Furnished,8,12,18,5,7,3,0,None,None,South,Agent,Under Construction
+900,Karnataka,Mysore,Locality C,Apartment,1,2256,223.66,9913.8,2022,Fully-Furnished,7,6,3,2,6,4,2,Guard,Clubhouse,East,Individual,Ready to Move
+901,Tamil Nadu,Chennai,Locality A,Apartment,1,1734,138.23,7971.51,2021,Unfurnished,18,15,4,2,8,1,2,Gated,Clubhouse,South,Individual,Under Construction
+902,Karnataka,Bangalore,Locality B,Independent House,4,1042,66.29,6361.47,1997,Unfurnished,9,12,28,6,9,4,1,None,Clubhouse,South,Individual,Ready to Move
+903,Maharashtra,Mumbai,Locality C,Villa,3,818,35.18,4300.86,2005,Semi-Furnished,3,10,20,3,5,4,0,Gated,Gym,West,Agent,Ready to Move
+904,Karnataka,Mysore,Locality A,Apartment,4,2668,148.3,5558.51,2017,Semi-Furnished,19,15,8,2,8,4,0,Gated,Gym,South,Individual,Ready to Move
+905,Tamil Nadu,Coimbatore,Locality B,Villa,1,2786,112.06,4022.3,1990,Fully-Furnished,19,23,35,2,1,3,2,CCTV,Gym,East,Agent,Ready to Move
+906,Tamil Nadu,Coimbatore,Locality A,Villa,3,2559,237.49,9280.64,2023,Unfurnished,13,9,2,4,2,1,0,Gated,None,North,Agent,Under Construction
+907,Maharashtra,Pune,Locality B,Apartment,4,2200,166.36,7561.64,2010,Fully-Furnished,4,20,15,8,8,3,0,Guard,Clubhouse,West,Builder,Under Construction
+908,Tamil Nadu,Coimbatore,Locality C,Apartment,2,3519,248.65,7066.05,2017,Fully-Furnished,18,24,8,1,9,2,0,CCTV,None,East,Builder,Under Construction
+909,Telangana,Hyderabad,Locality B,Villa,2,1712,99.35,5803.16,2022,Semi-Furnished,3,19,3,4,4,2,2,Guard,Gym,East,Agent,Under Construction
+910,Delhi,New Delhi,Locality A,Villa,2,2153,114.24,5306.0,2001,Fully-Furnished,18,13,24,3,7,4,2,Guard,Pool,West,Individual,Ready to Move
+911,Delhi,New Delhi,Locality B,Independent House,2,1193,75.49,6327.92,2009,Semi-Furnished,3,9,16,2,2,4,2,CCTV,Clubhouse,West,Builder,Under Construction
+912,Karnataka,Mysore,Locality C,Independent House,4,2091,208.12,9953.03,2003,Semi-Furnished,7,16,22,4,9,1,2,None,Gym,East,Builder,Under Construction
+913,Delhi,New Delhi,Locality C,Apartment,5,1456,65.24,4480.55,2000,Semi-Furnished,4,5,25,8,3,2,1,CCTV,Gym,East,Builder,Ready to Move
+914,Delhi,New Delhi,Locality B,Independent House,4,3704,151.75,4097.02,2010,Unfurnished,4,9,15,2,7,2,2,Gated,Gym,South,Agent,Under Construction
+915,Tamil Nadu,Coimbatore,Locality B,Villa,5,584,46.55,7970.59,1994,Semi-Furnished,5,17,31,4,4,1,1,Gated,Gym,North,Individual,Under Construction
+916,Telangana,Hyderabad,Locality B,Independent House,4,3306,158.91,4806.74,2015,Unfurnished,9,15,10,3,4,3,1,Guard,Pool,East,Builder,Under Construction
+917,Tamil Nadu,Chennai,Locality B,Villa,3,1332,115.96,8705.71,2004,Unfurnished,17,12,21,4,6,1,1,None,None,East,Agent,Ready to Move
+918,Maharashtra,Nagpur,Locality B,Independent House,5,2336,169.36,7249.85,1998,Fully-Furnished,5,12,27,3,5,3,2,CCTV,None,East,Individual,Ready to Move
+919,Tamil Nadu,Coimbatore,Locality C,Apartment,2,1190,75.51,6345.26,1996,Fully-Furnished,3,10,29,2,2,1,1,None,None,West,Builder,Ready to Move
+920,Delhi,New Delhi,Locality B,Apartment,1,1156,108.35,9373.12,1992,Semi-Furnished,17,12,33,6,4,3,1,CCTV,Gym,West,Individual,Ready to Move
+921,Maharashtra,Pune,Locality A,Apartment,4,764,63.7,8337.82,1998,Unfurnished,5,10,27,4,4,2,1,Guard,None,South,Agent,Under Construction
+922,Tamil Nadu,Coimbatore,Locality A,Villa,3,1239,102.99,8312.73,2010,Semi-Furnished,2,8,15,9,8,3,0,None,None,North,Builder,Ready to Move
+923,Tamil Nadu,Chennai,Locality B,Independent House,2,1800,94.04,5224.44,2022,Fully-Furnished,13,14,3,8,9,3,2,Guard,None,South,Agent,Ready to Move
+924,Tamil Nadu,Coimbatore,Locality A,Villa,5,3038,291.37,9590.7,2006,Fully-Furnished,6,9,19,6,1,1,2,None,Pool,South,Agent,Under Construction
+925,Tamil Nadu,Chennai,Locality C,Villa,5,2285,108.96,4768.33,2006,Fully-Furnished,14,19,19,7,6,3,1,None,None,East,Builder,Under Construction
+926,Karnataka,Mysore,Locality C,Independent House,1,1263,103.24,8173.84,2009,Unfurnished,16,15,16,4,9,3,1,CCTV,None,North,Builder,Under Construction
+927,Karnataka,Bangalore,Locality B,Independent House,3,3569,181.51,5085.84,2003,Fully-Furnished,10,21,22,8,6,3,2,Guard,Clubhouse,North,Individual,Under Construction
+928,Karnataka,Mysore,Locality A,Independent House,5,3596,162.11,4508.06,2020,Semi-Furnished,18,21,5,4,9,1,2,None,Pool,South,Agent,Under Construction
+929,Delhi,New Delhi,Locality C,Apartment,2,1427,139.6,9782.65,2004,Fully-Furnished,7,10,21,2,3,2,0,CCTV,Gym,North,Builder,Ready to Move
+930,Maharashtra,Pune,Locality A,Apartment,4,1873,116.71,6231.38,1994,Semi-Furnished,8,6,31,9,1,4,0,None,Gym,North,Agent,Ready to Move
+931,Tamil Nadu,Chennai,Locality C,Villa,4,1320,74.71,5659.73,1996,Fully-Furnished,7,21,29,3,4,1,0,Guard,Clubhouse,North,Builder,Under Construction
+932,Delhi,New Delhi,Locality B,Independent House,2,2000,103.81,5190.43,2010,Unfurnished,4,5,15,5,7,3,1,Guard,Gym,East,Agent,Under Construction
+933,Delhi,New Delhi,Locality A,Apartment,2,1094,67.34,6155.39,1994,Fully-Furnished,1,17,31,6,1,2,2,Guard,Clubhouse,East,Agent,Under Construction
+934,Maharashtra,Mumbai,Locality B,Independent House,5,1028,87.02,8465.33,2013,Semi-Furnished,6,12,12,8,6,3,0,Gated,Pool,East,Agent,Under Construction
+935,Maharashtra,Mumbai,Locality B,Villa,3,1816,83.66,4606.91,1995,Fully-Furnished,16,21,30,5,4,1,2,CCTV,None,West,Individual,Ready to Move
+936,Telangana,Hyderabad,Locality C,Villa,2,1505,73.64,4893.14,2012,Unfurnished,12,24,13,4,6,4,0,Guard,None,East,Builder,Under Construction
+937,Delhi,New Delhi,Locality C,Apartment,5,2214,124.52,5624.34,1993,Unfurnished,1,11,32,1,3,1,2,Gated,Clubhouse,South,Builder,Ready to Move
+938,Delhi,New Delhi,Locality B,Independent House,4,2042,97.2,4759.95,1996,Unfurnished,18,23,29,6,6,3,2,Guard,None,West,Individual,Ready to Move
+939,Delhi,New Delhi,Locality C,Independent House,3,2578,213.36,8276.31,2022,Unfurnished,1,24,3,9,9,1,1,None,Gym,East,Builder,Under Construction
+940,Telangana,Hyderabad,Locality C,Villa,2,1851,170.29,9199.65,1999,Semi-Furnished,19,21,26,9,2,1,0,Guard,Gym,South,Builder,Ready to Move
+941,Telangana,Hyderabad,Locality B,Apartment,4,1241,81.31,6552.01,1992,Unfurnished,15,18,33,4,2,1,2,Guard,Pool,West,Individual,Under Construction
+942,Tamil Nadu,Chennai,Locality B,Villa,2,2347,208.38,8878.72,2014,Unfurnished,3,23,11,8,6,4,0,Guard,Pool,South,Agent,Ready to Move
+943,Tamil Nadu,Coimbatore,Locality C,Apartment,5,3704,356.95,9636.89,2008,Unfurnished,14,22,17,7,4,2,2,Guard,None,West,Builder,Under Construction
+944,Delhi,New Delhi,Locality A,Villa,4,3448,173.07,5019.3,2001,Fully-Furnished,12,13,24,6,9,3,0,Guard,Gym,South,Individual,Ready to Move
+945,Delhi,New Delhi,Locality C,Apartment,4,704,29.48,4187.93,1996,Semi-Furnished,6,13,29,5,1,3,1,Guard,None,North,Individual,Under Construction
+946,Telangana,Hyderabad,Locality B,Apartment,2,1313,71.2,5422.89,1990,Semi-Furnished,16,17,35,3,7,3,0,None,Pool,South,Individual,Ready to Move
+947,Maharashtra,Nagpur,Locality B,Independent House,2,3684,185.32,5030.39,2014,Semi-Furnished,15,24,11,7,6,3,2,None,Clubhouse,South,Builder,Ready to Move
+948,Delhi,New Delhi,Locality B,Apartment,4,532,51.12,9609.47,1993,Fully-Furnished,16,22,32,3,8,2,0,Guard,None,West,Builder,Under Construction
+949,Karnataka,Mysore,Locality C,Villa,3,3501,342.88,9793.75,2021,Unfurnished,12,13,4,8,9,3,0,Gated,Pool,East,Agent,Under Construction
+950,Telangana,Hyderabad,Locality C,Villa,5,2739,205.23,7492.73,2009,Fully-Furnished,12,22,16,2,7,2,1,None,Pool,South,Agent,Ready to Move
+951,Karnataka,Bangalore,Locality A,Independent House,1,628,37.3,5939.47,2007,Fully-Furnished,9,12,18,7,1,3,2,None,Gym,West,Agent,Ready to Move
+952,Maharashtra,Pune,Locality B,Villa,2,3481,276.82,7952.35,1992,Fully-Furnished,12,16,33,5,8,3,1,Guard,None,East,Agent,Under Construction
+953,Tamil Nadu,Chennai,Locality B,Independent House,2,3363,192.68,5729.31,2015,Fully-Furnished,6,15,10,4,8,4,0,Guard,None,West,Individual,Ready to Move
+954,Maharashtra,Mumbai,Locality C,Villa,2,1764,128.16,7265.42,1992,Fully-Furnished,15,18,33,4,2,2,1,None,Gym,East,Builder,Ready to Move
+955,Karnataka,Bangalore,Locality A,Apartment,1,3439,194.18,5646.29,1991,Fully-Furnished,13,8,34,4,3,1,0,CCTV,Pool,West,Builder,Ready to Move
+956,Maharashtra,Mumbai,Locality C,Villa,3,628,55.35,8813.07,2018,Unfurnished,16,14,7,1,1,2,1,Gated,None,North,Builder,Under Construction
+957,Karnataka,Mysore,Locality B,Independent House,2,2346,191.29,8154.02,2007,Fully-Furnished,8,6,18,9,1,2,2,CCTV,Gym,East,Individual,Under Construction
+958,Telangana,Hyderabad,Locality C,Villa,5,1977,175.0,8851.65,1990,Fully-Furnished,15,24,35,8,7,1,1,CCTV,Pool,West,Builder,Ready to Move
+959,Maharashtra,Nagpur,Locality B,Villa,4,3030,175.81,5802.34,2016,Fully-Furnished,4,20,9,1,6,2,1,CCTV,None,West,Agent,Ready to Move
+960,Karnataka,Bangalore,Locality C,Apartment,5,1768,127.69,7222.05,2000,Unfurnished,5,7,25,2,2,2,0,Guard,Clubhouse,North,Individual,Under Construction
+961,Maharashtra,Mumbai,Locality B,Independent House,5,3725,261.68,7025.06,1992,Semi-Furnished,11,15,33,6,6,1,1,Gated,Pool,West,Agent,Under Construction
+962,Tamil Nadu,Coimbatore,Locality A,Independent House,1,1588,93.68,5899.04,1992,Unfurnished,17,24,33,2,1,3,0,CCTV,Clubhouse,North,Agent,Under Construction
+963,Delhi,New Delhi,Locality B,Villa,3,1575,77.01,4889.81,2001,Semi-Furnished,9,23,24,4,9,1,1,CCTV,Pool,East,Individual,Under Construction
+964,Telangana,Hyderabad,Locality B,Villa,2,584,50.83,8703.5,2022,Fully-Furnished,6,6,3,9,8,3,2,CCTV,Pool,South,Individual,Ready to Move
+965,Karnataka,Mysore,Locality A,Apartment,1,3739,210.56,5631.58,2020,Fully-Furnished,14,18,5,4,2,4,0,CCTV,Gym,South,Individual,Ready to Move
+966,Tamil Nadu,Coimbatore,Locality C,Villa,3,1092,76.94,7045.89,2021,Semi-Furnished,12,19,4,8,8,3,2,None,Clubhouse,South,Builder,Under Construction
+967,Telangana,Hyderabad,Locality C,Independent House,3,3836,198.24,5167.8,2020,Fully-Furnished,11,14,5,2,9,4,1,None,Pool,South,Builder,Under Construction
+968,Karnataka,Mysore,Locality A,Villa,2,2635,239.82,9101.15,2002,Fully-Furnished,13,24,23,2,4,4,1,Gated,None,South,Individual,Under Construction
+969,Tamil Nadu,Coimbatore,Locality B,Villa,3,578,49.04,8484.96,1992,Semi-Furnished,9,12,33,2,2,3,2,Gated,Clubhouse,East,Builder,Ready to Move
+970,Karnataka,Bangalore,Locality A,Independent House,1,1676,151.04,9012.17,2019,Semi-Furnished,4,20,6,6,4,4,1,Gated,None,North,Builder,Under Construction
+971,Delhi,New Delhi,Locality B,Apartment,1,3445,236.94,6877.79,2000,Semi-Furnished,4,14,25,2,9,2,0,Guard,Pool,East,Agent,Ready to Move
+972,Delhi,New Delhi,Locality A,Apartment,5,3877,227.48,5867.47,2018,Unfurnished,10,10,7,8,1,1,1,Gated,Pool,East,Individual,Under Construction
+973,Maharashtra,Mumbai,Locality B,Villa,4,2555,188.88,7392.66,2021,Semi-Furnished,2,17,4,3,3,2,0,Guard,Clubhouse,North,Individual,Ready to Move
+974,Maharashtra,Pune,Locality A,Villa,5,3975,396.88,9984.29,2015,Semi-Furnished,4,17,10,8,2,3,0,None,Gym,West,Builder,Under Construction
+975,Tamil Nadu,Chennai,Locality C,Apartment,2,1232,67.55,5482.87,1997,Unfurnished,2,10,28,9,2,1,1,Gated,Clubhouse,North,Individual,Under Construction
+976,Karnataka,Mysore,Locality B,Villa,2,563,25.2,4476.83,2016,Fully-Furnished,7,10,9,1,4,4,0,None,Gym,West,Individual,Under Construction
+977,Delhi,New Delhi,Locality C,Independent House,2,892,76.91,8622.48,1999,Fully-Furnished,1,16,26,8,7,1,2,Gated,Pool,East,Individual,Ready to Move
+978,Telangana,Hyderabad,Locality B,Apartment,1,2726,264.66,9708.86,1990,Semi-Furnished,5,13,35,4,5,1,0,Guard,Gym,East,Individual,Under Construction
+979,Tamil Nadu,Coimbatore,Locality A,Villa,3,1335,123.07,9218.56,2004,Semi-Furnished,8,19,21,5,2,2,1,Gated,None,North,Individual,Under Construction
+980,Maharashtra,Mumbai,Locality A,Villa,2,2638,152.25,5771.48,1994,Semi-Furnished,8,11,31,9,3,2,2,Gated,Pool,South,Agent,Under Construction
+981,Karnataka,Bangalore,Locality C,Independent House,4,2591,143.08,5522.17,2000,Unfurnished,3,19,25,2,7,2,0,CCTV,Gym,East,Individual,Under Construction
+982,Karnataka,Mysore,Locality A,Apartment,4,2179,117.88,5409.69,2013,Unfurnished,4,22,12,9,7,2,0,CCTV,Pool,East,Builder,Under Construction
+983,Delhi,New Delhi,Locality C,Villa,3,3557,308.95,8685.6,2008,Unfurnished,18,13,17,3,6,4,0,Gated,Clubhouse,North,Individual,Ready to Move
+984,Telangana,Hyderabad,Locality B,Apartment,2,2169,192.81,8889.2,1993,Semi-Furnished,2,11,32,3,2,4,1,None,Pool,South,Agent,Ready to Move
+985,Tamil Nadu,Coimbatore,Locality C,Villa,1,2440,178.07,7298.02,2015,Semi-Furnished,16,14,10,2,8,3,2,Gated,Gym,East,Agent,Under Construction
+986,Telangana,Hyderabad,Locality B,Apartment,4,3974,234.72,5906.38,2017,Fully-Furnished,5,21,8,9,4,1,2,CCTV,Clubhouse,East,Individual,Under Construction
+987,Karnataka,Mysore,Locality C,Apartment,2,1644,71.06,4322.66,2019,Fully-Furnished,1,23,6,3,1,1,1,CCTV,Clubhouse,South,Individual,Ready to Move
+988,Telangana,Hyderabad,Locality C,Villa,1,581,30.79,5298.66,2021,Unfurnished,14,16,4,9,7,1,0,Guard,Clubhouse,East,Individual,Under Construction
+989,Telangana,Hyderabad,Locality C,Independent House,3,3737,238.25,6375.47,2000,Fully-Furnished,2,10,25,3,7,3,2,None,None,West,Individual,Ready to Move
+990,Karnataka,Mysore,Locality C,Villa,2,2373,146.03,6153.61,2000,Fully-Furnished,12,5,25,4,2,1,2,Gated,None,South,Builder,Ready to Move
+991,Delhi,New Delhi,Locality B,Apartment,5,631,27.22,4313.11,1997,Fully-Furnished,1,19,28,3,6,1,0,Gated,Clubhouse,North,Agent,Under Construction
+992,Karnataka,Bangalore,Locality A,Apartment,3,3740,274.67,7344.07,2001,Unfurnished,7,13,24,3,2,1,0,Gated,Clubhouse,South,Builder,Under Construction
+993,Karnataka,Mysore,Locality C,Apartment,4,1291,128.97,9989.82,2010,Fully-Furnished,16,14,15,6,9,3,2,Guard,Pool,North,Individual,Ready to Move
+994,Tamil Nadu,Chennai,Locality B,Apartment,3,1346,84.64,6288.02,2003,Unfurnished,16,13,22,2,3,2,0,None,None,West,Individual,Under Construction
+995,Tamil Nadu,Coimbatore,Locality B,Villa,3,1315,119.89,9117.01,1993,Semi-Furnished,12,6,32,7,1,2,1,CCTV,Clubhouse,North,Individual,Ready to Move
+996,Tamil Nadu,Coimbatore,Locality B,Villa,1,1722,78.18,4539.91,2011,Unfurnished,14,13,14,1,2,4,1,Guard,Pool,South,Agent,Ready to Move
+997,Karnataka,Bangalore,Locality C,Villa,2,794,46.11,5807.58,2013,Fully-Furnished,1,21,12,2,7,2,0,CCTV,Clubhouse,South,Builder,Under Construction
+998,Karnataka,Bangalore,Locality C,Independent House,1,2194,132.61,6044.06,1994,Semi-Furnished,8,6,31,5,4,3,0,Guard,Clubhouse,East,Builder,Ready to Move
+999,Delhi,New Delhi,Locality C,Villa,4,3809,223.45,5866.27,1997,Fully-Furnished,18,21,28,9,1,3,2,None,Gym,West,Individual,Under Construction
+1000,Telangana,Hyderabad,Locality B,Independent House,5,2647,257.42,9724.92,2014,Semi-Furnished,3,21,11,5,9,4,0,CCTV,Pool,North,Builder,Under Construction
+1001,Delhi,New Delhi,Locality C,Villa,2,546,43.36,7940.85,2022,Semi-Furnished,12,17,3,7,5,1,2,None,None,West,Agent,Under Construction
+1002,Karnataka,Mysore,Locality C,Independent House,1,3801,224.61,5909.24,2005,Unfurnished,1,13,20,2,1,3,1,CCTV,Gym,North,Builder,Under Construction
+1003,Tamil Nadu,Coimbatore,Locality C,Independent House,5,795,65.57,8247.79,1992,Semi-Furnished,13,21,33,1,4,2,0,None,None,West,Agent,Ready to Move
+1004,Karnataka,Bangalore,Locality C,Apartment,2,3030,167.68,5533.85,2022,Unfurnished,1,21,3,2,2,2,0,CCTV,Clubhouse,West,Individual,Under Construction
+1005,Maharashtra,Pune,Locality C,Apartment,4,2922,151.85,5196.75,1991,Unfurnished,16,19,34,4,6,2,1,None,Pool,North,Builder,Ready to Move
+1006,Tamil Nadu,Chennai,Locality B,Apartment,3,1891,135.54,7167.46,2005,Fully-Furnished,4,14,20,8,3,2,2,Guard,Gym,South,Agent,Under Construction
+1007,Telangana,Hyderabad,Locality B,Independent House,4,2556,251.57,9842.49,2017,Unfurnished,9,21,8,5,8,2,2,CCTV,Gym,North,Builder,Ready to Move
+1008,Delhi,New Delhi,Locality C,Independent House,3,3020,160.85,5326.21,2006,Fully-Furnished,5,12,19,3,3,3,1,Gated,None,West,Agent,Ready to Move
+1009,Tamil Nadu,Chennai,Locality C,Villa,2,1854,119.94,6469.13,2009,Semi-Furnished,4,23,16,7,9,1,0,Guard,Gym,East,Individual,Under Construction
+1010,Karnataka,Mysore,Locality B,Villa,5,1770,123.94,7002.54,2002,Fully-Furnished,11,17,23,6,8,3,0,Gated,None,North,Agent,Under Construction
+1011,Delhi,New Delhi,Locality B,Apartment,3,2163,149.54,6913.65,1994,Semi-Furnished,9,14,31,6,7,4,1,None,Pool,South,Builder,Ready to Move
+1012,Maharashtra,Pune,Locality B,Villa,1,2894,277.42,9586.17,2012,Fully-Furnished,9,16,13,2,1,3,2,Gated,Clubhouse,South,Individual,Under Construction
+1013,Tamil Nadu,Chennai,Locality C,Apartment,2,2927,183.29,6261.96,2008,Semi-Furnished,13,24,17,2,9,4,1,Gated,Clubhouse,North,Individual,Under Construction
+1014,Telangana,Hyderabad,Locality A,Villa,5,2948,281.59,9551.98,2004,Semi-Furnished,16,9,21,6,2,1,1,None,None,East,Builder,Under Construction
+1015,Karnataka,Bangalore,Locality C,Apartment,1,771,34.09,4421.18,2023,Unfurnished,18,17,2,6,9,3,2,Guard,Gym,East,Builder,Ready to Move
+1016,Maharashtra,Mumbai,Locality C,Independent House,2,1720,163.5,9505.8,1996,Fully-Furnished,1,12,29,7,8,2,0,Gated,Pool,North,Agent,Ready to Move
+1017,Maharashtra,Mumbai,Locality B,Independent House,3,541,40.38,7464.4,2001,Fully-Furnished,6,9,24,9,8,4,0,Gated,Pool,West,Agent,Ready to Move
+1018,Karnataka,Bangalore,Locality C,Villa,2,1463,127.84,8738.27,2003,Fully-Furnished,16,12,22,6,1,1,2,None,Clubhouse,South,Agent,Ready to Move
+1019,Delhi,New Delhi,Locality C,Independent House,1,890,41.09,4616.85,2004,Unfurnished,18,14,21,3,5,4,0,None,None,West,Builder,Under Construction
+1020,Delhi,New Delhi,Locality A,Apartment,3,2742,208.14,7590.77,2012,Fully-Furnished,18,17,13,8,1,2,2,Guard,Pool,North,Individual,Under Construction
+1021,Maharashtra,Pune,Locality A,Independent House,3,2172,89.4,4115.83,1994,Fully-Furnished,6,14,31,8,2,2,0,Guard,Pool,North,Builder,Ready to Move
+1022,Telangana,Hyderabad,Locality A,Apartment,2,1684,109.7,6513.96,1990,Fully-Furnished,14,14,35,9,3,2,1,CCTV,Gym,North,Individual,Under Construction
+1023,Tamil Nadu,Coimbatore,Locality C,Apartment,3,3212,283.11,8814.16,2009,Semi-Furnished,15,12,16,3,4,1,0,Gated,Gym,West,Individual,Ready to Move
+1024,Maharashtra,Nagpur,Locality B,Villa,5,2290,168.84,7372.87,1996,Unfurnished,19,24,29,5,9,1,1,Guard,None,North,Agent,Under Construction
+1025,Delhi,New Delhi,Locality A,Villa,1,1884,99.17,5263.87,1991,Unfurnished,15,24,34,8,5,4,2,None,Gym,East,Agent,Under Construction
+1026,Telangana,Hyderabad,Locality A,Villa,1,1553,136.72,8803.74,2002,Unfurnished,5,21,23,3,6,1,0,CCTV,Clubhouse,West,Builder,Ready to Move
+1027,Delhi,New Delhi,Locality A,Villa,5,3839,378.05,9847.66,1991,Semi-Furnished,3,8,34,1,9,4,1,CCTV,Clubhouse,North,Builder,Ready to Move
+1028,Karnataka,Bangalore,Locality C,Apartment,5,769,69.03,8976.68,2006,Semi-Furnished,10,15,19,5,4,4,1,Gated,Pool,South,Individual,Ready to Move
+1029,Delhi,New Delhi,Locality C,Apartment,4,930,74.8,8042.5,2014,Unfurnished,4,21,11,8,7,2,0,CCTV,Gym,South,Builder,Ready to Move
+1030,Karnataka,Mysore,Locality C,Apartment,4,3424,319.14,9320.64,2015,Fully-Furnished,6,20,10,4,2,2,0,Guard,Clubhouse,North,Agent,Under Construction
+1031,Maharashtra,Nagpur,Locality A,Independent House,1,2758,151.29,5485.35,1999,Fully-Furnished,19,6,26,9,7,4,2,CCTV,Clubhouse,East,Individual,Ready to Move
+1032,Telangana,Hyderabad,Locality A,Independent House,5,683,56.52,8275.63,1991,Unfurnished,10,9,34,1,2,1,2,None,None,North,Agent,Under Construction
+1033,Telangana,Hyderabad,Locality C,Independent House,3,3114,307.03,9859.69,1996,Semi-Furnished,10,11,29,9,5,4,0,Guard,None,East,Agent,Under Construction
+1034,Tamil Nadu,Coimbatore,Locality B,Apartment,3,2084,99.44,4771.41,2001,Semi-Furnished,13,17,24,4,3,3,0,None,Clubhouse,East,Individual,Under Construction
+1035,Karnataka,Mysore,Locality B,Apartment,2,3711,250.42,6748.09,2007,Fully-Furnished,14,19,18,3,9,2,2,Guard,Pool,South,Agent,Ready to Move
+1036,Telangana,Hyderabad,Locality C,Apartment,3,524,36.32,6931.11,2003,Fully-Furnished,3,6,22,1,1,3,2,CCTV,Gym,North,Builder,Under Construction
+1037,Delhi,New Delhi,Locality B,Villa,1,3464,262.05,7564.81,1998,Fully-Furnished,8,17,27,5,2,2,2,Guard,Clubhouse,West,Agent,Under Construction
+1038,Telangana,Hyderabad,Locality A,Villa,3,3900,178.37,4573.56,1996,Fully-Furnished,12,23,29,4,3,2,1,Guard,None,West,Builder,Under Construction
+1039,Karnataka,Mysore,Locality A,Independent House,5,2923,133.68,4573.21,2000,Fully-Furnished,11,11,25,8,7,4,1,Guard,Gym,East,Individual,Under Construction
+1040,Karnataka,Bangalore,Locality C,Independent House,5,1647,82.86,5031.01,2003,Semi-Furnished,9,21,22,7,1,1,2,None,None,East,Agent,Ready to Move
+1041,Maharashtra,Mumbai,Locality C,Independent House,2,981,79.81,8136.03,2012,Fully-Furnished,1,18,13,1,7,1,1,None,Clubhouse,West,Builder,Ready to Move
+1042,Tamil Nadu,Chennai,Locality B,Independent House,2,2980,245.22,8229.02,2011,Unfurnished,13,20,14,3,6,1,1,None,Clubhouse,West,Builder,Under Construction
+1043,Maharashtra,Nagpur,Locality C,Villa,5,3196,235.95,7382.67,2000,Semi-Furnished,13,24,25,2,8,3,1,CCTV,Gym,South,Individual,Under Construction
+1044,Delhi,New Delhi,Locality C,Villa,1,1745,112.82,6465.06,2020,Unfurnished,12,5,5,8,8,2,1,Guard,Clubhouse,South,Builder,Ready to Move
+1045,Maharashtra,Pune,Locality B,Villa,2,1531,143.77,9390.67,2008,Semi-Furnished,4,19,17,4,7,4,0,Gated,None,West,Agent,Under Construction
+1046,Delhi,New Delhi,Locality A,Independent House,1,2886,160.35,5556.3,2008,Unfurnished,16,8,17,2,5,3,2,CCTV,Pool,East,Individual,Ready to Move
+1047,Delhi,New Delhi,Locality A,Villa,4,722,46.42,6429.38,2019,Fully-Furnished,11,24,6,5,8,1,1,Gated,Gym,South,Individual,Ready to Move
+1048,Tamil Nadu,Chennai,Locality C,Independent House,1,2333,222.78,9549.23,1992,Fully-Furnished,13,7,33,9,1,2,1,None,None,West,Individual,Under Construction
+1049,Telangana,Hyderabad,Locality C,Villa,4,3760,218.9,5821.92,2000,Unfurnished,7,18,25,1,2,2,0,None,Clubhouse,West,Agent,Under Construction
+1050,Maharashtra,Mumbai,Locality B,Independent House,5,1290,99.05,7678.31,2015,Semi-Furnished,7,13,10,3,9,1,0,Gated,Pool,East,Individual,Under Construction
+1051,Karnataka,Bangalore,Locality B,Villa,5,1866,75.63,4053.2,2013,Fully-Furnished,12,11,12,3,6,4,0,Guard,Pool,South,Individual,Under Construction
+1052,Delhi,New Delhi,Locality B,Villa,3,1187,78.97,6652.62,2002,Unfurnished,5,7,23,2,9,4,2,None,Pool,West,Agent,Ready to Move
+1053,Maharashtra,Mumbai,Locality B,Villa,3,2612,256.7,9827.78,1994,Unfurnished,8,6,31,5,4,2,0,Gated,Clubhouse,South,Individual,Under Construction
+1054,Delhi,New Delhi,Locality B,Villa,5,2248,132.0,5871.83,2008,Semi-Furnished,3,6,17,5,6,2,2,Gated,Pool,South,Agent,Ready to Move
+1055,Telangana,Hyderabad,Locality A,Independent House,5,1363,61.1,4483.1,2012,Unfurnished,5,5,13,2,2,3,2,Gated,Pool,North,Individual,Under Construction
+1056,Telangana,Hyderabad,Locality C,Villa,2,3299,146.19,4431.4,2014,Fully-Furnished,18,5,11,9,5,1,1,Guard,Clubhouse,North,Individual,Under Construction
+1057,Maharashtra,Pune,Locality A,Independent House,3,3962,393.84,9940.52,1991,Fully-Furnished,8,9,34,9,1,3,1,None,None,North,Builder,Under Construction
+1058,Tamil Nadu,Coimbatore,Locality B,Independent House,4,2302,120.9,5252.01,1992,Fully-Furnished,7,21,33,5,6,4,0,None,Pool,East,Individual,Ready to Move
+1059,Tamil Nadu,Chennai,Locality B,Independent House,1,1941,105.53,5436.79,1996,Semi-Furnished,2,20,29,5,9,1,1,Guard,Gym,West,Builder,Ready to Move
+1060,Delhi,New Delhi,Locality A,Apartment,1,3575,350.71,9810.16,2012,Semi-Furnished,15,13,13,9,2,4,1,None,Pool,West,Builder,Under Construction
+1061,Telangana,Hyderabad,Locality B,Independent House,1,1430,123.38,8627.88,2005,Semi-Furnished,8,5,20,6,1,2,0,Gated,Clubhouse,South,Builder,Ready to Move
+1062,Delhi,New Delhi,Locality B,Apartment,2,602,59.85,9942.41,2021,Unfurnished,6,22,4,4,1,3,1,Gated,None,East,Individual,Under Construction
+1063,Karnataka,Bangalore,Locality A,Villa,3,2127,146.94,6908.45,2010,Fully-Furnished,1,24,15,8,4,2,0,Gated,None,North,Agent,Ready to Move
+1064,Delhi,New Delhi,Locality A,Villa,2,563,50.94,9047.85,2016,Unfurnished,3,17,9,2,4,4,1,None,Clubhouse,North,Builder,Ready to Move
+1065,Maharashtra,Mumbai,Locality B,Apartment,5,3886,183.38,4719.04,2002,Fully-Furnished,18,18,23,6,7,4,0,Guard,None,South,Individual,Under Construction
+1066,Tamil Nadu,Coimbatore,Locality C,Villa,2,3250,203.2,6252.37,2010,Unfurnished,16,9,15,6,6,4,0,None,None,East,Individual,Under Construction
+1067,Telangana,Hyderabad,Locality A,Independent House,5,3552,148.28,4174.61,2015,Unfurnished,6,14,10,4,8,4,0,CCTV,None,East,Individual,Under Construction
+1068,Telangana,Hyderabad,Locality B,Villa,3,1273,80.72,6341.18,1990,Unfurnished,15,6,35,2,4,1,2,None,None,North,Agent,Ready to Move
+1069,Karnataka,Bangalore,Locality B,Independent House,2,1261,104.67,8300.28,2011,Fully-Furnished,14,23,14,8,7,3,2,CCTV,Clubhouse,West,Agent,Ready to Move
+1070,Tamil Nadu,Coimbatore,Locality B,Independent House,5,2113,120.53,5704.21,2021,Semi-Furnished,9,10,4,7,2,2,1,CCTV,Gym,North,Individual,Ready to Move
+1071,Telangana,Hyderabad,Locality B,Villa,3,3812,213.98,5613.43,2000,Semi-Furnished,16,21,25,3,6,2,0,None,Clubhouse,South,Agent,Ready to Move
+1072,Tamil Nadu,Coimbatore,Locality A,Villa,2,2531,157.75,6232.72,2018,Fully-Furnished,2,7,7,9,5,4,1,CCTV,Pool,North,Builder,Under Construction
+1073,Tamil Nadu,Chennai,Locality B,Villa,2,3068,150.52,4906.21,2021,Semi-Furnished,14,22,4,7,5,4,2,Gated,Gym,North,Individual,Under Construction
+1074,Karnataka,Mysore,Locality A,Independent House,3,3615,238.68,6602.36,1998,Fully-Furnished,4,10,27,5,7,3,1,None,Pool,North,Builder,Ready to Move
+1075,Tamil Nadu,Chennai,Locality C,Apartment,1,2880,267.99,9305.17,2008,Semi-Furnished,16,17,17,6,4,2,2,CCTV,Pool,West,Agent,Ready to Move
+1076,Maharashtra,Pune,Locality A,Villa,4,3890,350.68,9014.84,2006,Fully-Furnished,19,9,19,9,2,3,2,Gated,Gym,West,Agent,Under Construction
+1077,Maharashtra,Pune,Locality C,Independent House,1,1661,75.14,4523.96,1998,Semi-Furnished,11,8,27,5,9,3,0,Gated,Clubhouse,North,Agent,Under Construction
+1078,Karnataka,Bangalore,Locality A,Apartment,1,2578,132.39,5135.25,2017,Semi-Furnished,7,9,8,3,1,3,1,None,Gym,South,Builder,Under Construction
+1079,Delhi,New Delhi,Locality A,Villa,2,3526,351.77,9976.47,2017,Unfurnished,4,24,8,7,8,4,0,CCTV,None,West,Builder,Under Construction
+1080,Maharashtra,Mumbai,Locality B,Independent House,1,1476,98.96,6704.77,2002,Fully-Furnished,3,6,23,5,7,3,1,None,Clubhouse,West,Agent,Ready to Move
+1081,Telangana,Hyderabad,Locality B,Independent House,5,762,66.97,8789.02,2010,Semi-Furnished,5,21,15,6,5,3,0,Gated,Pool,East,Individual,Under Construction
+1082,Maharashtra,Nagpur,Locality A,Independent House,5,2825,133.89,4739.41,2005,Semi-Furnished,19,12,20,2,3,4,1,Gated,Gym,South,Individual,Under Construction
+1083,Delhi,New Delhi,Locality A,Apartment,3,3988,356.3,8934.35,2014,Fully-Furnished,15,11,11,4,8,1,0,None,None,East,Agent,Under Construction
+1084,Maharashtra,Pune,Locality B,Apartment,4,1391,121.64,8744.49,2002,Semi-Furnished,4,5,23,3,2,2,0,Guard,Clubhouse,West,Builder,Under Construction
+1085,Maharashtra,Pune,Locality B,Independent House,5,1681,74.23,4415.9,2018,Unfurnished,17,24,7,4,7,3,2,Gated,Gym,North,Builder,Ready to Move
+1086,Tamil Nadu,Chennai,Locality B,Villa,4,1019,57.0,5594.07,2014,Semi-Furnished,13,7,11,6,6,1,1,CCTV,Pool,South,Individual,Ready to Move
+1087,Delhi,New Delhi,Locality A,Apartment,4,899,48.97,5446.66,2005,Unfurnished,5,11,20,7,1,4,1,Gated,None,West,Builder,Ready to Move
+1088,Telangana,Hyderabad,Locality B,Villa,5,3402,203.94,5994.69,2020,Semi-Furnished,18,16,5,5,6,4,2,None,None,East,Agent,Under Construction
+1089,Maharashtra,Mumbai,Locality B,Villa,3,1464,87.74,5993.37,2006,Semi-Furnished,13,16,19,5,4,1,0,Gated,Gym,South,Individual,Ready to Move
+1090,Tamil Nadu,Coimbatore,Locality A,Apartment,3,3890,283.05,7276.33,1996,Fully-Furnished,8,15,29,9,5,4,0,Gated,Pool,North,Builder,Ready to Move
+1091,Delhi,New Delhi,Locality A,Apartment,2,790,34.03,4307.44,2017,Semi-Furnished,11,18,8,6,2,4,1,None,Clubhouse,East,Agent,Under Construction
+1092,Maharashtra,Mumbai,Locality A,Independent House,1,3512,154.72,4405.33,1995,Unfurnished,11,21,30,3,4,3,2,Guard,Gym,North,Builder,Ready to Move
+1093,Tamil Nadu,Chennai,Locality B,Villa,2,948,81.9,8638.83,1990,Semi-Furnished,11,9,35,6,4,4,2,Gated,Gym,North,Agent,Ready to Move
+1094,Delhi,New Delhi,Locality A,Apartment,2,695,53.2,7654.49,2013,Fully-Furnished,19,6,12,6,8,1,2,Guard,Clubhouse,East,Individual,Under Construction
+1095,Tamil Nadu,Chennai,Locality C,Villa,3,3657,274.11,7495.61,1996,Fully-Furnished,4,23,29,7,2,1,2,None,Gym,East,Builder,Ready to Move
+1096,Telangana,Hyderabad,Locality B,Apartment,2,2811,117.8,4190.83,1991,Semi-Furnished,19,11,34,3,7,4,0,None,Gym,North,Builder,Under Construction
+1097,Karnataka,Mysore,Locality A,Villa,1,2720,209.62,7706.44,1996,Fully-Furnished,10,18,29,1,1,1,2,Guard,None,South,Builder,Under Construction
+1098,Maharashtra,Mumbai,Locality B,Villa,1,1052,71.74,6819.34,2019,Fully-Furnished,18,19,6,8,4,4,1,None,Pool,West,Agent,Ready to Move
+1099,Karnataka,Mysore,Locality C,Independent House,3,2096,122.01,5820.91,2011,Unfurnished,3,17,14,5,7,4,2,CCTV,Clubhouse,North,Builder,Under Construction
+1100,Telangana,Hyderabad,Locality B,Villa,4,970,71.28,7348.85,2006,Semi-Furnished,5,14,19,6,6,2,2,CCTV,Gym,North,Builder,Ready to Move
+1101,Tamil Nadu,Coimbatore,Locality A,Villa,3,1881,133.2,7081.13,2022,Semi-Furnished,2,12,3,1,4,2,2,Guard,Pool,East,Individual,Under Construction
+1102,Tamil Nadu,Chennai,Locality A,Independent House,3,2771,155.62,5616.08,2006,Unfurnished,5,16,19,2,2,1,1,CCTV,Clubhouse,South,Builder,Ready to Move
+1103,Tamil Nadu,Coimbatore,Locality A,Apartment,2,2716,264.17,9726.27,2003,Fully-Furnished,13,12,22,3,9,3,0,CCTV,Gym,West,Builder,Ready to Move
+1104,Karnataka,Bangalore,Locality C,Independent House,5,2950,184.85,6265.96,2020,Semi-Furnished,16,20,5,3,2,1,2,Gated,Clubhouse,East,Individual,Ready to Move
+1105,Telangana,Hyderabad,Locality A,Independent House,4,2822,159.81,5663.09,2007,Fully-Furnished,11,19,18,1,2,4,2,Gated,Gym,North,Agent,Under Construction
+1106,Tamil Nadu,Coimbatore,Locality C,Apartment,4,1641,67.32,4102.56,2010,Unfurnished,12,15,15,4,9,1,2,None,None,East,Individual,Ready to Move
+1107,Karnataka,Bangalore,Locality A,Independent House,2,1665,76.35,4585.66,1998,Semi-Furnished,12,24,27,4,4,1,2,None,Pool,South,Individual,Under Construction
+1108,Delhi,New Delhi,Locality C,Villa,3,2922,208.94,7150.53,2009,Unfurnished,9,10,16,7,5,4,1,Guard,None,North,Individual,Ready to Move
+1109,Delhi,New Delhi,Locality C,Independent House,3,1493,141.42,9472.41,2015,Fully-Furnished,6,17,10,7,5,4,0,Gated,Gym,North,Builder,Under Construction
+1110,Karnataka,Bangalore,Locality A,Villa,2,1838,161.76,8800.95,1994,Fully-Furnished,12,18,31,3,4,3,1,CCTV,Clubhouse,West,Builder,Ready to Move
+1111,Karnataka,Mysore,Locality C,Independent House,3,982,83.61,8513.87,2006,Unfurnished,10,6,19,9,8,2,1,Guard,Gym,East,Agent,Ready to Move
+1112,Maharashtra,Pune,Locality A,Villa,5,1057,89.13,8432.78,1998,Semi-Furnished,4,5,27,5,7,1,0,Guard,Pool,East,Agent,Under Construction
+1113,Telangana,Hyderabad,Locality A,Apartment,4,3344,177.61,5311.29,1990,Unfurnished,16,6,35,9,4,1,0,CCTV,None,South,Builder,Under Construction
+1114,Tamil Nadu,Chennai,Locality A,Apartment,3,1667,82.91,4973.68,1993,Semi-Furnished,11,11,32,1,4,1,2,Gated,None,South,Individual,Under Construction
+1115,Delhi,New Delhi,Locality B,Independent House,1,1029,75.33,7320.35,2001,Fully-Furnished,2,21,24,7,6,1,0,Gated,Gym,East,Individual,Under Construction
+1116,Karnataka,Mysore,Locality C,Independent House,3,3708,151.96,4098.08,2015,Fully-Furnished,10,18,10,8,7,4,1,Gated,None,East,Agent,Ready to Move
+1117,Karnataka,Bangalore,Locality B,Villa,2,3718,249.25,6704.0,2013,Unfurnished,12,14,12,6,6,1,1,Gated,Pool,East,Agent,Under Construction
+1118,Telangana,Hyderabad,Locality B,Independent House,1,2348,212.7,9058.66,1995,Unfurnished,8,7,30,1,2,3,0,CCTV,None,West,Builder,Ready to Move
+1119,Tamil Nadu,Chennai,Locality A,Apartment,2,2004,131.07,6540.5,1993,Unfurnished,16,13,32,2,3,4,2,Guard,Pool,East,Individual,Ready to Move
+1120,Tamil Nadu,Coimbatore,Locality C,Apartment,5,859,66.93,7791.34,1999,Fully-Furnished,10,13,26,1,8,1,1,Gated,Clubhouse,South,Agent,Ready to Move
+1121,Delhi,New Delhi,Locality C,Independent House,2,2836,257.19,9068.74,2022,Semi-Furnished,11,10,3,7,7,4,1,Guard,Pool,East,Agent,Ready to Move
+1122,Karnataka,Bangalore,Locality C,Apartment,3,2114,128.65,6085.39,2007,Semi-Furnished,13,11,18,4,6,1,1,None,None,South,Agent,Under Construction
+1123,Telangana,Hyderabad,Locality A,Apartment,4,1227,112.72,9186.86,2012,Unfurnished,8,21,13,1,1,3,0,None,None,East,Agent,Under Construction
+1124,Maharashtra,Pune,Locality B,Villa,4,2855,232.99,8160.77,2018,Fully-Furnished,10,12,7,9,2,2,2,Gated,Pool,South,Individual,Under Construction
+1125,Karnataka,Bangalore,Locality C,Apartment,2,844,80.33,9517.73,2012,Semi-Furnished,18,5,13,4,8,1,0,Gated,None,East,Individual,Under Construction
+1126,Tamil Nadu,Coimbatore,Locality A,Apartment,4,3949,174.43,4417.05,1995,Semi-Furnished,8,22,30,6,1,2,2,Gated,Clubhouse,North,Builder,Under Construction
+1127,Karnataka,Bangalore,Locality A,Independent House,4,1660,74.1,4463.63,1998,Unfurnished,12,17,27,8,3,3,0,None,Clubhouse,East,Individual,Ready to Move
+1128,Tamil Nadu,Chennai,Locality A,Apartment,1,2272,122.89,5409.04,2019,Semi-Furnished,12,21,6,6,3,3,1,Guard,Pool,East,Individual,Under Construction
+1129,Maharashtra,Nagpur,Locality A,Independent House,1,1676,70.53,4208.34,1997,Unfurnished,18,15,28,1,6,4,1,Gated,Gym,West,Agent,Ready to Move
+1130,Karnataka,Mysore,Locality C,Independent House,1,1494,71.45,4782.64,2011,Unfurnished,5,15,14,2,3,4,1,CCTV,None,South,Individual,Under Construction
+1131,Karnataka,Mysore,Locality A,Apartment,5,1691,128.22,7582.59,1990,Semi-Furnished,2,20,35,4,7,3,0,None,Pool,South,Agent,Ready to Move
+1132,Maharashtra,Nagpur,Locality A,Villa,2,1940,118.21,6093.2,1996,Semi-Furnished,7,18,29,1,4,1,0,Gated,Pool,West,Builder,Under Construction
+1133,Telangana,Hyderabad,Locality A,Villa,1,1718,167.09,9726.13,1992,Unfurnished,12,12,33,6,7,3,2,Guard,Gym,West,Builder,Under Construction
+1134,Delhi,New Delhi,Locality B,Independent House,2,1157,109.53,9466.39,2014,Unfurnished,2,8,11,1,5,2,0,Gated,Pool,East,Agent,Under Construction
+1135,Delhi,New Delhi,Locality A,Apartment,1,1409,56.66,4021.64,2005,Semi-Furnished,16,6,20,9,2,3,2,CCTV,Pool,East,Builder,Ready to Move
+1136,Karnataka,Mysore,Locality C,Apartment,2,2688,141.4,5260.32,2014,Fully-Furnished,18,10,11,8,2,3,2,Gated,Gym,South,Builder,Ready to Move
+1137,Telangana,Hyderabad,Locality B,Independent House,3,918,75.42,8215.84,2017,Unfurnished,3,9,8,3,9,2,1,None,None,North,Agent,Under Construction
+1138,Tamil Nadu,Chennai,Locality A,Villa,5,3919,257.48,6570.1,2008,Fully-Furnished,4,16,17,9,6,1,0,CCTV,Clubhouse,South,Individual,Ready to Move
+1139,Telangana,Hyderabad,Locality B,Independent House,4,995,93.37,9384.03,2014,Unfurnished,12,7,11,2,1,3,1,Gated,Gym,North,Agent,Ready to Move
+1140,Delhi,New Delhi,Locality B,Apartment,3,1349,57.36,4252.22,2018,Unfurnished,3,12,7,7,4,4,0,None,Pool,North,Agent,Under Construction
+1141,Karnataka,Bangalore,Locality A,Apartment,3,1021,98.16,9614.03,2006,Fully-Furnished,11,12,19,4,9,2,0,Gated,Pool,South,Builder,Ready to Move
+1142,Delhi,New Delhi,Locality B,Villa,3,1454,124.44,8558.27,2006,Semi-Furnished,11,20,19,7,3,4,2,Guard,None,West,Builder,Ready to Move
+1143,Maharashtra,Mumbai,Locality B,Independent House,2,3430,152.19,4437.0,2013,Semi-Furnished,19,15,12,6,2,3,0,Guard,None,North,Individual,Ready to Move
+1144,Tamil Nadu,Coimbatore,Locality B,Villa,4,2849,114.01,4001.86,2006,Fully-Furnished,10,23,19,8,4,1,1,Gated,Clubhouse,North,Builder,Ready to Move
+1145,Delhi,New Delhi,Locality B,Independent House,4,1116,93.05,8338.21,1999,Fully-Furnished,10,22,26,8,4,2,1,Guard,Gym,South,Individual,Under Construction
+1146,Karnataka,Bangalore,Locality B,Independent House,2,3922,283.95,7240.01,2009,Unfurnished,16,8,16,8,5,1,2,Guard,Gym,West,Agent,Ready to Move
+1147,Maharashtra,Nagpur,Locality B,Apartment,1,2967,235.23,7928.06,2006,Semi-Furnished,6,11,19,3,7,2,1,CCTV,Clubhouse,West,Builder,Ready to Move
+1148,Tamil Nadu,Coimbatore,Locality A,Independent House,2,3719,170.34,4580.14,2019,Semi-Furnished,4,20,6,1,9,3,2,Guard,Pool,South,Individual,Under Construction
+1149,Karnataka,Mysore,Locality C,Apartment,1,3002,190.92,6359.7,2005,Fully-Furnished,8,6,20,9,7,3,1,Guard,Gym,West,Builder,Ready to Move
+1150,Maharashtra,Mumbai,Locality A,Villa,3,3062,282.38,9222.15,2009,Unfurnished,6,15,16,3,1,1,0,CCTV,Clubhouse,South,Agent,Under Construction
+1151,Telangana,Hyderabad,Locality A,Villa,1,1714,100.57,5867.8,2005,Fully-Furnished,18,20,20,8,5,2,0,Gated,Clubhouse,South,Agent,Under Construction
+1152,Maharashtra,Pune,Locality C,Villa,4,1355,100.92,7447.85,2013,Unfurnished,4,17,12,5,4,2,0,None,Pool,West,Individual,Ready to Move
+1153,Tamil Nadu,Chennai,Locality A,Independent House,3,1122,68.26,6084.07,2002,Unfurnished,3,15,23,7,3,4,2,CCTV,Gym,North,Builder,Ready to Move
+1154,Maharashtra,Pune,Locality B,Independent House,1,693,65.32,9424.98,1998,Unfurnished,10,23,27,4,2,3,0,CCTV,None,South,Individual,Under Construction
+1155,Telangana,Hyderabad,Locality B,Villa,4,2655,186.79,7035.5,2003,Semi-Furnished,12,12,22,5,6,3,1,CCTV,None,West,Builder,Under Construction
+1156,Maharashtra,Mumbai,Locality A,Apartment,1,1351,118.68,8784.24,2018,Unfurnished,2,18,7,7,1,3,1,Gated,Gym,North,Agent,Ready to Move
+1157,Tamil Nadu,Chennai,Locality B,Villa,5,3696,236.03,6386.09,1998,Semi-Furnished,4,12,27,2,8,4,2,CCTV,None,South,Individual,Under Construction
+1158,Tamil Nadu,Chennai,Locality A,Independent House,2,3747,205.42,5482.13,2009,Semi-Furnished,3,10,16,1,2,4,0,Gated,Clubhouse,East,Individual,Under Construction
+1159,Maharashtra,Pune,Locality A,Apartment,5,523,50.04,9568.79,2018,Semi-Furnished,3,17,7,4,8,2,0,None,Clubhouse,West,Builder,Under Construction
+1160,Delhi,New Delhi,Locality A,Villa,1,3204,177.43,5537.88,2009,Fully-Furnished,16,7,16,2,9,1,0,None,Gym,North,Agent,Under Construction
+1161,Karnataka,Mysore,Locality A,Independent House,2,953,39.52,4146.98,2002,Unfurnished,3,22,23,6,5,3,2,CCTV,Pool,West,Builder,Under Construction
+1162,Karnataka,Mysore,Locality C,Apartment,1,2767,202.91,7333.04,2010,Semi-Furnished,16,6,15,2,2,2,0,None,None,South,Builder,Ready to Move
+1163,Telangana,Hyderabad,Locality B,Apartment,2,3082,281.5,9133.75,2011,Semi-Furnished,17,9,14,6,5,4,1,Guard,Gym,North,Individual,Ready to Move
+1164,Tamil Nadu,Coimbatore,Locality B,Villa,5,3954,334.71,8465.12,2010,Semi-Furnished,10,7,15,3,9,3,1,Gated,Clubhouse,North,Individual,Ready to Move
+1165,Delhi,New Delhi,Locality C,Villa,1,2263,220.87,9760.2,2020,Fully-Furnished,15,15,5,4,2,2,0,CCTV,Pool,West,Builder,Ready to Move
+1166,Delhi,New Delhi,Locality A,Apartment,1,1569,99.61,6348.62,2014,Semi-Furnished,13,17,11,6,1,4,0,Guard,Pool,East,Builder,Under Construction
+1167,Karnataka,Mysore,Locality B,Villa,1,811,64.21,7917.45,1992,Fully-Furnished,16,11,33,2,6,3,0,None,None,West,Individual,Under Construction
+1168,Telangana,Hyderabad,Locality B,Apartment,2,2309,146.47,6343.37,2018,Unfurnished,7,12,7,2,3,1,2,Guard,Clubhouse,East,Agent,Ready to Move
+1169,Telangana,Hyderabad,Locality A,Apartment,4,3498,348.93,9975.18,2007,Fully-Furnished,10,22,18,6,9,4,0,None,None,North,Individual,Under Construction
+1170,Karnataka,Mysore,Locality B,Independent House,1,1584,128.8,8131.07,2020,Fully-Furnished,19,16,5,3,2,2,2,CCTV,None,South,Agent,Under Construction
+1171,Tamil Nadu,Chennai,Locality B,Apartment,1,1838,159.37,8670.81,1999,Unfurnished,5,20,26,4,9,4,2,Guard,Gym,North,Individual,Under Construction
+1172,Tamil Nadu,Coimbatore,Locality C,Apartment,4,659,37.48,5688.03,2015,Unfurnished,3,20,10,8,6,3,2,Guard,None,North,Agent,Under Construction
+1173,Maharashtra,Mumbai,Locality B,Apartment,5,2576,153.78,5969.87,2014,Unfurnished,17,20,11,8,3,4,0,None,None,North,Individual,Ready to Move
+1174,Delhi,New Delhi,Locality B,Villa,4,3315,233.38,7040.27,1990,Fully-Furnished,10,23,35,4,8,4,0,Gated,None,North,Individual,Under Construction
+1175,Delhi,New Delhi,Locality A,Villa,3,2898,190.96,6589.33,2003,Unfurnished,3,19,22,7,8,1,2,None,None,South,Builder,Under Construction
+1176,Maharashtra,Mumbai,Locality B,Independent House,3,1811,168.87,9324.44,2007,Fully-Furnished,19,9,18,9,2,3,0,CCTV,Gym,East,Builder,Under Construction
+1177,Maharashtra,Pune,Locality B,Villa,4,1591,94.84,5960.92,2016,Unfurnished,8,5,9,9,2,1,1,CCTV,Pool,North,Individual,Under Construction
+1178,Telangana,Hyderabad,Locality B,Apartment,2,2543,139.79,5496.9,2001,Unfurnished,3,6,24,6,3,4,1,None,Pool,East,Individual,Under Construction
+1179,Karnataka,Bangalore,Locality A,Independent House,1,2672,150.85,5645.68,2022,Unfurnished,14,15,3,9,4,2,0,Gated,None,East,Builder,Ready to Move
+1180,Telangana,Hyderabad,Locality B,Independent House,2,876,67.12,7662.17,2010,Semi-Furnished,4,20,15,3,3,4,0,None,Pool,South,Individual,Ready to Move
+1181,Tamil Nadu,Chennai,Locality B,Villa,1,1131,67.29,5949.32,2006,Fully-Furnished,3,6,19,8,6,1,1,None,Pool,South,Agent,Under Construction
+1182,Maharashtra,Pune,Locality C,Villa,4,2394,198.39,8286.98,2017,Semi-Furnished,15,5,8,4,4,2,0,Gated,Gym,West,Builder,Under Construction
+1183,Telangana,Hyderabad,Locality B,Apartment,1,3586,326.96,9117.6,2006,Semi-Furnished,7,9,19,6,5,2,0,None,None,East,Individual,Ready to Move
+1184,Delhi,New Delhi,Locality C,Apartment,4,1980,157.42,7950.55,2019,Semi-Furnished,6,6,6,7,6,3,0,None,None,North,Agent,Ready to Move
+1185,Karnataka,Mysore,Locality A,Villa,5,1387,99.76,7192.21,2010,Semi-Furnished,8,9,15,8,8,3,2,CCTV,Gym,South,Builder,Ready to Move
+1186,Telangana,Hyderabad,Locality A,Villa,1,1086,52.27,4813.27,2001,Unfurnished,11,20,24,2,5,4,0,Guard,Gym,South,Agent,Ready to Move
+1187,Karnataka,Bangalore,Locality A,Apartment,1,3335,260.36,7806.88,2012,Fully-Furnished,7,23,13,3,7,2,1,Gated,None,South,Builder,Ready to Move
+1188,Tamil Nadu,Coimbatore,Locality A,Villa,1,1958,106.8,5454.5,2022,Unfurnished,6,15,3,3,4,2,2,None,Pool,South,Individual,Under Construction
+1189,Maharashtra,Pune,Locality A,Villa,1,1198,88.03,7347.95,2011,Fully-Furnished,1,19,14,4,5,1,1,None,None,West,Agent,Under Construction
+1190,Karnataka,Bangalore,Locality C,Apartment,2,2362,200.75,8499.04,2011,Semi-Furnished,12,24,14,4,1,2,0,CCTV,Clubhouse,South,Builder,Ready to Move
+1191,Telangana,Hyderabad,Locality B,Villa,4,612,37.65,6151.87,2022,Fully-Furnished,1,24,3,2,2,1,2,None,Clubhouse,South,Individual,Under Construction
+1192,Tamil Nadu,Coimbatore,Locality B,Villa,1,1937,166.22,8581.24,2002,Unfurnished,12,18,23,9,5,2,2,Gated,Clubhouse,West,Builder,Under Construction
+1193,Karnataka,Mysore,Locality A,Apartment,4,1982,121.35,6122.78,1995,Semi-Furnished,4,18,30,6,6,1,0,None,Pool,North,Agent,Ready to Move
+1194,Delhi,New Delhi,Locality A,Villa,5,2267,117.78,5195.45,2014,Semi-Furnished,18,15,11,8,1,2,2,Gated,Gym,South,Individual,Under Construction
+1195,Maharashtra,Nagpur,Locality C,Apartment,4,3598,301.2,8371.39,2007,Semi-Furnished,3,5,18,9,6,1,1,Guard,Gym,East,Individual,Under Construction
+1196,Maharashtra,Mumbai,Locality C,Apartment,2,3576,315.96,8835.58,2011,Fully-Furnished,10,14,14,8,6,3,2,CCTV,Gym,North,Individual,Ready to Move
+1197,Telangana,Hyderabad,Locality C,Independent House,4,687,64.85,9440.01,2004,Semi-Furnished,17,6,21,6,1,2,0,None,None,South,Builder,Ready to Move
+1198,Delhi,New Delhi,Locality C,Independent House,5,2095,189.11,9026.95,1997,Fully-Furnished,14,11,28,5,7,3,0,None,Clubhouse,South,Builder,Under Construction
+1199,Karnataka,Bangalore,Locality B,Villa,3,1079,80.6,7469.52,2000,Fully-Furnished,18,18,25,3,6,2,0,None,Clubhouse,West,Agent,Ready to Move
+1200,Tamil Nadu,Coimbatore,Locality A,Apartment,2,2202,140.28,6370.75,2018,Semi-Furnished,7,20,7,9,1,2,2,CCTV,Clubhouse,East,Builder,Under Construction
